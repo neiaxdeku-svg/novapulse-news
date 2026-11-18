@@ -1,11 +1,76 @@
 {
-  "updatedAt": "2026-11-18T08:52:55.904Z",
+  "updatedAt": "2026-11-18T12:56:18.752Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50545238",
+      "title": "Evidence (YC S21) Is Hiring",
+      "summary": "Discussion with 1 upvotes and 0 comments on Hacker News.",
+      "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T12:00:16.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 1
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S....",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-18T11:30:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly....",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-18T11:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50543989",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "summary": "Discussion with 100 upvotes and 14 comments on Hacker News.",
+      "url": "https://energy-based-reasoners.github.io/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T09:29:32.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 100
+    },
+    {
+      "id": "devto-5060452",
+      "title": "Is Coding with AI Actually Faster and Cheaper?",
+      "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
+      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-18T08:32:45Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
+      "readTime": "6 min read",
+      "reactions": 55
+    },
+    {
       "id": "hn-50543343",
       "title": "Talos Linux",
-      "summary": "Discussion with 5 upvotes and 0 comments on Hacker News.",
+      "summary": "Discussion with 82 upvotes and 39 comments on Hacker News.",
       "url": "https://www.siderolabs.com/talos-linux",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,59 +78,20 @@
       "publishedAt": "2026-11-18T08:17:44.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 5
+      "reactions": 82
     },
     {
-      "id": "hn-50542863",
-      "title": "Australia's full national topographic library at your fingertips",
-      "summary": "Discussion with 12 upvotes and 6 comments on Hacker News.",
-      "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+      "id": "hn-50541790",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "summary": "Discussion with 152 upvotes and 75 comments on Hacker News.",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T07:10:46.000Z",
+      "publishedAt": "2026-11-18T04:14:04.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 12
-    },
-    {
-      "id": "hn-50542705",
-      "title": "AI is killing All About Berlin",
-      "summary": "Discussion with 242 upvotes and 198 comments on Hacker News.",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T06:47:26.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 242
-    },
-    {
-      "id": "hn-50542264",
-      "title": "Why Fibonacci?",
-      "summary": "Discussion with 27 upvotes and 2 comments on Hacker News.",
-      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T05:35:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 27
-    },
-    {
-      "id": "hn-50542135",
-      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-      "summary": "Discussion with 334 upvotes and 79 comments on Hacker News.",
-      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "startups",
-      "publishedAt": "2026-11-18T05:11:30.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 334
+      "reactions": 152
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -83,7 +109,7 @@
     {
       "id": "hn-50540437",
       "title": "ID.me terms required for IRS sign-in",
-      "summary": "Discussion with 343 upvotes and 147 comments on Hacker News.",
+      "summary": "Discussion with 388 upvotes and 181 comments on Hacker News.",
       "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,12 +117,12 @@
       "publishedAt": "2026-11-18T00:51:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 343
+      "reactions": 388
     },
     {
       "id": "hn-50540178",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Discussion with 350 upvotes and 268 comments on Hacker News.",
+      "summary": "Discussion with 497 upvotes and 367 comments on Hacker News.",
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -104,7 +130,7 @@
       "publishedAt": "2026-11-18T00:17:58.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 350
+      "reactions": 497
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -147,8 +173,8 @@
     },
     {
       "id": "hn-50539747",
-      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "summary": "Discussion with 184 upvotes and 62 comments on Hacker News.",
+      "title": "Archive Team is archiving the Apple Support Community",
+      "summary": "Discussion with 218 upvotes and 84 comments on Hacker News.",
       "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -156,12 +182,12 @@
       "publishedAt": "2026-11-17T23:32:58.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 184
+      "reactions": 218
     },
     {
       "id": "hn-50539610",
       "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "summary": "Discussion with 306 upvotes and 66 comments on Hacker News.",
+      "summary": "Discussion with 364 upvotes and 77 comments on Hacker News.",
       "url": "https://github.com/microsoft/onnxruntime",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -169,7 +195,7 @@
       "publishedAt": "2026-11-17T23:18:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 306
+      "reactions": 364
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -213,7 +239,7 @@
     {
       "id": "hn-50538994",
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "summary": "Discussion with 552 upvotes and 172 comments on Hacker News.",
+      "summary": "Discussion with 709 upvotes and 279 comments on Hacker News.",
       "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -221,7 +247,7 @@
       "publishedAt": "2026-11-17T22:13:34.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 552
+      "reactions": 709
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -237,22 +263,9 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually....",
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T21:34:50.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
       "id": "hn-50538240",
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "summary": "Discussion with 902 upvotes and 230 comments on Hacker News.",
+      "summary": "Discussion with 1012 upvotes and 264 comments on Hacker News.",
       "url": "https://calif.io/java4shell/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -260,38 +273,25 @@
       "publishedAt": "2026-11-17T21:11:28.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 902
+      "reactions": 1012
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Waymo suspends freeway rides nationwide after California DMV order",
-      "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective correc...",
-      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T19:49:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50535230",
-      "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Discussion with 1256 upvotes and 775 comments on Hacker News.",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "id": "hn-50535885",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "summary": "Discussion with 380 upvotes and 155 comments on Hacker News.",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "ai",
-      "publishedAt": "2026-11-17T17:46:43.000Z",
+      "publishedAt": "2026-11-17T18:25:13.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1256
+      "reactions": 380
     },
     {
       "id": "hn-50534631",
       "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "summary": "Discussion with 523 upvotes and 239 comments on Hacker News.",
+      "summary": "Discussion with 591 upvotes and 267 comments on Hacker News.",
       "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -299,7 +299,7 @@
       "publishedAt": "2026-11-17T17:12:06.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 523
+      "reactions": 591
     },
     {
       "id": "devto-5058432",
@@ -312,12 +312,12 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 30
+      "reactions": 34
     },
     {
       "id": "hn-50532849",
       "title": "Highly classified US national security communications network goes down",
-      "summary": "Discussion with 567 upvotes and 653 comments on Hacker News.",
+      "summary": "Discussion with 614 upvotes and 697 comments on Hacker News.",
       "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -325,7 +325,7 @@
       "publishedAt": "2026-11-17T15:38:28.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 567
+      "reactions": 614
     },
     {
       "id": "devto-5015822",
@@ -338,7 +338,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 46
+      "reactions": 53
     },
     {
       "id": "devto-5054249",
@@ -354,19 +354,6 @@
       "reactions": 16
     },
     {
-      "id": "devto-5007369",
-      "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
-      "summary": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
-      "url": "https://dev.to/heinrichneb/my-ai-agent-kept-quoting-a-number-i-had-already-corrected-what-has-yours-remembered-wrong-34d0",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-16T22:55:58Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cwto9v5xn9emamdwcf0.jpg",
-      "readTime": "1 min read",
-      "reactions": 24
-    },
-    {
       "id": "devto-5043905",
       "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
       "summary": "Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The top setting cost 2.6 to 4.8 times as much on every paid model; Hydrogen, Carbon and Argon solved all 15 at either setting, and no score change was large enough to rule out chance on 15 problems.",
@@ -378,6 +365,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemini-high-vs-low%2Fdevto-cover.8e6eb323.jpg",
       "readTime": "11 min read",
       "reactions": 27
+    },
+    {
+      "id": "hn-50517929",
+      "title": "My Emacs 31 contributions",
+      "summary": "Discussion with 48 upvotes and 4 comments on Hacker News.",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-16T14:26:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 48
     },
     {
       "id": "devto-5004164",
@@ -393,17 +393,17 @@
       "reactions": 55
     },
     {
-      "id": "hn-50507474",
-      "title": "Alkaline batteries are obsolete – but not for the reason you'd think [video]",
-      "summary": "Discussion with 6 upvotes and 0 comments on Hacker News.",
-      "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA",
+      "id": "hn-50504373",
+      "title": "A Perfect SimCity",
+      "summary": "Discussion with 41 upvotes and 5 comments on Hacker News.",
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-15T15:13:10.000Z",
+      "publishedAt": "2026-11-15T05:54:22.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 6
+      "reactions": 41
     },
     {
       "id": "devto-5039203",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-11-15T04:00:28Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytd9i1woob1euwni30yg.png",
       "readTime": "9 min read",
-      "reactions": 67
+      "reactions": 69
     },
     {
       "id": "devto-5032399",
@@ -442,7 +442,7 @@
       "publishedAt": "2026-11-13T17:48:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo095420vidmninm8id0y.png",
       "readTime": "6 min read",
-      "reactions": 52
+      "reactions": 54
     },
     {
       "id": "devto-5031066",
@@ -481,7 +481,7 @@
       "publishedAt": "2026-11-13T11:05:50Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffppaetfto55zr1p16o7g.png",
       "readTime": "6 min read",
-      "reactions": 105
+      "reactions": 106
     },
     {
       "id": "devto-5026042",
@@ -520,7 +520,7 @@
       "publishedAt": "2026-11-12T15:35:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6csfx8i2kft82mrqhcj6.png",
       "readTime": "8 min read",
-      "reactions": 56
+      "reactions": 57
     },
     {
       "id": "devto-5024286",
@@ -546,7 +546,7 @@
       "publishedAt": "2026-11-12T08:14:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ajaeuift6x1wfndpe9s.png",
       "readTime": "13 min read",
-      "reactions": 211
+      "reactions": 212
     },
     {
       "id": "devto-5020733",
