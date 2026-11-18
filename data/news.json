@@ -1,24 +1,89 @@
 {
-  "updatedAt": "2026-11-18T05:38:16.551Z",
+  "updatedAt": "2026-11-18T08:52:55.904Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50541538",
-      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
-      "summary": "Discussion with 1 upvotes and 0 comments on Hacker News.",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+      "id": "hn-50543343",
+      "title": "Talos Linux",
+      "summary": "Discussion with 5 upvotes and 0 comments on Hacker News.",
+      "url": "https://www.siderolabs.com/talos-linux",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T03:35:47.000Z",
+      "publishedAt": "2026-11-18T08:17:44.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1
+      "reactions": 5
+    },
+    {
+      "id": "hn-50542863",
+      "title": "Australia's full national topographic library at your fingertips",
+      "summary": "Discussion with 12 upvotes and 6 comments on Hacker News.",
+      "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T07:10:46.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 12
+    },
+    {
+      "id": "hn-50542705",
+      "title": "AI is killing All About Berlin",
+      "summary": "Discussion with 242 upvotes and 198 comments on Hacker News.",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-18T06:47:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 242
+    },
+    {
+      "id": "hn-50542264",
+      "title": "Why Fibonacci?",
+      "summary": "Discussion with 27 upvotes and 2 comments on Hacker News.",
+      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T05:35:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 27
+    },
+    {
+      "id": "hn-50542135",
+      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "summary": "Discussion with 334 upvotes and 79 comments on Hacker News.",
+      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "startups",
+      "publishedAt": "2026-11-18T05:11:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 334
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfol...",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "startups",
+      "publishedAt": "2026-11-18T01:44:21.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
     },
     {
       "id": "hn-50540437",
       "title": "ID.me terms required for IRS sign-in",
-      "summary": "Discussion with 247 upvotes and 106 comments on Hacker News.",
+      "summary": "Discussion with 343 upvotes and 147 comments on Hacker News.",
       "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,12 +91,12 @@
       "publishedAt": "2026-11-18T00:51:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 247
+      "reactions": 343
     },
     {
       "id": "hn-50540178",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Discussion with 243 upvotes and 165 comments on Hacker News.",
+      "summary": "Discussion with 350 upvotes and 268 comments on Hacker News.",
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,124 +104,33 @@
       "publishedAt": "2026-11-18T00:17:58.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 243
+      "reactions": 350
     },
     {
-      "id": "hn-50539747",
-      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "summary": "Discussion with 146 upvotes and 51 comments on Hacker News.",
-      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-17T23:32:58.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 146
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to ...",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "startups",
+      "publishedAt": "2026-11-18T00:16:50.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
     },
     {
-      "id": "hn-50539610",
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "summary": "Discussion with 219 upvotes and 54 comments on Hacker News.",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report....",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
       "category": "dev",
-      "publishedAt": "2026-11-17T23:18:49.000Z",
+      "publishedAt": "2026-11-18T00:01:00.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 219
-    },
-    {
-      "id": "hn-50538994",
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "summary": "Discussion with 407 upvotes and 129 comments on Hacker News.",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T22:13:34.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 407
-    },
-    {
-      "id": "hn-50538303",
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Discussion with 123 upvotes and 174 comments on Hacker News.",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T21:16:12.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 123
-    },
-    {
-      "id": "hn-50538240",
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "summary": "Discussion with 700 upvotes and 187 comments on Hacker News.",
-      "url": "https://calif.io/java4shell/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T21:11:28.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 700
-    },
-    {
-      "id": "hn-50537156",
-      "title": "jQuery 4.1.0",
-      "summary": "Discussion with 285 upvotes and 153 comments on Hacker News.",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T19:50:40.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 285
-    },
-    {
-      "id": "hn-50536813",
-      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-      "summary": "Discussion with 292 upvotes and 85 comments on Hacker News.",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T19:25:27.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 292
-    },
-    {
-      "id": "hn-50535992",
-      "title": "Phrack 73 Released",
-      "summary": "Discussion with 337 upvotes and 49 comments on Hacker News.",
-      "url": "https://phrack.org/issues/73/introduction_md",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T18:31:25.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 337
-    },
-    {
-      "id": "hn-50535885",
-      "title": "MAI Code 2 and Code 2 Flash",
-      "summary": "Discussion with 322 upvotes and 144 comments on Hacker News.",
-      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T18:25:13.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 322
+      "readTime": "5 min read",
+      "reactions": 100
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -166,33 +140,46 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
       "category": "gadgets",
-      "publishedAt": "2026-11-17T18:07:48.000Z",
+      "publishedAt": "2026-11-17T23:37:48.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
     },
     {
-      "id": "hn-50535230",
-      "title": "GPT‑6.2 Astra and Sol",
-      "summary": "Discussion with 1183 upvotes and 743 comments on Hacker News.",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "id": "hn-50539747",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "summary": "Discussion with 184 upvotes and 62 comments on Hacker News.",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T17:46:43.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "category": "gadgets",
+      "publishedAt": "2026-11-17T23:32:58.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1183
+      "reactions": 184
+    },
+    {
+      "id": "hn-50539610",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "summary": "Discussion with 306 upvotes and 66 comments on Hacker News.",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T23:18:49.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 306
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure....",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure....",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
       "category": "ai",
-      "publishedAt": "2026-11-17T17:34:35.000Z",
+      "publishedAt": "2026-11-17T23:04:35.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
@@ -205,23 +192,10 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
       "category": "gadgets",
-      "publishedAt": "2026-11-17T17:12:27.000Z",
+      "publishedAt": "2026-11-17T22:42:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50534631",
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "summary": "Discussion with 465 upvotes and 220 comments on Hacker News.",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "startups",
-      "publishedAt": "2026-11-17T17:12:06.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 465
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -231,10 +205,23 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
       "category": "startups",
-      "publishedAt": "2026-11-17T16:59:05.000Z",
+      "publishedAt": "2026-11-17T22:29:05.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
+    },
+    {
+      "id": "hn-50538994",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "summary": "Discussion with 552 upvotes and 172 comments on Hacker News.",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T22:13:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 552
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -244,7 +231,7 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
       "category": "ai",
-      "publishedAt": "2026-11-17T16:18:07.000Z",
+      "publishedAt": "2026-11-17T21:48:07.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
@@ -257,10 +244,62 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com",
       "category": "ai",
-      "publishedAt": "2026-11-17T16:04:50.000Z",
+      "publishedAt": "2026-11-17T21:34:50.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
+    },
+    {
+      "id": "hn-50538240",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "summary": "Discussion with 902 upvotes and 230 comments on Hacker News.",
+      "url": "https://calif.io/java4shell/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T21:11:28.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 902
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective correc...",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-17T19:49:41.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50535230",
+      "title": "GPT‑6.2 Astra and Sol",
+      "summary": "Discussion with 1256 upvotes and 775 comments on Hacker News.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-17T17:46:43.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 1256
+    },
+    {
+      "id": "hn-50534631",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "summary": "Discussion with 523 upvotes and 239 comments on Hacker News.",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "startups",
+      "publishedAt": "2026-11-17T17:12:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 523
     },
     {
       "id": "devto-5058432",
@@ -273,12 +312,12 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 23
+      "reactions": 30
     },
     {
       "id": "hn-50532849",
       "title": "Highly classified US national security communications network goes down",
-      "summary": "Discussion with 532 upvotes and 611 comments on Hacker News.",
+      "summary": "Discussion with 567 upvotes and 653 comments on Hacker News.",
       "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,59 +325,7 @@
       "publishedAt": "2026-11-17T15:38:28.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 532
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Waymo suspends freeway rides nationwide after California DMV order",
-      "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective correc...",
-      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T14:19:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when ne...",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T14:02:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf....",
-      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T13:32:20.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
-      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause....",
-      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-17T13:25:40.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 567
     },
     {
       "id": "devto-5015822",
@@ -351,7 +338,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 42
+      "reactions": 46
     },
     {
       "id": "devto-5054249",
@@ -377,7 +364,7 @@
       "publishedAt": "2026-11-16T22:55:58Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cwto9v5xn9emamdwcf0.jpg",
       "readTime": "1 min read",
-      "reactions": 19
+      "reactions": 24
     },
     {
       "id": "devto-5043905",
@@ -406,6 +393,19 @@
       "reactions": 55
     },
     {
+      "id": "hn-50507474",
+      "title": "Alkaline batteries are obsolete – but not for the reason you'd think [video]",
+      "summary": "Discussion with 6 upvotes and 0 comments on Hacker News.",
+      "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-15T15:13:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 6
+    },
+    {
       "id": "devto-5039203",
       "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
       "summary": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026.   TL;DR: For NASA...",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-11-15T04:00:28Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytd9i1woob1euwni30yg.png",
       "readTime": "9 min read",
-      "reactions": 66
+      "reactions": 67
     },
     {
       "id": "devto-5032399",
@@ -442,7 +442,7 @@
       "publishedAt": "2026-11-13T17:48:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo095420vidmninm8id0y.png",
       "readTime": "6 min read",
-      "reactions": 50
+      "reactions": 52
     },
     {
       "id": "devto-5031066",
@@ -455,7 +455,7 @@
       "publishedAt": "2026-11-13T16:49:06Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg",
       "readTime": "9 min read",
-      "reactions": 41
+      "reactions": 42
     },
     {
       "id": "devto-5025610",
@@ -468,7 +468,7 @@
       "publishedAt": "2026-11-13T15:56:26Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg9n66rugp217ye18xdzh.png",
       "readTime": "4 min read",
-      "reactions": 113
+      "reactions": 116
     },
     {
       "id": "devto-5017532",
@@ -481,7 +481,7 @@
       "publishedAt": "2026-11-13T11:05:50Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffppaetfto55zr1p16o7g.png",
       "readTime": "6 min read",
-      "reactions": 102
+      "reactions": 105
     },
     {
       "id": "devto-5026042",
@@ -520,7 +520,7 @@
       "publishedAt": "2026-11-12T15:35:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6csfx8i2kft82mrqhcj6.png",
       "readTime": "8 min read",
-      "reactions": 55
+      "reactions": 56
     },
     {
       "id": "devto-5024286",
@@ -546,7 +546,7 @@
       "publishedAt": "2026-11-12T08:14:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ajaeuift6x1wfndpe9s.png",
       "readTime": "13 min read",
-      "reactions": 206
+      "reactions": 211
     },
     {
       "id": "devto-5020733",
@@ -585,7 +585,7 @@
       "publishedAt": "2026-11-11T20:51:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
       "readTime": "3 min read",
-      "reactions": 28
+      "reactions": 33
     },
     {
       "id": "devto-5018163",
@@ -624,7 +624,7 @@
       "publishedAt": "2026-11-11T08:35:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjm7bc53mhi6cxl48ue89.png",
       "readTime": "12 min read",
-      "reactions": 114
+      "reactions": 115
     },
     {
       "id": "devto-4982713",
@@ -715,7 +715,7 @@
       "publishedAt": "2026-11-08T18:46:19Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fazelianouski.dev%2Fimages%2Fwerewolf-costs-intro.jpg",
       "readTime": "18 min read",
-      "reactions": 91
+      "reactions": 98
     }
   ]
 }
