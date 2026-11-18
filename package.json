@@ -1,0 +1,13 @@
+{
+  "name": "novapulse-news",
+  "version": "1.0.0",
+  "description": "Autonomous Tech & AI Live News Portal",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch-news.mjs",
+    "serve": "python3 -m http.server 3000"
+  },
+  "keywords": ["news", "ai", "tech", "aggregator", "automation"],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>NovaPulse — Live Tech & AI News</title>
+  <meta name="description" content="Real-time automated intelligence on Artificial Intelligence, Software Engineering, Startups, and Cybersecurity.">
+  
+  <!-- OpenGraph / Social preview -->
+  <meta property="og:title" content="NovaPulse — Live Tech & AI News">
+  <meta property="og:description" content="Autonomous real-time news radar tracking technology breakthroughs and AI developments.">
+  <meta property="og:type" content="website">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#eff6ff',
+              100: '#dbeafe',
+              500: '#3b82f6',
+              600: '#2563eb',
+              700: '#1d4ed8',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans antialiased selection:bg-brand-500 selection:text-white transition-colors duration-200">
+
+  <!-- Top Announcement Bar -->
+  <aside class="bg-gradient-to-r from-brand-700 via-indigo-600 to-purple-600 text-white text-xs py-2 px-4 text-center font-medium flex items-center justify-center gap-2">
+    <span class="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+    <span>Autonomous Live News Feed Active — Sourced directly from Dev Community, Hacker News, Reddit & TechCrunch</span>
+  </aside>
+
+  <!-- Sticky Navbar -->
+  <header class="sticky top-0 z-40 bg-slate-950/85 backdrop-blur-md border-b border-slate-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
+      <!-- Brand Logo -->
+      <a href="#" class="flex items-center gap-2.5 shrink-0 group">
+        <div class="w-9 h-9 rounded-xl bg-gradient-to-tr from-brand-600 to-indigo-500 flex items-center justify-center text-white shadow-lg shadow-brand-500/20 group-hover:scale-105 transition">
+          <i data-lucide="radio" class="w-5 h-5"></i>
+        </div>
+        <div>
+          <span class="text-lg font-black tracking-tight text-white group-hover:text-brand-400 transition">Nova<span class="text-brand-500">Pulse</span></span>
+          <span class="hidden sm:inline-block text-[10px] uppercase font-bold tracking-widest text-slate-400 ml-1.5 px-1.5 py-0.5 rounded bg-slate-900 border border-slate-800">Radar</span>
+        </div>
+      </a>
+
+      <!-- Search Bar -->
+      <div class="flex-1 max-w-md hidden md:block">
+        <div class="relative">
+          <i data-lucide="search" class="w-4 h-4 text-slate-500 absolute left-3.5 top-1/2 -translate-y-1/2"></i>
+          <input id="searchInput" type="text" placeholder="Search news by topic, title, or source..." class="w-full pl-10 pr-4 py-2 bg-slate-900/90 border border-slate-800 rounded-xl text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-brand-500 transition">
+        </div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="flex items-center gap-2 sm:gap-3">
+        <!-- Live status & refresh -->
+        <button id="refreshBtn" class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 hover:border-slate-700 text-xs font-medium text-slate-300 hover:text-white transition">
+          <i data-lucide="refresh-cw" id="refreshIcon" class="w-3.5 h-3.5 text-brand-400"></i>
+          <span class="hidden sm:inline">Refresh</span>
+        </button>
+
+        <!-- Bookmarks button -->
+        <button id="bookmarksBtn" class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 hover:border-slate-700 text-xs font-medium text-slate-300 hover:text-white transition relative">
+          <i data-lucide="bookmark" class="w-3.5 h-3.5 text-amber-400"></i>
+          <span class="hidden sm:inline">Saved</span>
+          <span id="bookmarkCountBadge" class="w-4 h-4 rounded-full bg-brand-600 text-white text-[10px] flex items-center justify-center font-bold">0</span>
+        </button>
+
+        <!-- Dark/Light Theme toggle -->
+        <button id="themeToggleBtn" title="Toggle Theme" class="p-2 rounded-xl bg-slate-900 border border-slate-800 text-slate-400 hover:text-white transition">
+          <i data-lucide="sun" class="w-4 h-4 hidden dark:block"></i>
+          <i data-lucide="moon" class="w-4 h-4 block dark:hidden"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile Search input -->
+    <div class="px-4 pb-3 md:hidden">
+      <div class="relative">
+        <i data-lucide="search" class="w-4 h-4 text-slate-500 absolute left-3.5 top-1/2 -translate-y-1/2"></i>
+        <input id="mobileSearchInput" type="text" placeholder="Search news..." class="w-full pl-10 pr-4 py-2 bg-slate-900 border border-slate-800 rounded-xl text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-brand-500 transition">
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-8">
+
+    <!-- Categories Nav -->
+    <section class="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none">
+      <button data-category="all" class="category-pill active-category px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold whitespace-nowrap transition">
+        ⚡ All Stories
+      </button>
+      <button data-category="ai" class="category-pill px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold whitespace-nowrap transition">
+        🤖 AI & Neural Nets
+      </button>
+      <button data-category="dev" class="category-pill px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold whitespace-nowrap transition">
+        💻 Software & Code
+      </button>
+      <button data-category="startups" class="category-pill px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold whitespace-nowrap transition">
+        🚀 Startups & VC
+      </button>
+      <button data-category="cybersecurity" class="category-pill px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold whitespace-nowrap transition">
+        🛡️ Cybersecurity
+      </button>
+      <button data-category="gadgets" class="category-pill px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold whitespace-nowrap transition">
+        📱 Gadgets & Hardware
+      </button>
+    </section>
+
+    <!-- Hero / Featured Story Banner -->
+    <section id="heroSection" class="relative overflow-hidden rounded-3xl bg-slate-900 border border-slate-800 shadow-xl transition">
+      <!-- Injected via JavaScript -->
+    </section>
+
+    <!-- News Grid Header -->
+    <div class="flex items-center justify-between border-b border-slate-800/80 pb-4">
+      <div>
+        <h2 id="feedHeading" class="text-xl sm:text-2xl font-bold text-white tracking-tight">Latest Headlines</h2>
+        <p id="feedSubheading" class="text-xs text-slate-400 mt-0.5">Showing verified news from top global tech feeds</p>
+      </div>
+      <div class="flex items-center gap-2 text-xs text-slate-400 font-mono">
+        <i data-lucide="clock" class="w-3.5 h-3.5 text-brand-400"></i>
+        <span id="lastUpdatedLabel">Updated just now</span>
+      </div>
+    </div>
+
+    <!-- News Grid -->
+    <section id="newsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Loading skeletons initially -->
+      <div class="p-4 rounded-2xl bg-slate-900 border border-slate-800 animate-pulse h-80"></div>
+      <div class="p-4 rounded-2xl bg-slate-900 border border-slate-800 animate-pulse h-80"></div>
+      <div class="p-4 rounded-2xl bg-slate-900 border border-slate-800 animate-pulse h-80"></div>
+    </section>
+
+  </main>
+
+  <!-- Article Reader Modal -->
+  <div id="readerModal" class="fixed inset-0 z-50 bg-black/80 backdrop-blur-md hidden flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-800 rounded-3xl max-w-2xl w-full max-h-[90vh] overflow-y-auto p-6 sm:p-8 shadow-2xl relative">
+      <button id="closeReaderBtn" class="absolute top-5 right-5 p-2 rounded-xl bg-slate-800 text-slate-400 hover:text-white transition">
+        <i data-lucide="x" class="w-5 h-5"></i>
+      </button>
+      <div id="readerContent" class="space-y-4">
+        <!-- Populated via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Bookmarks Drawer Modal -->
+  <div id="bookmarksModal" class="fixed inset-0 z-50 bg-black/80 backdrop-blur-md hidden flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-800 rounded-3xl max-w-xl w-full max-h-[85vh] flex flex-col shadow-2xl relative p-6">
+      <div class="flex items-center justify-between pb-4 border-b border-slate-800 mb-4">
+        <div class="flex items-center gap-2">
+          <i data-lucide="bookmark" class="w-5 h-5 text-amber-400"></i>
+          <h3 class="text-lg font-bold text-white">Saved Stories</h3>
+        </div>
+        <button id="closeBookmarksBtn" class="p-1.5 rounded-lg text-slate-400 hover:text-white transition">
+          <i data-lucide="x" class="w-5 h-5"></i>
+        </button>
+      </div>
+      <div id="bookmarksList" class="flex-1 overflow-y-auto space-y-3">
+        <!-- Populated via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-900 bg-slate-950/80 py-10 mt-16 text-center text-xs text-slate-500 space-y-2">
+    <div class="flex items-center justify-center gap-2 font-semibold text-slate-300">
+      <span>NovaPulse Autonomous News Radar</span>
+    </div>
+    <p>Continuously aggregates, analyzes, and categorizes verified technology and AI intelligence.</p>
+    <p>Ready for 100% free hosting on <a href="https://vercel.com" target="_blank" class="text-brand-400 underline">Vercel</a> or <a href="https://netlify.com" target="_blank" class="text-brand-400 underline">Netlify</a>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
