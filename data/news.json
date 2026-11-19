@@ -1,37 +1,76 @@
 {
-  "updatedAt": "2026-11-19T00:54:33.453Z",
+  "updatedAt": "2026-11-19T06:59:17.837Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50554374",
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "summary": "Discussion with 5 upvotes and 0 comments on Hacker News.",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "id": "hn-50556533",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "summary": "Discussion with 14 upvotes and 1 comments on Hacker News.",
+      "url": "https://kapteko.com/15-million-webservers/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-19T00:29:45.000Z",
+      "publishedAt": "2026-11-19T05:56:36.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 5
+      "reactions": 14
     },
     {
-      "id": "hn-50554045",
-      "title": "We need smart people who give a shit",
-      "summary": "Discussion with 169 upvotes and 82 comments on Hacker News.",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "id": "devto-5069884",
+      "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+      "summary": "Know When to Walk Away  The Thirty-Six Stratagems, Stratagem 36               Open as Usual   When...",
+      "url": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-19T03:35:10Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
+      "readTime": "11 min read",
+      "reactions": 55
+    },
+    {
+      "id": "hn-50554935",
+      "title": "Unreal Tournament 2004 in the Browser",
+      "summary": "Discussion with 132 upvotes and 58 comments on Hacker News.",
+      "url": "https://ut2004.dev/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T23:53:49.000Z",
+      "publishedAt": "2026-11-19T01:29:29.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 169
+      "reactions": 132
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce ...",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T00:42:56.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolis...",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T00:40:49.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
     },
     {
       "id": "hn-50554038",
       "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "summary": "Discussion with 30 upvotes and 2 comments on Hacker News.",
+      "summary": "Discussion with 195 upvotes and 62 comments on Hacker News.",
       "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,33 +78,20 @@
       "publishedAt": "2026-11-18T23:52:50.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 30
+      "reactions": 195
     },
     {
-      "id": "hn-50554010",
-      "title": "Software companies are trying to kill home computing",
-      "summary": "Discussion with 71 upvotes and 29 comments on Hacker News.",
-      "url": "https://lateblt.livejournal.com/526188.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T23:49:18.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 71
-    },
-    {
-      "id": "hn-50553843",
-      "title": "Anthropic prices initial public offering",
-      "summary": "Discussion with 15 upvotes and 2 comments on Hacker News.",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T23:30:09.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 15
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world....",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-18T23:45:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -109,7 +135,7 @@
     {
       "id": "hn-50553225",
       "title": "LLM assisted reverse engineering",
-      "summary": "Discussion with 38 upvotes and 6 comments on Hacker News.",
+      "summary": "Discussion with 156 upvotes and 38 comments on Hacker News.",
       "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -117,11 +143,11 @@
       "publishedAt": "2026-11-18T22:29:13.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 38
+      "reactions": 156
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis....",
       "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch",
@@ -174,7 +200,7 @@
     {
       "id": "hn-50552424",
       "title": "Gemini 4 Neon",
-      "summary": "Discussion with 394 upvotes and 372 comments on Hacker News.",
+      "summary": "Discussion with 702 upvotes and 592 comments on Hacker News.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -182,51 +208,12 @@
       "publishedAt": "2026-11-18T21:34:07.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 394
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang....",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T21:31:21.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said....",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T20:07:01.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says....",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T19:56:39.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 702
     },
     {
       "id": "hn-50551046",
       "title": "DaisyRose-27B",
-      "summary": "Discussion with 129 upvotes and 33 comments on Hacker News.",
+      "summary": "Discussion with 184 upvotes and 59 comments on Hacker News.",
       "url": "https://www.radixark.com/blog/daisyrose-27b",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -234,7 +221,20 @@
       "publishedAt": "2026-11-18T19:39:16.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 129
+      "reactions": 184
+    },
+    {
+      "id": "hn-50550415",
+      "title": "Genie 4 is now available",
+      "summary": "Discussion with 231 upvotes and 156 comments on Hacker News.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-18T18:49:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 231
     },
     {
       "id": "devto-5059675",
@@ -247,25 +247,12 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 59
-    },
-    {
-      "id": "hn-50549493",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "Discussion with 157 upvotes and 97 comments on Hacker News.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T17:45:47.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 157
+      "reactions": 65
     },
     {
       "id": "hn-50548021",
       "title": "Seven new models at scalable price-performance",
-      "summary": "Discussion with 440 upvotes and 303 comments on Hacker News.",
+      "summary": "Discussion with 510 upvotes and 336 comments on Hacker News.",
       "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -273,25 +260,12 @@
       "publishedAt": "2026-11-18T16:08:24.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 440
-    },
-    {
-      "id": "hn-50547777",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Discussion with 340 upvotes and 152 comments on Hacker News.",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T15:49:34.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 340
+      "reactions": 510
     },
     {
       "id": "hn-50547620",
       "title": "Inside Deutsche Bank",
-      "summary": "Discussion with 545 upvotes and 188 comments on Hacker News.",
+      "summary": "Discussion with 638 upvotes and 205 comments on Hacker News.",
       "url": "https://www.inside-db.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -299,12 +273,12 @@
       "publishedAt": "2026-11-18T15:38:33.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 545
+      "reactions": 638
     },
     {
       "id": "hn-50547374",
       "title": "Unauthenticated remote code execution in Nginx",
-      "summary": "Discussion with 1109 upvotes and 497 comments on Hacker News.",
+      "summary": "Discussion with 1285 upvotes and 559 comments on Hacker News.",
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -312,20 +286,20 @@
       "publishedAt": "2026-11-18T15:19:55.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1109
+      "reactions": 1285
     },
     {
-      "id": "hn-50545958",
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "summary": "Discussion with 583 upvotes and 217 comments on Hacker News.",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "id": "hn-50546914",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "summary": "Discussion with 268 upvotes and 192 comments on Hacker News.",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T13:18:02.000Z",
+      "publishedAt": "2026-11-18T14:43:52.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 583
+      "reactions": 268
     },
     {
       "id": "devto-5060452",
@@ -338,7 +312,20 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 116
+      "reactions": 130
+    },
+    {
+      "id": "hn-50542441",
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "summary": "Discussion with 34 upvotes and 1 comments on Hacker News.",
+      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T06:08:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 34
     },
     {
       "id": "devto-5058784",
@@ -351,7 +338,7 @@
       "publishedAt": "2026-11-17T17:13:33Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-thinking-3050%2Fdevto-cover.6b0d9ada.jpg",
       "readTime": "9 min read",
-      "reactions": 23
+      "reactions": 24
     },
     {
       "id": "devto-5058432",
@@ -364,7 +351,20 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 48
+      "reactions": 57
+    },
+    {
+      "id": "hn-50530088",
+      "title": "Camera Index",
+      "summary": "Discussion with 20 upvotes and 4 comments on Hacker News.",
+      "url": "https://www.cameraindex.co.uk/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T11:35:33.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 20
     },
     {
       "id": "devto-5015822",
@@ -377,7 +377,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 65
+      "reactions": 66
     },
     {
       "id": "devto-5054249",
@@ -393,6 +393,19 @@
       "reactions": 16
     },
     {
+      "id": "hn-50525260",
+      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "summary": "Discussion with 103 upvotes and 35 comments on Hacker News.",
+      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-16T23:47:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 103
+    },
+    {
       "id": "devto-5007369",
       "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
       "summary": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
@@ -406,6 +419,19 @@
       "reactions": 28
     },
     {
+      "id": "hn-50518303",
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "summary": "Discussion with 17 upvotes and 0 comments on Hacker News.",
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-16T14:59:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 17
+    },
+    {
       "id": "devto-5004164",
       "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
       "summary": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
@@ -416,20 +442,7 @@
       "publishedAt": "2026-11-16T04:34:39Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1p4kxontmb681a8hynvf.png",
       "readTime": "5 min read",
-      "reactions": 66
-    },
-    {
-      "id": "hn-50510385",
-      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-      "summary": "Discussion with 36 upvotes and 7 comments on Hacker News.",
-      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-15T20:30:42.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 36
+      "reactions": 68
     },
     {
       "id": "devto-5039203",
@@ -442,7 +455,7 @@
       "publishedAt": "2026-11-15T04:00:28Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytd9i1woob1euwni30yg.png",
       "readTime": "9 min read",
-      "reactions": 75
+      "reactions": 76
     },
     {
       "id": "devto-5032399",
@@ -612,19 +625,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
       "readTime": "3 min read",
       "reactions": 33
-    },
-    {
-      "id": "devto-5018163",
-      "title": "How To Review Pull Requests with Kiro CLI and GitHub Actions",
-      "summary": "Review Pull Requests with Kiro CLI and GitHub Actions   Kiro CLI has a headless mode. Give...",
-      "url": "https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-11T20:26:46Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnrwyuy74ezp32ehk1o31.png",
-      "readTime": "6 min read",
-      "reactions": 31
     },
     {
       "id": "devto-4978580",
