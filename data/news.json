@@ -1,11 +1,76 @@
 {
-  "updatedAt": "2026-11-19T06:59:17.837Z",
+  "updatedAt": "2026-11-19T12:58:26.484Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50559140",
+      "title": "The AI Superintelligence Debate Has Serious Flaws",
+      "summary": "Discussion with 21 upvotes and 6 comments on Hacker News.",
+      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T12:17:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 21
+    },
+    {
+      "id": "hn-50558533",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "summary": "Discussion with 160 upvotes and 62 comments on Hacker News.",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T10:58:29.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 160
+    },
+    {
+      "id": "hn-50557870",
+      "title": "What's New in PHP 8.6",
+      "summary": "Discussion with 122 upvotes and 56 comments on Hacker News.",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T09:27:15.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 122
+    },
+    {
+      "id": "hn-50557716",
+      "title": "SSD prices will start going down the second half of next year",
+      "summary": "Discussion with 132 upvotes and 101 comments on Hacker News.",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T09:05:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 132
+    },
+    {
+      "id": "hn-50557537",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "summary": "Discussion with 110 upvotes and 20 comments on Hacker News.",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T08:39:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 110
+    },
+    {
       "id": "hn-50556533",
       "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "summary": "Discussion with 14 upvotes and 1 comments on Hacker News.",
+      "summary": "Discussion with 223 upvotes and 26 comments on Hacker News.",
       "url": "https://kapteko.com/15-million-webservers/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,7 +78,20 @@
       "publishedAt": "2026-11-19T05:56:36.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 14
+      "reactions": 223
+    },
+    {
+      "id": "hn-50556287",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "summary": "Discussion with 212 upvotes and 82 comments on Hacker News.",
+      "url": "https://verialabs.com/ruby2shell/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T05:09:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 212
     },
     {
       "id": "devto-5069884",
@@ -26,20 +104,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 55
-    },
-    {
-      "id": "hn-50554935",
-      "title": "Unreal Tournament 2004 in the Browser",
-      "summary": "Discussion with 132 upvotes and 58 comments on Hacker News.",
-      "url": "https://ut2004.dev/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T01:29:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 132
+      "reactions": 86
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -66,19 +131,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50554038",
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "summary": "Discussion with 195 upvotes and 62 comments on Hacker News.",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T23:52:50.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 195
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -131,19 +183,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50553225",
-      "title": "LLM assisted reverse engineering",
-      "summary": "Discussion with 156 upvotes and 38 comments on Hacker News.",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T22:29:13.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 156
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -200,7 +239,7 @@
     {
       "id": "hn-50552424",
       "title": "Gemini 4 Neon",
-      "summary": "Discussion with 702 upvotes and 592 comments on Hacker News.",
+      "summary": "Discussion with 883 upvotes and 698 comments on Hacker News.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -208,33 +247,7 @@
       "publishedAt": "2026-11-18T21:34:07.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 702
-    },
-    {
-      "id": "hn-50551046",
-      "title": "DaisyRose-27B",
-      "summary": "Discussion with 184 upvotes and 59 comments on Hacker News.",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T19:39:16.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 184
-    },
-    {
-      "id": "hn-50550415",
-      "title": "Genie 4 is now available",
-      "summary": "Discussion with 231 upvotes and 156 comments on Hacker News.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-18T18:49:51.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 231
+      "reactions": 883
     },
     {
       "id": "devto-5059675",
@@ -247,38 +260,25 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 65
+      "reactions": 68
     },
     {
-      "id": "hn-50548021",
-      "title": "Seven new models at scalable price-performance",
-      "summary": "Discussion with 510 upvotes and 336 comments on Hacker News.",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "id": "hn-50548808",
+      "title": "We taught robots to carve marble sculptures",
+      "summary": "Discussion with 15 upvotes and 9 comments on Hacker News.",
+      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T16:08:24.000Z",
+      "publishedAt": "2026-11-18T17:03:53.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 510
-    },
-    {
-      "id": "hn-50547620",
-      "title": "Inside Deutsche Bank",
-      "summary": "Discussion with 638 upvotes and 205 comments on Hacker News.",
-      "url": "https://www.inside-db.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T15:38:33.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 638
+      "reactions": 15
     },
     {
       "id": "hn-50547374",
       "title": "Unauthenticated remote code execution in Nginx",
-      "summary": "Discussion with 1285 upvotes and 559 comments on Hacker News.",
+      "summary": "Discussion with 1424 upvotes and 608 comments on Hacker News.",
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,20 +286,46 @@
       "publishedAt": "2026-11-18T15:19:55.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1285
+      "reactions": 1424
     },
     {
-      "id": "hn-50546914",
-      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-      "summary": "Discussion with 268 upvotes and 192 comments on Hacker News.",
-      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "id": "hn-50547048",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "summary": "Discussion with 21 upvotes and 2 comments on Hacker News.",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T14:43:52.000Z",
+      "publishedAt": "2026-11-18T14:56:04.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 268
+      "reactions": 21
+    },
+    {
+      "id": "hn-50546495",
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "summary": "Discussion with 11 upvotes and 2 comments on Hacker News.",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T14:07:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 11
+    },
+    {
+      "id": "hn-50546221",
+      "title": "Mass launched to orbit each year by rocket builder",
+      "summary": "Discussion with 11 upvotes and 1 comments on Hacker News.",
+      "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T13:43:08.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 11
     },
     {
       "id": "devto-5060452",
@@ -312,20 +338,20 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 130
+      "reactions": 144
     },
     {
-      "id": "hn-50542441",
-      "title": "Mosquitoes are Ladakh's latest tourists",
-      "summary": "Discussion with 34 upvotes and 1 comments on Hacker News.",
-      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+      "id": "hn-50536950",
+      "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
+      "summary": "Discussion with 25 upvotes and 10 comments on Hacker News.",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T06:08:25.000Z",
+      "publishedAt": "2026-11-17T19:35:12.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 34
+      "reactions": 25
     },
     {
       "id": "devto-5058784",
@@ -351,20 +377,7 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 57
-    },
-    {
-      "id": "hn-50530088",
-      "title": "Camera Index",
-      "summary": "Discussion with 20 upvotes and 4 comments on Hacker News.",
-      "url": "https://www.cameraindex.co.uk/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T11:35:33.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 20
+      "reactions": 59
     },
     {
       "id": "devto-5015822",
@@ -377,7 +390,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 66
+      "reactions": 67
     },
     {
       "id": "devto-5054249",
@@ -393,19 +406,6 @@
       "reactions": 16
     },
     {
-      "id": "hn-50525260",
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "summary": "Discussion with 103 upvotes and 35 comments on Hacker News.",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-16T23:47:26.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 103
-    },
-    {
       "id": "devto-5007369",
       "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
       "summary": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
@@ -419,17 +419,17 @@
       "reactions": 28
     },
     {
-      "id": "hn-50518303",
-      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
-      "summary": "Discussion with 17 upvotes and 0 comments on Hacker News.",
-      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "id": "hn-50519231",
+      "title": "Garage Door Spam",
+      "summary": "Discussion with 84 upvotes and 29 comments on Hacker News.",
+      "url": "https://blog.harrison.page/garage-door-spam/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-16T14:59:54.000Z",
+      "publishedAt": "2026-11-16T16:13:36.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 17
+      "reactions": 84
     },
     {
       "id": "devto-5004164",
@@ -455,7 +455,7 @@
       "publishedAt": "2026-11-15T04:00:28Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytd9i1woob1euwni30yg.png",
       "readTime": "9 min read",
-      "reactions": 76
+      "reactions": 79
     },
     {
       "id": "devto-5032399",
@@ -598,7 +598,7 @@
       "publishedAt": "2026-11-12T04:55:27Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fksf61ch7njiwm3dnvck0.png",
       "readTime": "4 min read",
-      "reactions": 97
+      "reactions": 102
     },
     {
       "id": "devto-5019800",
@@ -625,6 +625,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
       "readTime": "3 min read",
       "reactions": 33
+    },
+    {
+      "id": "devto-5018163",
+      "title": "How To Review Pull Requests with Kiro CLI and GitHub Actions",
+      "summary": "Review Pull Requests with Kiro CLI and GitHub Actions   Kiro CLI has a headless mode. Give...",
+      "url": "https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-11T20:26:46Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnrwyuy74ezp32ehk1o31.png",
+      "readTime": "6 min read",
+      "reactions": 31
     },
     {
       "id": "devto-4978580",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flcwp10ptnojbvt20v0y7.jpg",
       "readTime": "5 min read",
       "reactions": 146
-    },
-    {
-      "id": "devto-5003116",
-      "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "summary": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
-      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-09T08:18:56Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
-      "readTime": "18 min read",
-      "reactions": 30
     }
   ]
 }
