@@ -1,23 +1,192 @@
 {
-  "updatedAt": "2026-11-19T18:49:53.351Z",
+  "updatedAt": "2026-11-20T00:46:46.842Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50564004",
-      "title": "Chile: UFO Sightings by 18th Century Jesuits",
-      "summary": "Discussion with 9 upvotes and 3 comments on Hacker News.",
-      "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones....",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T23:37:56.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50568130",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "summary": "Discussion with 35 upvotes and 14 comments on Hacker News.",
+      "url": "https://git-aarvin.github.io/mei/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-19T18:26:28.000Z",
+      "publishedAt": "2026-11-19T23:35:35.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 9
+      "reactions": 35
+    },
+    {
+      "id": "hn-50568082",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "summary": "Discussion with 51 upvotes and 9 comments on Hacker News.",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "cybersecurity",
+      "publishedAt": "2026-11-19T23:32:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 51
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun....",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T22:33:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50567374",
+      "title": "RegExr: Temporarily Offline",
+      "summary": "Discussion with 34 upvotes and 18 comments on Hacker News.",
+      "url": "https://regexr.com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T22:27:07.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 34
+    },
+    {
+      "id": "hn-50567209",
+      "title": "Synology Security Advisory",
+      "summary": "Discussion with 87 upvotes and 55 comments on Hacker News.",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "cybersecurity",
+      "publishedAt": "2026-11-19T22:13:40.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 87
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable....",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T21:58:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybers...",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T21:42:31.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "summary": "Uber is testing the new program in three U.S. cities....",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T21:33:24.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastru...",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T20:18:49.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion....",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "startups",
+      "publishedAt": "2026-11-19T19:10:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50564366",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "summary": "Discussion with 66 upvotes and 128 comments on Hacker News.",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T18:47:16.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 66
+    },
+    {
+      "id": "hn-50564159",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "summary": "Discussion with 182 upvotes and 96 comments on Hacker News.",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T18:35:17.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 182
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows....",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-19T18:09:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, an...",
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "source": "TechCrunch",
@@ -30,8 +199,8 @@
     },
     {
       "id": "hn-50563148",
-      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-      "summary": "Discussion with 116 upvotes and 24 comments on Hacker News.",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "summary": "Discussion with 364 upvotes and 166 comments on Hacker News.",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,12 +208,25 @@
       "publishedAt": "2026-11-19T17:30:44.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 116
+      "reactions": 364
+    },
+    {
+      "id": "hn-50563066",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "summary": "Discussion with 527 upvotes and 77 comments on Hacker News.",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T17:25:33.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 527
     },
     {
       "id": "hn-50562754",
-      "title": "Anthropic hits $2T in Nasdaq debut",
-      "summary": "Discussion with 264 upvotes and 356 comments on Hacker News.",
+      "title": "Anthropic’s Nasdaq debut",
+      "summary": "Discussion with 867 upvotes and 1688 comments on Hacker News.",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,7 +234,7 @@
       "publishedAt": "2026-11-19T17:02:40.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 264
+      "reactions": 867
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -68,35 +250,9 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised....",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T16:59:23.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50562320",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "summary": "Discussion with 37 upvotes and 27 comments on Hacker News.",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T16:34:04.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 37
-    },
-    {
       "id": "hn-50562113",
-      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
-      "summary": "Discussion with 183 upvotes and 86 comments on Hacker News.",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "summary": "Discussion with 477 upvotes and 204 comments on Hacker News.",
       "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -104,25 +260,12 @@
       "publishedAt": "2026-11-19T16:21:03.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 183
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure....",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T16:19:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 477
     },
     {
       "id": "hn-50561515",
-      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
-      "summary": "Discussion with 90 upvotes and 40 comments on Hacker News.",
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "summary": "Discussion with 183 upvotes and 89 comments on Hacker News.",
       "url": "https://cornholenews.news",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -130,103 +273,12 @@
       "publishedAt": "2026-11-19T15:38:32.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 90
-    },
-    {
-      "id": "hn-50561508",
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Discussion with 146 upvotes and 124 comments on Hacker News.",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T15:38:12.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 146
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "UK government forced to disclose secret Apple backdoor order",
-      "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security....",
-      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T15:32:20.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50561170",
-      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-      "summary": "Discussion with 36 upvotes and 14 comments on Hacker News.",
-      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T15:13:23.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 36
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthr...",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T14:54:39.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-      "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out....",
-      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T14:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail....",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T14:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50559719",
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "summary": "Discussion with 147 upvotes and 38 comments on Hacker News.",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T13:18:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 147
+      "reactions": 183
     },
     {
       "id": "hn-50558906",
       "title": "Someone reported java4shell bug in September 2026",
-      "summary": "Discussion with 210 upvotes and 53 comments on Hacker News.",
+      "summary": "Discussion with 355 upvotes and 91 comments on Hacker News.",
       "url": "https://github.com/openjdk/jdk/pull/32781",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -234,46 +286,7 @@
       "publishedAt": "2026-11-19T11:47:03.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 210
-    },
-    {
-      "id": "hn-50558533",
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "summary": "Discussion with 576 upvotes and 274 comments on Hacker News.",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T10:58:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 576
-    },
-    {
-      "id": "hn-50557870",
-      "title": "What's New in PHP 8.6",
-      "summary": "Discussion with 231 upvotes and 105 comments on Hacker News.",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T09:27:15.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 231
-    },
-    {
-      "id": "hn-50556287",
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "summary": "Discussion with 328 upvotes and 133 comments on Hacker News.",
-      "url": "https://verialabs.com/ruby2shell/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T05:09:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 328
+      "reactions": 355
     },
     {
       "id": "devto-5069884",
@@ -286,33 +299,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 97
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce ...",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T00:42:56.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolis...",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T00:40:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 98
     },
     {
       "id": "devto-5059675",
@@ -325,20 +312,7 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 68
-    },
-    {
-      "id": "hn-50547048",
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "summary": "Discussion with 192 upvotes and 66 comments on Hacker News.",
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T14:56:04.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 192
+      "reactions": 69
     },
     {
       "id": "devto-5060452",
@@ -351,7 +325,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 158
+      "reactions": 160
     },
     {
       "id": "devto-5058784",
@@ -380,6 +354,19 @@
       "reactions": 62
     },
     {
+      "id": "hn-50530132",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "summary": "Discussion with 6 upvotes and 0 comments on Hacker News.",
+      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T11:41:08.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 6
+    },
+    {
       "id": "devto-5015822",
       "title": "Could I Still Do This From Scratch?",
       "summary": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the...",
@@ -393,6 +380,19 @@
       "reactions": 68
     },
     {
+      "id": "hn-50528119",
+      "title": "How to CAD Almost Anything",
+      "summary": "Discussion with 102 upvotes and 18 comments on Hacker News.",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T06:29:57.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 102
+    },
+    {
       "id": "devto-5054249",
       "title": "Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio",
       "summary": "Last week Google shipped Gemini 4 Hydrogen, and within hours my X timeline was nothing but 3D scenes,...",
@@ -403,7 +403,7 @@
       "publishedAt": "2026-11-17T05:41:54Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgd1nbe96vq66xm41mz8t.jpg",
       "readTime": "7 min read",
-      "reactions": 16
+      "reactions": 17
     },
     {
       "id": "devto-5007369",
@@ -434,7 +434,7 @@
     {
       "id": "hn-50519231",
       "title": "Garage Door Spam",
-      "summary": "Discussion with 546 upvotes and 229 comments on Hacker News.",
+      "summary": "Discussion with 739 upvotes and 312 comments on Hacker News.",
       "url": "https://blog.harrison.page/garage-door-spam/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -442,7 +442,7 @@
       "publishedAt": "2026-11-16T16:13:36.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 546
+      "reactions": 739
     },
     {
       "id": "devto-5004164",
@@ -468,7 +468,7 @@
       "publishedAt": "2026-11-15T04:00:28Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytd9i1woob1euwni30yg.png",
       "readTime": "9 min read",
-      "reactions": 81
+      "reactions": 84
     },
     {
       "id": "devto-5032399",
