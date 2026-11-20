@@ -1,11 +1,115 @@
 {
-  "updatedAt": "2026-11-20T06:58:45.484Z",
+  "updatedAt": "2026-11-20T12:54:57.136Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50572822",
+      "title": "The Making of Oxygene",
+      "summary": "Discussion with 51 upvotes and 16 comments on Hacker News.",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T10:41:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 51
+    },
+    {
+      "id": "hn-50572503",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "summary": "Discussion with 198 upvotes and 127 comments on Hacker News.",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T10:01:41.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 198
+    },
+    {
+      "id": "hn-50572448",
+      "title": "What people are building, discovered through new domains",
+      "summary": "Discussion with 34 upvotes and 15 comments on Hacker News.",
+      "url": "https://startups.novumsignals.com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T09:54:33.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 34
+    },
+    {
+      "id": "hn-50572430",
+      "title": "UK fridges secured from hackers",
+      "summary": "Discussion with 64 upvotes and 45 comments on Hacker News.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "cybersecurity",
+      "publishedAt": "2026-11-20T09:52:20.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 64
+    },
+    {
+      "id": "hn-50572355",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "summary": "Discussion with 99 upvotes and 61 comments on Hacker News.",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T09:43:19.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 99
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "The U.S. national cyber director is stepping down",
+      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown. ...",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "cybersecurity",
+      "publishedAt": "2026-11-20T09:14:19.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50572116",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "summary": "Discussion with 204 upvotes and 98 comments on Hacker News.",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T09:13:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 204
+    },
+    {
+      "id": "devto-5074788",
+      "title": "I can't believe the podcast I learned to code with is back!",
+      "summary": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
+      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-20T08:55:01Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0iw1v236kimfe2ajhymq.png",
+      "readTime": "1 min read",
+      "reactions": 8
+    },
+    {
       "id": "hn-50570628",
       "title": "Jujutsu Primer",
-      "summary": "Discussion with 23 upvotes and 9 comments on Hacker News.",
+      "summary": "Discussion with 151 upvotes and 98 comments on Hacker News.",
       "url": "https://ethanlowman.com/posts/jj-primer/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,25 +117,12 @@
       "publishedAt": "2026-11-20T05:46:01.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 23
-    },
-    {
-      "id": "hn-50570479",
-      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "summary": "Discussion with 185 upvotes and 29 comments on Hacker News.",
-      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T05:21:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 185
+      "reactions": 151
     },
     {
       "id": "hn-50569998",
       "title": "FFmpeg 9.1 'Gauss'",
-      "summary": "Discussion with 46 upvotes and 10 comments on Hacker News.",
+      "summary": "Discussion with 185 upvotes and 26 comments on Hacker News.",
       "url": "https://ffmpeg.org/download.html#release_9.1",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,12 +130,12 @@
       "publishedAt": "2026-11-20T04:02:39.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 46
+      "reactions": 185
     },
     {
       "id": "hn-50569516",
       "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "summary": "Discussion with 56 upvotes and 8 comments on Hacker News.",
+      "summary": "Discussion with 129 upvotes and 20 comments on Hacker News.",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,12 +143,12 @@
       "publishedAt": "2026-11-20T02:43:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 56
+      "reactions": 129
     },
     {
       "id": "hn-50569226",
       "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "summary": "Discussion with 150 upvotes and 79 comments on Hacker News.",
+      "summary": "Discussion with 294 upvotes and 228 comments on Hacker News.",
       "url": "https://github.com/openssl/openssl/pull/33652",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -65,20 +156,7 @@
       "publishedAt": "2026-11-20T02:01:09.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 150
-    },
-    {
-      "id": "hn-50568861",
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "summary": "Discussion with 83 upvotes and 26 comments on Hacker News.",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T01:06:12.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 83
+      "reactions": 294
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -107,6 +185,19 @@
       "reactions": 100
     },
     {
+      "id": "devto-5076491",
+      "title": "What team-wide AI adoption actually takes",
+      "summary": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
+      "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-20T00:36:25Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu7kwsgmm696mwcbkbl0k.png",
+      "readTime": "4 min read",
+      "reactions": 36
+    },
+    {
       "id": "tc-aHR0cHM6Ly90ZWNo",
       "title": "Anthropic rival says companies can (mostly) skip the pricey models",
       "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company som...",
@@ -118,19 +209,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50568548",
-      "title": "ChatGPT for SNES",
-      "summary": "Discussion with 50 upvotes and 15 comments on Hacker News.",
-      "url": "https://www.bxfoundry.com/chatgpt_snes/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T00:25:59.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 50
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -211,56 +289,17 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion....",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "startups",
-      "publishedAt": "2026-11-19T19:10:45.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50563148",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "summary": "Discussion with 459 upvotes and 218 comments on Hacker News.",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T17:30:44.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 459
-    },
-    {
-      "id": "hn-50562754",
-      "title": "Anthropic’s Nasdaq debut",
-      "summary": "Discussion with 1043 upvotes and 2060 comments on Hacker News.",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "id": "hn-50561199",
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "summary": "Discussion with 9 upvotes and 0 comments on Hacker News.",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-19T17:02:40.000Z",
+      "publishedAt": "2026-11-19T15:16:02.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1043
-    },
-    {
-      "id": "hn-50562320",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "summary": "Discussion with 109 upvotes and 74 comments on Hacker News.",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T16:34:04.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 109
+      "reactions": 9
     },
     {
       "id": "devto-5069884",
@@ -273,7 +312,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 101
+      "reactions": 102
     },
     {
       "id": "devto-5059675",
@@ -289,6 +328,19 @@
       "reactions": 71
     },
     {
+      "id": "hn-50545818",
+      "title": "µ-Wire – USB on an ATtiny 10",
+      "summary": "Discussion with 62 upvotes and 3 comments on Hacker News.",
+      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T13:02:08.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 62
+    },
+    {
       "id": "devto-5060452",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
       "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
@@ -299,20 +351,33 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 170
+      "reactions": 183
     },
     {
-      "id": "hn-50538977",
-      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "summary": "Discussion with 57 upvotes and 4 comments on Hacker News.",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "id": "hn-50541568",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "summary": "Discussion with 43 upvotes and 21 comments on Hacker News.",
+      "url": "https://trynotched.com/find",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-17T22:11:46.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "category": "dev",
+      "publishedAt": "2026-11-18T03:40:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 57
+      "reactions": 43
+    },
+    {
+      "id": "devto-5060325",
+      "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
+      "summary": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
+      "url": "https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-17T23:18:41Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
+      "readTime": "2 min read",
+      "reactions": 18
     },
     {
       "id": "devto-5058784",
@@ -338,7 +403,7 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 61
+      "reactions": 72
     },
     {
       "id": "devto-5015822",
@@ -352,19 +417,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
       "reactions": 68
-    },
-    {
-      "id": "hn-50528119",
-      "title": "How to CAD Almost Anything",
-      "summary": "Discussion with 220 upvotes and 64 comments on Hacker News.",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T06:29:57.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 220
     },
     {
       "id": "devto-5054249",
@@ -393,56 +445,30 @@
       "reactions": 28
     },
     {
-      "id": "hn-50522471",
-      "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
-      "summary": "Discussion with 5 upvotes and 0 comments on Hacker News.",
-      "url": "https://www.frankensteinpbc.com/",
+      "id": "hn-50523241",
+      "title": "The Strongest Sokoban Solver",
+      "summary": "Discussion with 87 upvotes and 16 comments on Hacker News.",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-16T20:10:38.000Z",
+      "publishedAt": "2026-11-16T21:04:01.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 5
+      "reactions": 87
     },
     {
-      "id": "hn-50521512",
-      "title": "Bit Shifting in Basic",
-      "summary": "Discussion with 18 upvotes and 0 comments on Hacker News.",
-      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "id": "hn-50521550",
+      "title": "I can’t believe it’s 1!",
+      "summary": "Discussion with 4 upvotes and 0 comments on Hacker News.",
+      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-16T19:04:36.000Z",
+      "publishedAt": "2026-11-16T19:07:13.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 18
-    },
-    {
-      "id": "devto-5043905",
-      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
-      "summary": "Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The top setting cost 2.6 to 4.8 times as much on every paid model; Hydrogen, Carbon and Argon solved all 15 at either setting, and no score change was large enough to rule out chance on 15 problems.",
-      "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-16T17:56:57Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemini-high-vs-low%2Fdevto-cover.8e6eb323.jpg",
-      "readTime": "11 min read",
-      "reactions": 27
-    },
-    {
-      "id": "hn-50519231",
-      "title": "Garage Door Spam",
-      "summary": "Discussion with 826 upvotes and 347 comments on Hacker News.",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-16T16:13:36.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 826
+      "reactions": 4
     },
     {
       "id": "devto-5004164",
@@ -469,19 +495,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytd9i1woob1euwni30yg.png",
       "readTime": "9 min read",
       "reactions": 84
-    },
-    {
-      "id": "devto-5032399",
-      "title": "Benchmarking the Gemini Decisions API",
-      "summary": "The Gemini Decisions API scores a fixed set of answers in one pass and returns probabilities. An ADK triage agent built on it, a 48-ticket benchmark against Gemini 3.8 Flash, Gemini 4 Hydrogen, Gemini 3.5 Flash-Lite and Gemma 4 E2B, and a test of 1 to 100 questions in one request.",
-      "url": "https://dev.to/gde/benchmarking-the-gemini-decisions-api-l31",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-13T23:45:04Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdecisions-api%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.df71ccfa.jpg",
-      "readTime": "13 min read",
-      "reactions": 21
     },
     {
       "id": "devto-5031327",
@@ -598,7 +611,7 @@
       "publishedAt": "2026-11-12T08:14:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ajaeuift6x1wfndpe9s.png",
       "readTime": "13 min read",
-      "reactions": 214
+      "reactions": 215
     },
     {
       "id": "devto-5020733",
@@ -638,19 +651,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
       "readTime": "3 min read",
       "reactions": 33
-    },
-    {
-      "id": "devto-5018163",
-      "title": "How To Review Pull Requests with Kiro CLI and GitHub Actions",
-      "summary": "Review Pull Requests with Kiro CLI and GitHub Actions   Kiro CLI has a headless mode. Give...",
-      "url": "https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-11T20:26:46Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnrwyuy74ezp32ehk1o31.png",
-      "readTime": "6 min read",
-      "reactions": 31
     },
     {
       "id": "devto-4978580",
