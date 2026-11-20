@@ -1,24 +1,245 @@
 {
-  "updatedAt": "2026-11-20T12:54:57.136Z",
+  "updatedAt": "2026-11-20T18:50:23.895Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50572822",
-      "title": "The Making of Oxygene",
-      "summary": "Discussion with 51 upvotes and 16 comments on Hacker News.",
-      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "id": "hn-50579568",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "summary": "Discussion with 15 upvotes and 0 comments on Hacker News.",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-20T10:41:10.000Z",
+      "publishedAt": "2026-11-20T18:33:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 51
+      "reactions": 15
+    },
+    {
+      "id": "hn-50579331",
+      "title": "We promoted developers into architects without informing them",
+      "summary": "Discussion with 14 upvotes and 2 comments on Hacker News.",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T18:17:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 14
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Chips can survive the space environment. Can their financing?",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?...",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "gadgets",
+      "publishedAt": "2026-11-20T17:40:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50578358",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "summary": "Discussion with 54 upvotes and 3 comments on Hacker News.",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T17:21:36.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 54
+    },
+    {
+      "id": "hn-50578233",
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "summary": "Discussion with 22 upvotes and 0 comments on Hacker News.",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T17:14:03.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 22
+    },
+    {
+      "id": "hn-50577901",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "summary": "Discussion with 73 upvotes and 24 comments on Hacker News.",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T16:59:27.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 73
+    },
+    {
+      "id": "hn-50577613",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "summary": "Discussion with 47 upvotes and 68 comments on Hacker News.",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "startups",
+      "publishedAt": "2026-11-20T16:45:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 47
+    },
+    {
+      "id": "hn-50577265",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "summary": "Discussion with 188 upvotes and 82 comments on Hacker News.",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T16:29:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 188
+    },
+    {
+      "id": "devto-5056698",
+      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+      "summary": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
+      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-20T16:28:49Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
+      "readTime": "4 min read",
+      "reactions": 26
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain....",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T16:16:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50576855",
+      "title": "I'll never buy Framework hardware again",
+      "summary": "Discussion with 603 upvotes and 389 comments on Hacker News.",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T16:06:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 603
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password....",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "cybersecurity",
+      "publishedAt": "2026-11-20T15:46:07.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50576232",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "summary": "Discussion with 151 upvotes and 42 comments on Hacker News.",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T15:34:31.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 151
+    },
+    {
+      "id": "hn-50574968",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "summary": "Discussion with 1712 upvotes and 1161 comments on Hacker News.",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T14:16:21.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 1712
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace....",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang....",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T13:25:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said....",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T13:21:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "devto-5081870",
+      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
+      "summary": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
+      "url": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-20T12:45:36Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
+      "readTime": "9 min read",
+      "reactions": 16
     },
     {
       "id": "hn-50572503",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Discussion with 198 upvotes and 127 comments on Hacker News.",
+      "summary": "Discussion with 508 upvotes and 278 comments on Hacker News.",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,38 +247,12 @@
       "publishedAt": "2026-11-20T10:01:41.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 198
-    },
-    {
-      "id": "hn-50572448",
-      "title": "What people are building, discovered through new domains",
-      "summary": "Discussion with 34 upvotes and 15 comments on Hacker News.",
-      "url": "https://startups.novumsignals.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T09:54:33.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 34
-    },
-    {
-      "id": "hn-50572430",
-      "title": "UK fridges secured from hackers",
-      "summary": "Discussion with 64 upvotes and 45 comments on Hacker News.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-20T09:52:20.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 64
+      "reactions": 508
     },
     {
       "id": "hn-50572355",
       "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "summary": "Discussion with 99 upvotes and 61 comments on Hacker News.",
+      "summary": "Discussion with 490 upvotes and 255 comments on Hacker News.",
       "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -65,7 +260,20 @@
       "publishedAt": "2026-11-20T09:43:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 99
+      "reactions": 490
+    },
+    {
+      "id": "hn-50572348",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "summary": "Discussion with 315 upvotes and 189 comments on Hacker News.",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T09:42:16.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 315
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -81,19 +289,6 @@
       "reactions": 100
     },
     {
-      "id": "hn-50572116",
-      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-      "summary": "Discussion with 204 upvotes and 98 comments on Hacker News.",
-      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T09:13:09.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 204
-    },
-    {
       "id": "devto-5074788",
       "title": "I can't believe the podcast I learned to code with is back!",
       "summary": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
@@ -104,59 +299,7 @@
       "publishedAt": "2026-11-20T08:55:01Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0iw1v236kimfe2ajhymq.png",
       "readTime": "1 min read",
-      "reactions": 8
-    },
-    {
-      "id": "hn-50570628",
-      "title": "Jujutsu Primer",
-      "summary": "Discussion with 151 upvotes and 98 comments on Hacker News.",
-      "url": "https://ethanlowman.com/posts/jj-primer/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T05:46:01.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 151
-    },
-    {
-      "id": "hn-50569998",
-      "title": "FFmpeg 9.1 'Gauss'",
-      "summary": "Discussion with 185 upvotes and 26 comments on Hacker News.",
-      "url": "https://ffmpeg.org/download.html#release_9.1",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T04:02:39.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 185
-    },
-    {
-      "id": "hn-50569516",
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "summary": "Discussion with 129 upvotes and 20 comments on Hacker News.",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T02:43:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 129
-    },
-    {
-      "id": "hn-50569226",
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "summary": "Discussion with 294 upvotes and 228 comments on Hacker News.",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T02:01:09.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 294
+      "reactions": 25
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -195,7 +338,7 @@
       "publishedAt": "2026-11-20T00:36:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu7kwsgmm696mwcbkbl0k.png",
       "readTime": "4 min read",
-      "reactions": 36
+      "reactions": 48
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -211,97 +354,6 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones....",
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T23:37:56.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun....",
-      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T22:33:26.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable....",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T21:58:06.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybers...",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T21:42:31.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "summary": "Uber is testing the new program in three U.S. cities....",
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T21:33:24.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastru...",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T20:18:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50561199",
-      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-      "summary": "Discussion with 9 upvotes and 0 comments on Hacker News.",
-      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T15:16:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 9
-    },
-    {
       "id": "devto-5069884",
       "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
       "summary": "Know When to Walk Away  The Thirty-Six Stratagems, Stratagem 36               Open as Usual   When...",
@@ -312,7 +364,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 102
+      "reactions": 103
     },
     {
       "id": "devto-5059675",
@@ -325,20 +377,20 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 71
+      "reactions": 76
     },
     {
-      "id": "hn-50545818",
-      "title": "µ-Wire – USB on an ATtiny 10",
-      "summary": "Discussion with 62 upvotes and 3 comments on Hacker News.",
-      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "id": "hn-50546365",
+      "title": "Why YC Series A rounds fell off a cliff",
+      "summary": "Discussion with 43 upvotes and 13 comments on Hacker News.",
+      "url": "https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-18T13:02:08.000Z",
+      "publishedAt": "2026-11-18T13:56:28.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 62
+      "reactions": 43
     },
     {
       "id": "devto-5060452",
@@ -351,20 +403,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 183
-    },
-    {
-      "id": "hn-50541568",
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "summary": "Discussion with 43 upvotes and 21 comments on Hacker News.",
-      "url": "https://trynotched.com/find",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T03:40:01.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 43
+      "reactions": 194
     },
     {
       "id": "devto-5060325",
@@ -377,20 +416,7 @@
       "publishedAt": "2026-11-17T23:18:41Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
       "readTime": "2 min read",
-      "reactions": 18
-    },
-    {
-      "id": "devto-5058784",
-      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
-      "summary": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. Thinking doubled the time and moved no score beyond chance; the drafter cut the time by 1.55 to 2.04 times and changed no score.",
-      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-17T17:13:33Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-thinking-3050%2Fdevto-cover.6b0d9ada.jpg",
-      "readTime": "9 min read",
-      "reactions": 26
+      "reactions": 19
     },
     {
       "id": "devto-5058432",
@@ -403,7 +429,7 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 72
+      "reactions": 73
     },
     {
       "id": "devto-5015822",
@@ -416,7 +442,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 68
+      "reactions": 69
     },
     {
       "id": "devto-5054249",
@@ -432,43 +458,17 @@
       "reactions": 17
     },
     {
-      "id": "devto-5007369",
-      "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
-      "summary": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
-      "url": "https://dev.to/heinrichneb/my-ai-agent-kept-quoting-a-number-i-had-already-corrected-what-has-yours-remembered-wrong-34d0",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-16T22:55:58Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cwto9v5xn9emamdwcf0.jpg",
-      "readTime": "1 min read",
-      "reactions": 28
-    },
-    {
-      "id": "hn-50523241",
-      "title": "The Strongest Sokoban Solver",
-      "summary": "Discussion with 87 upvotes and 16 comments on Hacker News.",
-      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "id": "hn-50526023",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "summary": "Discussion with 170 upvotes and 31 comments on Hacker News.",
+      "url": "https://kobi.music/research/dettato",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-16T21:04:01.000Z",
+      "publishedAt": "2026-11-17T01:03:05.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 87
-    },
-    {
-      "id": "hn-50521550",
-      "title": "I can’t believe it’s 1!",
-      "summary": "Discussion with 4 upvotes and 0 comments on Hacker News.",
-      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-16T19:07:13.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 4
+      "reactions": 170
     },
     {
       "id": "devto-5004164",
@@ -481,7 +481,7 @@
       "publishedAt": "2026-11-16T04:34:39Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1p4kxontmb681a8hynvf.png",
       "readTime": "5 min read",
-      "reactions": 76
+      "reactions": 81
     },
     {
       "id": "devto-5039203",
@@ -585,7 +585,7 @@
       "publishedAt": "2026-11-12T15:35:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6csfx8i2kft82mrqhcj6.png",
       "readTime": "8 min read",
-      "reactions": 59
+      "reactions": 60
     },
     {
       "id": "devto-5024286",
@@ -611,7 +611,7 @@
       "publishedAt": "2026-11-12T08:14:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ajaeuift6x1wfndpe9s.png",
       "readTime": "13 min read",
-      "reactions": 215
+      "reactions": 217
     },
     {
       "id": "devto-5020733",
