@@ -1,7 +1,137 @@
 {
-  "updatedAt": "2026-11-20T00:46:46.842Z",
+  "updatedAt": "2026-11-20T06:58:45.484Z",
   "totalArticles": 55,
   "articles": [
+    {
+      "id": "hn-50570628",
+      "title": "Jujutsu Primer",
+      "summary": "Discussion with 23 upvotes and 9 comments on Hacker News.",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T05:46:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 23
+    },
+    {
+      "id": "hn-50570479",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "summary": "Discussion with 185 upvotes and 29 comments on Hacker News.",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T05:21:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 185
+    },
+    {
+      "id": "hn-50569998",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "summary": "Discussion with 46 upvotes and 10 comments on Hacker News.",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T04:02:39.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 46
+    },
+    {
+      "id": "hn-50569516",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "summary": "Discussion with 56 upvotes and 8 comments on Hacker News.",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T02:43:49.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 56
+    },
+    {
+      "id": "hn-50569226",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "summary": "Discussion with 150 upvotes and 79 comments on Hacker News.",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T02:01:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 150
+    },
+    {
+      "id": "hn-50568861",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "summary": "Discussion with 83 upvotes and 26 comments on Hacker News.",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T01:06:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 83
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots....",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion....",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "startups",
+      "publishedAt": "2026-11-20T00:43:50.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company som...",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T00:26:03.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50568548",
+      "title": "ChatGPT for SNES",
+      "summary": "Discussion with 50 upvotes and 15 comments on Hacker News.",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-20T00:25:59.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 50
+    },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
       "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
@@ -16,32 +146,6 @@
       "reactions": 100
     },
     {
-      "id": "hn-50568130",
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "summary": "Discussion with 35 upvotes and 14 comments on Hacker News.",
-      "url": "https://git-aarvin.github.io/mei/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T23:35:35.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 35
-    },
-    {
-      "id": "hn-50568082",
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "summary": "Discussion with 51 upvotes and 9 comments on Hacker News.",
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-19T23:32:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 51
-    },
-    {
       "id": "tc-aHR0cHM6Ly90ZWNo",
       "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
       "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun....",
@@ -53,32 +157,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50567374",
-      "title": "RegExr: Temporarily Offline",
-      "summary": "Discussion with 34 upvotes and 18 comments on Hacker News.",
-      "url": "https://regexr.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T22:27:07.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 34
-    },
-    {
-      "id": "hn-50567209",
-      "title": "Synology Security Advisory",
-      "summary": "Discussion with 87 upvotes and 55 comments on Hacker News.",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-19T22:13:40.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 87
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -146,61 +224,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50564366",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Discussion with 66 upvotes and 128 comments on Hacker News.",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T18:47:16.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 66
-    },
-    {
-      "id": "hn-50564159",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "summary": "Discussion with 182 upvotes and 96 comments on Hacker News.",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T18:35:17.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 182
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows....",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T18:09:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, an...",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T17:38:40.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
       "id": "hn-50563148",
       "title": "Claude solves two open problems in the physics of black holes",
-      "summary": "Discussion with 364 upvotes and 166 comments on Hacker News.",
+      "summary": "Discussion with 459 upvotes and 218 comments on Hacker News.",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -208,25 +234,12 @@
       "publishedAt": "2026-11-19T17:30:44.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 364
-    },
-    {
-      "id": "hn-50563066",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "summary": "Discussion with 527 upvotes and 77 comments on Hacker News.",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T17:25:33.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 527
+      "reactions": 459
     },
     {
       "id": "hn-50562754",
       "title": "Anthropic’s Nasdaq debut",
-      "summary": "Discussion with 867 upvotes and 1688 comments on Hacker News.",
+      "summary": "Discussion with 1043 upvotes and 2060 comments on Hacker News.",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -234,59 +247,20 @@
       "publishedAt": "2026-11-19T17:02:40.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 867
+      "reactions": 1043
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers....",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50562113",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "summary": "Discussion with 477 upvotes and 204 comments on Hacker News.",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-19T16:21:03.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 477
-    },
-    {
-      "id": "hn-50561515",
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "summary": "Discussion with 183 upvotes and 89 comments on Hacker News.",
-      "url": "https://cornholenews.news",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-19T15:38:32.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 183
-    },
-    {
-      "id": "hn-50558906",
-      "title": "Someone reported java4shell bug in September 2026",
-      "summary": "Discussion with 355 upvotes and 91 comments on Hacker News.",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "id": "hn-50562320",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "summary": "Discussion with 109 upvotes and 74 comments on Hacker News.",
+      "url": "https://github.com/onlook-dev/onlook/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-19T11:47:03.000Z",
+      "publishedAt": "2026-11-19T16:34:04.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 355
+      "reactions": 109
     },
     {
       "id": "devto-5069884",
@@ -299,7 +273,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 98
+      "reactions": 101
     },
     {
       "id": "devto-5059675",
@@ -312,7 +286,7 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 69
+      "reactions": 71
     },
     {
       "id": "devto-5060452",
@@ -325,7 +299,20 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 160
+      "reactions": 170
+    },
+    {
+      "id": "hn-50538977",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "summary": "Discussion with 57 upvotes and 4 comments on Hacker News.",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-17T22:11:46.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 57
     },
     {
       "id": "devto-5058784",
@@ -338,7 +325,7 @@
       "publishedAt": "2026-11-17T17:13:33Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-thinking-3050%2Fdevto-cover.6b0d9ada.jpg",
       "readTime": "9 min read",
-      "reactions": 25
+      "reactions": 26
     },
     {
       "id": "devto-5058432",
@@ -351,20 +338,7 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 62
-    },
-    {
-      "id": "hn-50530132",
-      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "summary": "Discussion with 6 upvotes and 0 comments on Hacker News.",
-      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T11:41:08.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 6
+      "reactions": 61
     },
     {
       "id": "devto-5015822",
@@ -382,7 +356,7 @@
     {
       "id": "hn-50528119",
       "title": "How to CAD Almost Anything",
-      "summary": "Discussion with 102 upvotes and 18 comments on Hacker News.",
+      "summary": "Discussion with 220 upvotes and 64 comments on Hacker News.",
       "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -390,7 +364,7 @@
       "publishedAt": "2026-11-17T06:29:57.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 102
+      "reactions": 220
     },
     {
       "id": "devto-5054249",
@@ -419,6 +393,32 @@
       "reactions": 28
     },
     {
+      "id": "hn-50522471",
+      "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+      "summary": "Discussion with 5 upvotes and 0 comments on Hacker News.",
+      "url": "https://www.frankensteinpbc.com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-16T20:10:38.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 5
+    },
+    {
+      "id": "hn-50521512",
+      "title": "Bit Shifting in Basic",
+      "summary": "Discussion with 18 upvotes and 0 comments on Hacker News.",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-16T19:04:36.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 18
+    },
+    {
       "id": "devto-5043905",
       "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
       "summary": "Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The top setting cost 2.6 to 4.8 times as much on every paid model; Hydrogen, Carbon and Argon solved all 15 at either setting, and no score change was large enough to rule out chance on 15 problems.",
@@ -434,7 +434,7 @@
     {
       "id": "hn-50519231",
       "title": "Garage Door Spam",
-      "summary": "Discussion with 739 upvotes and 312 comments on Hacker News.",
+      "summary": "Discussion with 826 upvotes and 347 comments on Hacker News.",
       "url": "https://blog.harrison.page/garage-door-spam/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -442,7 +442,7 @@
       "publishedAt": "2026-11-16T16:13:36.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 739
+      "reactions": 826
     },
     {
       "id": "devto-5004164",
@@ -455,7 +455,7 @@
       "publishedAt": "2026-11-16T04:34:39Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1p4kxontmb681a8hynvf.png",
       "readTime": "5 min read",
-      "reactions": 71
+      "reactions": 76
     },
     {
       "id": "devto-5039203",
@@ -559,7 +559,7 @@
       "publishedAt": "2026-11-12T16:30:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa20dm7o9oqkdd8zvyns3.jpg",
       "readTime": "9 min read",
-      "reactions": 64
+      "reactions": 65
     },
     {
       "id": "devto-4911275",
@@ -572,7 +572,7 @@
       "publishedAt": "2026-11-12T15:35:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6csfx8i2kft82mrqhcj6.png",
       "readTime": "8 min read",
-      "reactions": 58
+      "reactions": 59
     },
     {
       "id": "devto-5024286",
@@ -598,7 +598,7 @@
       "publishedAt": "2026-11-12T08:14:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ajaeuift6x1wfndpe9s.png",
       "readTime": "13 min read",
-      "reactions": 213
+      "reactions": 214
     },
     {
       "id": "devto-5020733",
