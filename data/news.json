@@ -1,11 +1,63 @@
 {
-  "updatedAt": "2026-11-21T06:54:53.219Z",
+  "updatedAt": "2026-11-21T12:42:22.666Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50587875",
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "summary": "Discussion with 12 upvotes and 3 comments on Hacker News.",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T10:36:32.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 12
+    },
+    {
+      "id": "hn-50587859",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "Discussion with 55 upvotes and 19 comments on Hacker News.",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "cybersecurity",
+      "publishedAt": "2026-11-21T10:33:57.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 55
+    },
+    {
+      "id": "hn-50587208",
+      "title": "RCE in Gnupg",
+      "summary": "Discussion with 58 upvotes and 10 comments on Hacker News.",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T08:32:58.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 58
+    },
+    {
+      "id": "hn-50586648",
+      "title": "Surprisingly Adorable Insect Portraits",
+      "summary": "Discussion with 65 upvotes and 13 comments on Hacker News.",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-21T06:44:14.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 65
+    },
+    {
       "id": "hn-50586292",
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Discussion with 11 upvotes and 2 comments on Hacker News.",
+      "summary": "Discussion with 90 upvotes and 25 comments on Hacker News.",
       "url": "http://ricapar.net/ClawDOS/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,7 +65,7 @@
       "publishedAt": "2026-11-21T05:38:01.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 11
+      "reactions": 90
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -29,22 +81,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50585593",
-      "title": "Backblaze Notice at Collection and Privacy Policy",
-      "summary": "Discussion with 150 upvotes and 45 comments on Hacker News.",
-      "url": "https://www.backblaze.com/company/policy/privacy",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T03:23:16.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 150
-    },
-    {
       "id": "hn-50585376",
       "title": "Clojure will affect the way you think about programming (2017)",
-      "summary": "Discussion with 43 upvotes and 12 comments on Hacker News.",
+      "summary": "Discussion with 121 upvotes and 43 comments on Hacker News.",
       "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,25 +91,12 @@
       "publishedAt": "2026-11-21T02:40:39.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 43
-    },
-    {
-      "id": "hn-50583768",
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "summary": "Discussion with 83 upvotes and 17 comments on Hacker News.",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T23:19:44.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 83
+      "reactions": 121
     },
     {
       "id": "hn-50583761",
       "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "summary": "Discussion with 86 upvotes and 89 comments on Hacker News.",
+      "summary": "Discussion with 268 upvotes and 236 comments on Hacker News.",
       "url": "https://news.ycombinator.com/item?id=50583761",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,12 +104,12 @@
       "publishedAt": "2026-11-20T23:18:32.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 86
+      "reactions": 268
     },
     {
       "id": "hn-50583274",
       "title": "NINLIVE: The Nine Inch Nails live archive",
-      "summary": "Discussion with 211 upvotes and 56 comments on Hacker News.",
+      "summary": "Discussion with 289 upvotes and 74 comments on Hacker News.",
       "url": "https://ninlive.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,7 +117,7 @@
       "publishedAt": "2026-11-20T22:30:47.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 211
+      "reactions": 289
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -109,7 +135,7 @@
     {
       "id": "hn-50581260",
       "title": "Inkling 2 Mini",
-      "summary": "Discussion with 888 upvotes and 163 comments on Hacker News.",
+      "summary": "Discussion with 1087 upvotes and 202 comments on Hacker News.",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -117,20 +143,7 @@
       "publishedAt": "2026-11-20T20:12:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 888
-    },
-    {
-      "id": "hn-50581110",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "summary": "Discussion with 178 upvotes and 43 comments on Hacker News.",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T20:03:59.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 178
+      "reactions": 1087
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -174,7 +187,7 @@
     {
       "id": "hn-50579568",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "summary": "Discussion with 1863 upvotes and 860 comments on Hacker News.",
+      "summary": "Discussion with 2189 upvotes and 1029 comments on Hacker News.",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -182,12 +195,12 @@
       "publishedAt": "2026-11-20T18:33:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1863
+      "reactions": 2189
     },
     {
       "id": "hn-50579331",
       "title": "We promoted developers into architects without informing them",
-      "summary": "Discussion with 380 upvotes and 219 comments on Hacker News.",
+      "summary": "Discussion with 469 upvotes and 256 comments on Hacker News.",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -195,7 +208,7 @@
       "publishedAt": "2026-11-20T18:17:51.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 380
+      "reactions": 469
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -213,7 +226,7 @@
     {
       "id": "hn-50578358",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "summary": "Discussion with 402 upvotes and 170 comments on Hacker News.",
+      "summary": "Discussion with 469 upvotes and 193 comments on Hacker News.",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -221,12 +234,12 @@
       "publishedAt": "2026-11-20T17:21:36.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 402
+      "reactions": 469
     },
     {
       "id": "hn-50577265",
       "title": "Language Models Can Rewrite Their Own Weights",
-      "summary": "Discussion with 385 upvotes and 116 comments on Hacker News.",
+      "summary": "Discussion with 428 upvotes and 126 comments on Hacker News.",
       "url": "https://arxiv.org/abs/2611.21885",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -234,7 +247,7 @@
       "publishedAt": "2026-11-20T16:29:06.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 385
+      "reactions": 428
     },
     {
       "id": "devto-5056698",
@@ -247,7 +260,7 @@
       "publishedAt": "2026-11-20T16:28:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
       "readTime": "4 min read",
-      "reactions": 29
+      "reactions": 30
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -276,22 +289,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50576232",
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "summary": "Discussion with 273 upvotes and 86 comments on Hacker News.",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T15:34:31.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 273
-    },
-    {
       "id": "hn-50574968",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "summary": "Discussion with 2522 upvotes and 1742 comments on Hacker News.",
+      "summary": "Discussion with 2703 upvotes and 1886 comments on Hacker News.",
       "url": "https://alpo.ge/remark.pdf",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -299,7 +299,7 @@
       "publishedAt": "2026-11-20T14:16:21.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 2522
+      "reactions": 2703
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -338,7 +338,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 23
+      "reactions": 25
     },
     {
       "id": "devto-5074788",
@@ -364,7 +364,7 @@
       "publishedAt": "2026-11-20T00:36:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu7kwsgmm696mwcbkbl0k.png",
       "readTime": "4 min read",
-      "reactions": 50
+      "reactions": 55
     },
     {
       "id": "devto-5072558",
@@ -390,7 +390,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 106
+      "reactions": 113
     },
     {
       "id": "devto-5059675",
@@ -403,7 +403,7 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 77
+      "reactions": 84
     },
     {
       "id": "devto-5060452",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 205
+      "reactions": 217
     },
     {
       "id": "devto-5060325",
@@ -445,19 +445,6 @@
       "reactions": 26
     },
     {
-      "id": "hn-50534387",
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "summary": "Discussion with 103 upvotes and 37 comments on Hacker News.",
-      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T16:58:30.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 103
-    },
-    {
       "id": "devto-5058432",
       "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
       "summary": "AI agents now open pull requests on their own. I gave Amazon Nova Pro a real GitHub bug, then built a deterministic Python gate that rejects it when it cannot prove the fix. No model grades the model.",
@@ -468,6 +455,19 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
+      "reactions": 82
+    },
+    {
+      "id": "hn-50532613",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "summary": "Discussion with 76 upvotes and 16 comments on Hacker News.",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T15:22:57.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
       "reactions": 76
     },
     {
@@ -481,7 +481,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 69
+      "reactions": 76
     },
     {
       "id": "devto-5054249",
@@ -507,7 +507,7 @@
       "publishedAt": "2026-11-16T22:55:58Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cwto9v5xn9emamdwcf0.jpg",
       "readTime": "1 min read",
-      "reactions": 28
+      "reactions": 33
     },
     {
       "id": "devto-5004164",
@@ -534,6 +534,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytd9i1woob1euwni30yg.png",
       "readTime": "9 min read",
       "reactions": 84
+    },
+    {
+      "id": "devto-5032399",
+      "title": "Benchmarking the Gemini Decisions API",
+      "summary": "The Gemini Decisions API scores a fixed set of answers in one pass and returns probabilities. An ADK triage agent built on it, a 48-ticket benchmark against Gemini 3.8 Flash, Gemini 4 Hydrogen, Gemini 3.5 Flash-Lite and Gemma 4 E2B, and a test of 1 to 100 questions in one request.",
+      "url": "https://dev.to/gde/benchmarking-the-gemini-decisions-api-l31",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-13T23:45:04Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdecisions-api%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.df71ccfa.jpg",
+      "readTime": "13 min read",
+      "reactions": 21
     },
     {
       "id": "devto-5031327",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg",
       "readTime": "2 min read",
       "reactions": 33
-    },
-    {
-      "id": "devto-5015589",
-      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
-      "summary": "An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who...",
-      "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-11T08:35:15Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjm7bc53mhi6cxl48ue89.png",
-      "readTime": "12 min read",
-      "reactions": 116
     }
   ]
 }
