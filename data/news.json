@@ -1,11 +1,154 @@
 {
-  "updatedAt": "2026-11-21T12:42:22.666Z",
+  "updatedAt": "2026-11-21T18:34:34.314Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50591853",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "summary": "Discussion with 10 upvotes and 1 comments on Hacker News.",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T18:02:19.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 10
+    },
+    {
+      "id": "hn-50591835",
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "summary": "Discussion with 26 upvotes and 7 comments on Hacker News.",
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T17:59:59.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 26
+    },
+    {
+      "id": "hn-50591260",
+      "title": "PostgreSQL Extensions in Go",
+      "summary": "Discussion with 37 upvotes and 1 comments on Hacker News.",
+      "url": "https://jespino.github.io/gopgext/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T17:08:04.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 37
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Here are the top AI agents that can live in your text messages ",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work....",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywoo...",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50590441",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "summary": "Discussion with 17 upvotes and 0 comments on Hacker News.",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T15:54:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 17
+    },
+    {
+      "id": "hn-50590279",
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "summary": "Discussion with 55 upvotes and 38 comments on Hacker News.",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T15:39:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 55
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits....",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T15:18:29.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50589618",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "summary": "Discussion with 462 upvotes and 368 comments on Hacker News.",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T14:36:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 462
+    },
+    {
+      "id": "hn-50588982",
+      "title": "Detonating a pile of lead azide",
+      "summary": "Discussion with 352 upvotes and 224 comments on Hacker News.",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T13:23:14.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 352
+    },
+    {
+      "id": "devto-5080715",
+      "title": "The Chairs Are Back. The Coffee Is On. ☕",
+      "summary": "Welcome to The Third Cup.           The Renovation Is Done. We're Open Again!   Finally, the...",
+      "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-21T11:24:29Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zgv4z7esusgb6fkjeiu.jpg",
+      "readTime": "5 min read",
+      "reactions": 71
+    },
+    {
       "id": "hn-50587875",
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "summary": "Discussion with 12 upvotes and 3 comments on Hacker News.",
+      "title": "My monitor was cutting my download speed by 75%",
+      "summary": "Discussion with 294 upvotes and 151 comments on Hacker News.",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,25 +156,12 @@
       "publishedAt": "2026-11-21T10:36:32.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 12
-    },
-    {
-      "id": "hn-50587859",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "Discussion with 55 upvotes and 19 comments on Hacker News.",
-      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-21T10:33:57.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 55
+      "reactions": 294
     },
     {
       "id": "hn-50587208",
       "title": "RCE in Gnupg",
-      "summary": "Discussion with 58 upvotes and 10 comments on Hacker News.",
+      "summary": "Discussion with 175 upvotes and 56 comments on Hacker News.",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,33 +169,7 @@
       "publishedAt": "2026-11-21T08:32:58.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 58
-    },
-    {
-      "id": "hn-50586648",
-      "title": "Surprisingly Adorable Insect Portraits",
-      "summary": "Discussion with 65 upvotes and 13 comments on Hacker News.",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-21T06:44:14.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 65
-    },
-    {
-      "id": "hn-50586292",
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Discussion with 90 upvotes and 25 comments on Hacker News.",
-      "url": "http://ricapar.net/ClawDOS/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-21T05:38:01.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 90
+      "reactions": 175
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -79,45 +183,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50585376",
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "summary": "Discussion with 121 upvotes and 43 comments on Hacker News.",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T02:40:39.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 121
-    },
-    {
-      "id": "hn-50583761",
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "summary": "Discussion with 268 upvotes and 236 comments on Hacker News.",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T23:18:32.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 268
-    },
-    {
-      "id": "hn-50583274",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "summary": "Discussion with 289 upvotes and 74 comments on Hacker News.",
-      "url": "https://ninlive.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T22:30:47.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 289
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -135,7 +200,7 @@
     {
       "id": "hn-50581260",
       "title": "Inkling 2 Mini",
-      "summary": "Discussion with 1087 upvotes and 202 comments on Hacker News.",
+      "summary": "Discussion with 1253 upvotes and 252 comments on Hacker News.",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -143,7 +208,7 @@
       "publishedAt": "2026-11-20T20:12:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1087
+      "reactions": 1253
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -187,7 +252,7 @@
     {
       "id": "hn-50579568",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "summary": "Discussion with 2189 upvotes and 1029 comments on Hacker News.",
+      "summary": "Discussion with 2322 upvotes and 1111 comments on Hacker News.",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -195,20 +260,7 @@
       "publishedAt": "2026-11-20T18:33:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 2189
-    },
-    {
-      "id": "hn-50579331",
-      "title": "We promoted developers into architects without informing them",
-      "summary": "Discussion with 469 upvotes and 256 comments on Hacker News.",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T18:17:51.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 469
+      "reactions": 2322
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -224,30 +276,17 @@
       "reactions": 100
     },
     {
-      "id": "hn-50578358",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "summary": "Discussion with 469 upvotes and 193 comments on Hacker News.",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "id": "hn-50577991",
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "summary": "Discussion with 69 upvotes and 13 comments on Hacker News.",
+      "url": "https://klauria.tech/klauria-art/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-20T17:21:36.000Z",
+      "publishedAt": "2026-11-20T17:03:39.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 469
-    },
-    {
-      "id": "hn-50577265",
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "summary": "Discussion with 428 upvotes and 126 comments on Hacker News.",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T16:29:06.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 428
+      "reactions": 69
     },
     {
       "id": "devto-5056698",
@@ -260,7 +299,7 @@
       "publishedAt": "2026-11-20T16:28:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
       "readTime": "4 min read",
-      "reactions": 30
+      "reactions": 35
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -276,22 +315,9 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password....",
-      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-20T15:46:07.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
       "id": "hn-50574968",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "summary": "Discussion with 2703 upvotes and 1886 comments on Hacker News.",
+      "summary": "Discussion with 2820 upvotes and 1987 comments on Hacker News.",
       "url": "https://alpo.ge/remark.pdf",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -299,33 +325,7 @@
       "publishedAt": "2026-11-20T14:16:21.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 2703
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace....",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T14:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang....",
-      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T13:25:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 2820
     },
     {
       "id": "devto-5081870",
@@ -338,7 +338,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 25
+      "reactions": 27
     },
     {
       "id": "devto-5074788",
@@ -377,7 +377,7 @@
       "publishedAt": "2026-11-19T09:20:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2kkbuaxsa4tzcezoty0.png",
       "readTime": "5 min read",
-      "reactions": 24
+      "reactions": 27
     },
     {
       "id": "devto-5069884",
@@ -403,7 +403,7 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 84
+      "reactions": 87
     },
     {
       "id": "devto-5060452",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 217
+      "reactions": 220
     },
     {
       "id": "devto-5060325",
@@ -430,6 +430,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
       "readTime": "2 min read",
       "reactions": 19
+    },
+    {
+      "id": "hn-50535228",
+      "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+      "summary": "Discussion with 28 upvotes and 7 comments on Hacker News.",
+      "url": "https://8bitarchitect.net/machines/elektronika-bk-0010/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T17:46:37.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 28
     },
     {
       "id": "devto-5058784",
@@ -455,12 +468,12 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 82
+      "reactions": 86
     },
     {
       "id": "hn-50532613",
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "summary": "Discussion with 76 upvotes and 16 comments on Hacker News.",
+      "summary": "Discussion with 498 upvotes and 160 comments on Hacker News.",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -468,7 +481,7 @@
       "publishedAt": "2026-11-17T15:22:57.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 76
+      "reactions": 498
     },
     {
       "id": "devto-5015822",
@@ -481,7 +494,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 76
+      "reactions": 77
     },
     {
       "id": "devto-5054249",
@@ -507,7 +520,7 @@
       "publishedAt": "2026-11-16T22:55:58Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cwto9v5xn9emamdwcf0.jpg",
       "readTime": "1 min read",
-      "reactions": 33
+      "reactions": 35
     },
     {
       "id": "devto-5004164",
@@ -637,7 +650,7 @@
       "publishedAt": "2026-11-12T15:35:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6csfx8i2kft82mrqhcj6.png",
       "readTime": "8 min read",
-      "reactions": 61
+      "reactions": 62
     },
     {
       "id": "devto-5024286",
@@ -702,19 +715,6 @@
       "publishedAt": "2026-11-11T20:51:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
       "readTime": "3 min read",
-      "reactions": 33
-    },
-    {
-      "id": "devto-4978580",
-      "title": "AI Code Is Unmaintainable? So Is Ours.",
-      "summary": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
-      "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-11T15:59:00Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg",
-      "readTime": "2 min read",
       "reactions": 33
     }
   ]
