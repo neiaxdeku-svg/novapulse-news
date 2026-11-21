@@ -1,24 +1,63 @@
 {
-  "updatedAt": "2026-11-21T00:50:31.729Z",
+  "updatedAt": "2026-11-21T06:54:53.219Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50583982",
-      "title": "Re: Riemann",
-      "summary": "Discussion with 59 upvotes and 20 comments on Hacker News.",
-      "url": "https://borretti.me/article/re-riemann",
+      "id": "hn-50586292",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "summary": "Discussion with 11 upvotes and 2 comments on Hacker News.",
+      "url": "http://ricapar.net/ClawDOS/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-21T05:38:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 11
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India....",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "startups",
+      "publishedAt": "2026-11-21T04:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50585593",
+      "title": "Backblaze Notice at Collection and Privacy Policy",
+      "summary": "Discussion with 150 upvotes and 45 comments on Hacker News.",
+      "url": "https://www.backblaze.com/company/policy/privacy",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-20T23:42:44.000Z",
+      "publishedAt": "2026-11-21T03:23:16.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 59
+      "reactions": 150
+    },
+    {
+      "id": "hn-50585376",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "summary": "Discussion with 43 upvotes and 12 comments on Hacker News.",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T02:40:39.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 43
     },
     {
       "id": "hn-50583768",
       "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "summary": "Discussion with 25 upvotes and 3 comments on Hacker News.",
+      "summary": "Discussion with 83 upvotes and 17 comments on Hacker News.",
       "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,25 +65,25 @@
       "publishedAt": "2026-11-20T23:19:44.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 25
+      "reactions": 83
     },
     {
-      "id": "hn-50583445",
-      "title": "AI may have solved the most important problem in mathematics",
-      "summary": "Discussion with 15 upvotes and 7 comments on Hacker News.",
-      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "id": "hn-50583761",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "summary": "Discussion with 86 upvotes and 89 comments on Hacker News.",
+      "url": "https://news.ycombinator.com/item?id=50583761",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T22:46:59.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "category": "dev",
+      "publishedAt": "2026-11-20T23:18:32.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 15
+      "reactions": 86
     },
     {
       "id": "hn-50583274",
       "title": "NINLIVE: The Nine Inch Nails live archive",
-      "summary": "Discussion with 85 upvotes and 23 comments on Hacker News.",
+      "summary": "Discussion with 211 upvotes and 56 comments on Hacker News.",
       "url": "https://ninlive.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,7 +91,7 @@
       "publishedAt": "2026-11-20T22:30:47.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 85
+      "reactions": 211
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -70,7 +109,7 @@
     {
       "id": "hn-50581260",
       "title": "Inkling 2 Mini",
-      "summary": "Discussion with 617 upvotes and 100 comments on Hacker News.",
+      "summary": "Discussion with 888 upvotes and 163 comments on Hacker News.",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,25 +117,12 @@
       "publishedAt": "2026-11-20T20:12:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 617
-    },
-    {
-      "id": "hn-50581177",
-      "title": "And yet, it moves",
-      "summary": "Discussion with 71 upvotes and 35 comments on Hacker News.",
-      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T20:07:55.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 71
+      "reactions": 888
     },
     {
       "id": "hn-50581110",
       "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "summary": "Discussion with 90 upvotes and 13 comments on Hacker News.",
+      "summary": "Discussion with 178 upvotes and 43 comments on Hacker News.",
       "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -104,7 +130,7 @@
       "publishedAt": "2026-11-20T20:03:59.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 90
+      "reactions": 178
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -148,7 +174,7 @@
     {
       "id": "hn-50579568",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "summary": "Discussion with 1474 upvotes and 678 comments on Hacker News.",
+      "summary": "Discussion with 1863 upvotes and 860 comments on Hacker News.",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -156,12 +182,12 @@
       "publishedAt": "2026-11-20T18:33:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1474
+      "reactions": 1863
     },
     {
       "id": "hn-50579331",
       "title": "We promoted developers into architects without informing them",
-      "summary": "Discussion with 278 upvotes and 171 comments on Hacker News.",
+      "summary": "Discussion with 380 upvotes and 219 comments on Hacker News.",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -169,20 +195,7 @@
       "publishedAt": "2026-11-20T18:17:51.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 278
-    },
-    {
-      "id": "hn-50579297",
-      "title": "Vibecoding an inference chip",
-      "summary": "Discussion with 107 upvotes and 39 comments on Hacker News.",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-20T18:15:16.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 107
+      "reactions": 380
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -200,7 +213,7 @@
     {
       "id": "hn-50578358",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "summary": "Discussion with 324 upvotes and 133 comments on Hacker News.",
+      "summary": "Discussion with 402 upvotes and 170 comments on Hacker News.",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -208,12 +221,12 @@
       "publishedAt": "2026-11-20T17:21:36.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 324
+      "reactions": 402
     },
     {
       "id": "hn-50577265",
       "title": "Language Models Can Rewrite Their Own Weights",
-      "summary": "Discussion with 329 upvotes and 107 comments on Hacker News.",
+      "summary": "Discussion with 385 upvotes and 116 comments on Hacker News.",
       "url": "https://arxiv.org/abs/2611.21885",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -221,7 +234,7 @@
       "publishedAt": "2026-11-20T16:29:06.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 329
+      "reactions": 385
     },
     {
       "id": "devto-5056698",
@@ -265,7 +278,7 @@
     {
       "id": "hn-50576232",
       "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "summary": "Discussion with 257 upvotes and 80 comments on Hacker News.",
+      "summary": "Discussion with 273 upvotes and 86 comments on Hacker News.",
       "url": "https://github.com/tristanbuckmaster/navier-stokes/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -273,12 +286,12 @@
       "publishedAt": "2026-11-20T15:34:31.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 257
+      "reactions": 273
     },
     {
       "id": "hn-50574968",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "summary": "Discussion with 2320 upvotes and 1571 comments on Hacker News.",
+      "summary": "Discussion with 2522 upvotes and 1742 comments on Hacker News.",
       "url": "https://alpo.ge/remark.pdf",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,7 +299,7 @@
       "publishedAt": "2026-11-20T14:16:21.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 2320
+      "reactions": 2522
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -315,19 +328,6 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said....",
-      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T13:21:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
       "id": "devto-5081870",
       "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
       "summary": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
@@ -338,20 +338,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 22
-    },
-    {
-      "id": "hn-50572355",
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "summary": "Discussion with 616 upvotes and 289 comments on Hacker News.",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T09:43:19.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 616
+      "reactions": 23
     },
     {
       "id": "devto-5074788",
@@ -364,7 +351,7 @@
       "publishedAt": "2026-11-20T08:55:01Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0iw1v236kimfe2ajhymq.png",
       "readTime": "1 min read",
-      "reactions": 28
+      "reactions": 29
     },
     {
       "id": "devto-5076491",
@@ -377,7 +364,20 @@
       "publishedAt": "2026-11-20T00:36:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu7kwsgmm696mwcbkbl0k.png",
       "readTime": "4 min read",
-      "reactions": 49
+      "reactions": 50
+    },
+    {
+      "id": "devto-5072558",
+      "title": "Can a plain table hijack an AI agent?",
+      "summary": "Living repo: every case in this article is in agent-redteam...",
+      "url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-19T09:20:49Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2kkbuaxsa4tzcezoty0.png",
+      "readTime": "5 min read",
+      "reactions": 24
     },
     {
       "id": "devto-5069884",
@@ -390,7 +390,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 105
+      "reactions": 106
     },
     {
       "id": "devto-5059675",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 199
+      "reactions": 205
     },
     {
       "id": "devto-5060325",
@@ -432,6 +432,32 @@
       "reactions": 19
     },
     {
+      "id": "devto-5058784",
+      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
+      "summary": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. Thinking doubled the time and moved no score beyond chance; the drafter cut the time by 1.55 to 2.04 times and changed no score.",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-17T17:13:33Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-thinking-3050%2Fdevto-cover.6b0d9ada.jpg",
+      "readTime": "9 min read",
+      "reactions": 26
+    },
+    {
+      "id": "hn-50534387",
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "summary": "Discussion with 103 upvotes and 37 comments on Hacker News.",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T16:58:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 103
+    },
+    {
       "id": "devto-5058432",
       "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
       "summary": "AI agents now open pull requests on their own. I gave Amazon Nova Pro a real GitHub bug, then built a deterministic Python gate that rejects it when it cannot prove the fix. No model grades the model.",
@@ -442,7 +468,7 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
       "readTime": "6 min read",
-      "reactions": 74
+      "reactions": 76
     },
     {
       "id": "devto-5015822",
@@ -494,7 +520,7 @@
       "publishedAt": "2026-11-16T04:34:39Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1p4kxontmb681a8hynvf.png",
       "readTime": "5 min read",
-      "reactions": 83
+      "reactions": 84
     },
     {
       "id": "devto-5039203",
@@ -690,32 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjm7bc53mhi6cxl48ue89.png",
       "readTime": "12 min read",
       "reactions": 116
-    },
-    {
-      "id": "devto-4982713",
-      "title": "Ask More of Your UI",
-      "summary": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
-      "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-11T01:39:15Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsbhz5b16c123bk8q1zp6.jpg",
-      "readTime": "4 min read",
-      "reactions": 61
-    },
-    {
-      "id": "devto-5012097",
-      "title": "The Fastest LLM Call Is The One You Never Make",
-      "summary": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
-      "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-11T01:37:24Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fszcnl5akpzp6fx2g0qar.png",
-      "readTime": "3 min read",
-      "reactions": 16
     }
   ]
 }
