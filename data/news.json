@@ -1,50 +1,115 @@
 {
-  "updatedAt": "2026-11-22T12:41:29.598Z",
+  "updatedAt": "2026-11-22T18:35:49.125Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50596960",
-      "title": "Notes on the discrete Fourier transform (DFT)",
-      "summary": "Discussion with 36 upvotes and 5 comments on Hacker News.",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "id": "hn-50601525",
+      "title": "Perplexity and Intelligence",
+      "summary": "Discussion with 136 upvotes and 70 comments on Hacker News.",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-22T06:52:25.000Z",
+      "publishedAt": "2026-11-22T17:06:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 36
+      "reactions": 136
     },
     {
-      "id": "hn-50596664",
-      "title": "Show HN: The Riemann Proof Handbook",
-      "summary": "Discussion with 64 upvotes and 33 comments on Hacker News.",
-      "url": "https://github.com/tamnd/riemann-handbook",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T05:46:30.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 64
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it....",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-22T17:06:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
     },
     {
-      "id": "hn-50596155",
-      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-      "summary": "Discussion with 60 upvotes and 36 comments on Hacker News.",
-      "url": "https://github.com/EL4CTEO/fast-anything",
+      "id": "hn-50600677",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "summary": "Discussion with 91 upvotes and 72 comments on Hacker News.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-22T04:10:09.000Z",
+      "publishedAt": "2026-11-22T15:42:40.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 60
+      "reactions": 91
+    },
+    {
+      "id": "hn-50600622",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "summary": "Discussion with 43 upvotes and 10 comments on Hacker News.",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T15:35:24.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 43
+    },
+    {
+      "id": "hn-50600511",
+      "title": "Open Social Web Alliance",
+      "summary": "Discussion with 140 upvotes and 132 comments on Hacker News.",
+      "url": "https://osw-alliance.net/en/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T15:24:32.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 140
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Can a TV be too large? An investigation",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges....",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50599762",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "summary": "Discussion with 158 upvotes and 39 comments on Hacker News.",
+      "url": "https://github.com/gulivan/worker755",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-22T13:56:58.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 158
+    },
+    {
+      "id": "hn-50597612",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "summary": "Discussion with 584 upvotes and 653 comments on Hacker News.",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T08:57:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 584
     },
     {
       "id": "hn-50596133",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "summary": "Discussion with 629 upvotes and 385 comments on Hacker News.",
+      "summary": "Discussion with 996 upvotes and 596 comments on Hacker News.",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,25 +117,12 @@
       "publishedAt": "2026-11-22T04:04:56.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 629
-    },
-    {
-      "id": "hn-50595554",
-      "title": "Data Processing Incidents on Inference Providers",
-      "summary": "Discussion with 176 upvotes and 67 comments on Hacker News.",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T02:14:14.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 176
+      "reactions": 996
     },
     {
       "id": "hn-50594911",
       "title": "Sandwich Simulator",
-      "summary": "Discussion with 317 upvotes and 109 comments on Hacker News.",
+      "summary": "Discussion with 472 upvotes and 163 comments on Hacker News.",
       "url": "https://stulle.app/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,7 +130,20 @@
       "publishedAt": "2026-11-22T00:07:59.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 317
+      "reactions": 472
+    },
+    {
+      "id": "hn-50594182",
+      "title": "A Better Vocabulary for Testing",
+      "summary": "Discussion with 51 upvotes and 15 comments on Hacker News.",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-21T22:15:39.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 51
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -130,12 +195,12 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 30
+      "reactions": 31
     },
     {
       "id": "hn-50591853",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "summary": "Discussion with 483 upvotes and 121 comments on Hacker News.",
+      "summary": "Discussion with 546 upvotes and 131 comments on Hacker News.",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -143,7 +208,7 @@
       "publishedAt": "2026-11-21T18:02:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 483
+      "reactions": 546
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -187,7 +252,7 @@
     {
       "id": "hn-50589618",
       "title": "Lean verification of the Riemann Hypothesis",
-      "summary": "Discussion with 1077 upvotes and 895 comments on Hacker News.",
+      "summary": "Discussion with 1181 upvotes and 973 comments on Hacker News.",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -195,20 +260,7 @@
       "publishedAt": "2026-11-21T14:36:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1077
-    },
-    {
-      "id": "hn-50588982",
-      "title": "Detonating a pile of lead azide",
-      "summary": "Discussion with 628 upvotes and 396 comments on Hacker News.",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T13:23:14.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 628
+      "reactions": 1181
     },
     {
       "id": "devto-5080715",
@@ -221,20 +273,7 @@
       "publishedAt": "2026-11-21T11:24:29Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zgv4z7esusgb6fkjeiu.jpg",
       "readTime": "5 min read",
-      "reactions": 95
-    },
-    {
-      "id": "hn-50587875",
-      "title": "My monitor was cutting my download speed by 75%",
-      "summary": "Discussion with 605 upvotes and 279 comments on Hacker News.",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T10:36:32.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 605
+      "reactions": 98
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -260,25 +299,12 @@
       "publishedAt": "2026-11-20T23:19:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg36g47ikmelo94gjrifu.jpg",
       "readTime": "11 min read",
-      "reactions": 16
-    },
-    {
-      "id": "hn-50583028",
-      "title": "Getting the mind to steer the body to steer you",
-      "summary": "Discussion with 311 upvotes and 103 comments on Hacker News.",
-      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T22:11:05.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 311
+      "reactions": 17
     },
     {
       "id": "hn-50582069",
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "summary": "Discussion with 1090 upvotes and 235 comments on Hacker News.",
+      "summary": "Discussion with 1273 upvotes and 273 comments on Hacker News.",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,7 +312,7 @@
       "publishedAt": "2026-11-20T21:03:12.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1090
+      "reactions": 1273
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -297,32 +323,6 @@
       "sourceUrl": "https://techcrunch.com",
       "category": "ai",
       "publishedAt": "2026-11-20T20:58:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building....",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T19:53:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too....",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T19:32:08.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
@@ -367,19 +367,6 @@
       "reactions": 32
     },
     {
-      "id": "hn-50569846",
-      "title": "If tiny 'primordial' black holes exist",
-      "summary": "Discussion with 44 upvotes and 24 comments on Hacker News.",
-      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-20T03:37:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 44
-    },
-    {
       "id": "devto-5076491",
       "title": "What team-wide AI adoption actually takes",
       "summary": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
@@ -395,7 +382,7 @@
     {
       "id": "hn-50566495",
       "title": "Self-hosted library branch over public web OPDS",
-      "summary": "Discussion with 20 upvotes and 2 comments on Hacker News.",
+      "summary": "Discussion with 89 upvotes and 27 comments on Hacker News.",
       "url": "https://joinmayberry.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -403,7 +390,20 @@
       "publishedAt": "2026-11-19T21:15:47.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 20
+      "reactions": 89
+    },
+    {
+      "id": "hn-50562207",
+      "title": "Inside PyPy: First Contact with RPython",
+      "summary": "Discussion with 12 upvotes and 2 comments on Hacker News.",
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T16:26:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 12
     },
     {
       "id": "devto-5072558",
@@ -416,7 +416,20 @@
       "publishedAt": "2026-11-19T09:20:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2kkbuaxsa4tzcezoty0.png",
       "readTime": "5 min read",
-      "reactions": 28
+      "reactions": 29
+    },
+    {
+      "id": "devto-5071051",
+      "title": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026",
+      "summary": "I keep coming back to one small question: why do we ask a model to write a paragraph when all our...",
+      "url": "https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-19T07:21:48Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz1fpw7x5hnz7q1xptklj.jpg",
+      "readTime": "16 min read",
+      "reactions": 26
     },
     {
       "id": "devto-5069884",
@@ -430,6 +443,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
       "reactions": 115
+    },
+    {
+      "id": "hn-50555002",
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "summary": "Discussion with 52 upvotes and 38 comments on Hacker News.",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-19T01:37:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 52
     },
     {
       "id": "devto-5059675",
@@ -455,7 +481,20 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 233
+      "reactions": 238
+    },
+    {
+      "id": "devto-5062446",
+      "title": "Part 6: The Walkthrough That Only Worked on My Machine",
+      "summary": "This is Part 6 of a series building an HL7 v2-to-FHIR R4 interoperability service in public. The...",
+      "url": "https://dev.to/ndcodes/part-6-the-walkthrough-that-only-worked-on-my-machine-15e8",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-18T06:43:15Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3f1ropjeo5nj9o1j3vxo.png",
+      "readTime": "12 min read",
+      "reactions": 25
     },
     {
       "id": "devto-5060325",
@@ -468,7 +507,7 @@
       "publishedAt": "2026-11-17T23:18:41Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
       "readTime": "2 min read",
-      "reactions": 19
+      "reactions": 20
     },
     {
       "id": "devto-5058784",
@@ -481,20 +520,7 @@
       "publishedAt": "2026-11-17T17:13:33Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-thinking-3050%2Fdevto-cover.6b0d9ada.jpg",
       "readTime": "9 min read",
-      "reactions": 26
-    },
-    {
-      "id": "hn-50533945",
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "summary": "Discussion with 73 upvotes and 19 comments on Hacker News.",
-      "url": "https://github.com/pithings/unkernel",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-17T16:35:46.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 73
+      "reactions": 27
     },
     {
       "id": "devto-5058432",
@@ -520,7 +546,7 @@
       "publishedAt": "2026-11-17T11:26:15Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
       "readTime": "3 min read",
-      "reactions": 77
+      "reactions": 78
     },
     {
       "id": "devto-5054249",
@@ -637,7 +663,7 @@
       "publishedAt": "2026-11-13T16:49:06Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg",
       "readTime": "9 min read",
-      "reactions": 42
+      "reactions": 43
     },
     {
       "id": "devto-5025610",
@@ -666,6 +692,19 @@
       "reactions": 106
     },
     {
+      "id": "devto-5029079",
+      "title": "How Open-Source LLMs Differ: Comparing 130+ Model Architectures",
+      "summary": "A few weeks ago I wrote about LLM Explained, a free, open-source course of 43 interactive pages that...",
+      "url": "https://dev.to/amananandrai/how-open-source-llms-differ-comparing-130-model-architectures-3b9d",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-13T10:38:47Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1caxvdi402gk9ivepybq.jpg",
+      "readTime": "7 min read",
+      "reactions": 9
+    },
+    {
       "id": "devto-5026042",
       "title": "Four Applications and One Ask. Guess Which One Scared Me.",
       "summary": "Waitlisted once. Applied again anyway.   TL;DR: In one day I sent four applications: three AI...",
@@ -677,45 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v1imq7yz3dr9u8h3b5a.png",
       "readTime": "4 min read",
       "reactions": 66
-    },
-    {
-      "id": "devto-5017672",
-      "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
-      "summary": "Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem.",
-      "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-12T16:30:00Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa20dm7o9oqkdd8zvyns3.jpg",
-      "readTime": "9 min read",
-      "reactions": 65
-    },
-    {
-      "id": "devto-4911275",
-      "title": "AI is getting better. Here is my plan to stay ahead.",
-      "summary": "AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...",
-      "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-12T15:35:00Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6csfx8i2kft82mrqhcj6.png",
-      "readTime": "8 min read",
-      "reactions": 63
-    },
-    {
-      "id": "devto-5024286",
-      "title": "Long Live Rails",
-      "summary": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
-      "url": "https://dev.to/ben/long-live-rails-3p21",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-12T15:30:50Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqb9kfsla99mu47xwg4z0.jpg",
-      "readTime": "5 min read",
-      "reactions": 141
     }
   ]
 }
