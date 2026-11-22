@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-11-22T06:54:13.133Z",
+  "updatedAt": "2026-11-22T12:41:29.598Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50596960",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "summary": "Discussion with 36 upvotes and 5 comments on Hacker News.",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T06:52:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 36
+    },
+    {
       "id": "hn-50596664",
       "title": "Show HN: The Riemann Proof Handbook",
-      "summary": "Discussion with 6 upvotes and 0 comments on Hacker News.",
+      "summary": "Discussion with 64 upvotes and 33 comments on Hacker News.",
       "url": "https://github.com/tamnd/riemann-handbook",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,12 +26,25 @@
       "publishedAt": "2026-11-22T05:46:30.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 6
+      "reactions": 64
+    },
+    {
+      "id": "hn-50596155",
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "summary": "Discussion with 60 upvotes and 36 comments on Hacker News.",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T04:10:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 60
     },
     {
       "id": "hn-50596133",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "summary": "Discussion with 266 upvotes and 123 comments on Hacker News.",
+      "summary": "Discussion with 629 upvotes and 385 comments on Hacker News.",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,25 +52,12 @@
       "publishedAt": "2026-11-22T04:04:56.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 266
-    },
-    {
-      "id": "hn-50595725",
-      "title": "The Most Popular Car Colors in America",
-      "summary": "Discussion with 21 upvotes and 36 comments on Hacker News.",
-      "url": "https://www.iseecars.com/most-popular-car-colors-study",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T02:47:18.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 21
+      "reactions": 629
     },
     {
       "id": "hn-50595554",
       "title": "Data Processing Incidents on Inference Providers",
-      "summary": "Discussion with 97 upvotes and 34 comments on Hacker News.",
+      "summary": "Discussion with 176 upvotes and 67 comments on Hacker News.",
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,25 +65,12 @@
       "publishedAt": "2026-11-22T02:14:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 97
-    },
-    {
-      "id": "hn-50595537",
-      "title": "The Mythology of Conscious AI",
-      "summary": "Discussion with 30 upvotes and 64 comments on Hacker News.",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-22T02:10:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 30
+      "reactions": 176
     },
     {
       "id": "hn-50594911",
       "title": "Sandwich Simulator",
-      "summary": "Discussion with 142 upvotes and 55 comments on Hacker News.",
+      "summary": "Discussion with 317 upvotes and 109 comments on Hacker News.",
       "url": "https://stulle.app/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,20 +78,7 @@
       "publishedAt": "2026-11-22T00:07:59.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 142
-    },
-    {
-      "id": "hn-50594132",
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "summary": "Discussion with 101 upvotes and 10 comments on Hacker News.",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T22:09:58.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 101
+      "reactions": 317
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -133,22 +120,22 @@
       "reactions": 100
     },
     {
-      "id": "hn-50592097",
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "summary": "Discussion with 108 upvotes and 47 comments on Hacker News.",
-      "url": "https://pwn.ai/upload2shell",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T18:29:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 108
+      "id": "devto-5036802",
+      "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+      "summary": "The keys you miss become the lesson.   TL;DR: Dead Keys is my entry for the Kiroween 2026 hackathon,...",
+      "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-21T18:23:38Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
+      "readTime": "9 min read",
+      "reactions": 30
     },
     {
       "id": "hn-50591853",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "summary": "Discussion with 429 upvotes and 108 comments on Hacker News.",
+      "summary": "Discussion with 483 upvotes and 121 comments on Hacker News.",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -156,7 +143,7 @@
       "publishedAt": "2026-11-21T18:02:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 429
+      "reactions": 483
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -200,7 +187,7 @@
     {
       "id": "hn-50589618",
       "title": "Lean verification of the Riemann Hypothesis",
-      "summary": "Discussion with 946 upvotes and 809 comments on Hacker News.",
+      "summary": "Discussion with 1077 upvotes and 895 comments on Hacker News.",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -208,12 +195,12 @@
       "publishedAt": "2026-11-21T14:36:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 946
+      "reactions": 1077
     },
     {
       "id": "hn-50588982",
       "title": "Detonating a pile of lead azide",
-      "summary": "Discussion with 585 upvotes and 377 comments on Hacker News.",
+      "summary": "Discussion with 628 upvotes and 396 comments on Hacker News.",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -221,7 +208,7 @@
       "publishedAt": "2026-11-21T13:23:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 585
+      "reactions": 628
     },
     {
       "id": "devto-5080715",
@@ -234,12 +221,12 @@
       "publishedAt": "2026-11-21T11:24:29Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zgv4z7esusgb6fkjeiu.jpg",
       "readTime": "5 min read",
-      "reactions": 94
+      "reactions": 95
     },
     {
       "id": "hn-50587875",
       "title": "My monitor was cutting my download speed by 75%",
-      "summary": "Discussion with 551 upvotes and 265 comments on Hacker News.",
+      "summary": "Discussion with 605 upvotes and 279 comments on Hacker News.",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -247,7 +234,7 @@
       "publishedAt": "2026-11-21T10:36:32.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 551
+      "reactions": 605
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -273,12 +260,12 @@
       "publishedAt": "2026-11-20T23:19:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg36g47ikmelo94gjrifu.jpg",
       "readTime": "11 min read",
-      "reactions": 13
+      "reactions": 16
     },
     {
       "id": "hn-50583028",
       "title": "Getting the mind to steer the body to steer you",
-      "summary": "Discussion with 231 upvotes and 75 comments on Hacker News.",
+      "summary": "Discussion with 311 upvotes and 103 comments on Hacker News.",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,12 +273,12 @@
       "publishedAt": "2026-11-20T22:11:05.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 231
+      "reactions": 311
     },
     {
       "id": "hn-50582069",
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "summary": "Discussion with 872 upvotes and 202 comments on Hacker News.",
+      "summary": "Discussion with 1090 upvotes and 235 comments on Hacker News.",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -299,7 +286,7 @@
       "publishedAt": "2026-11-20T21:03:12.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 872
+      "reactions": 1090
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -351,7 +338,7 @@
       "publishedAt": "2026-11-20T16:28:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
       "readTime": "4 min read",
-      "reactions": 39
+      "reactions": 41
     },
     {
       "id": "devto-5081870",
@@ -377,7 +364,20 @@
       "publishedAt": "2026-11-20T08:55:01Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0iw1v236kimfe2ajhymq.png",
       "readTime": "1 min read",
-      "reactions": 31
+      "reactions": 32
+    },
+    {
+      "id": "hn-50569846",
+      "title": "If tiny 'primordial' black holes exist",
+      "summary": "Discussion with 44 upvotes and 24 comments on Hacker News.",
+      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T03:37:41.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 44
     },
     {
       "id": "devto-5076491",
@@ -393,17 +393,17 @@
       "reactions": 55
     },
     {
-      "id": "hn-50560314",
-      "title": "Split Radiance Cascades",
-      "summary": "Discussion with 13 upvotes and 0 comments on Hacker News.",
-      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "id": "hn-50566495",
+      "title": "Self-hosted library branch over public web OPDS",
+      "summary": "Discussion with 20 upvotes and 2 comments on Hacker News.",
+      "url": "https://joinmayberry.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-19T14:08:33.000Z",
+      "publishedAt": "2026-11-19T21:15:47.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 13
+      "reactions": 20
     },
     {
       "id": "devto-5072558",
@@ -429,7 +429,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 113
+      "reactions": 115
     },
     {
       "id": "devto-5059675",
@@ -455,7 +455,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 229
+      "reactions": 233
     },
     {
       "id": "devto-5060325",
@@ -482,6 +482,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-thinking-3050%2Fdevto-cover.6b0d9ada.jpg",
       "readTime": "9 min read",
       "reactions": 26
+    },
+    {
+      "id": "hn-50533945",
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "summary": "Discussion with 73 upvotes and 19 comments on Hacker News.",
+      "url": "https://github.com/pithings/unkernel",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-17T16:35:46.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 73
     },
     {
       "id": "devto-5058432",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqb9kfsla99mu47xwg4z0.jpg",
       "readTime": "5 min read",
       "reactions": 141
-    },
-    {
-      "id": "devto-5018815",
-      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
-      "summary": "What exactly is MCP? Is it some mysterious technology that requires secret knowledge to implement?...",
-      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-12T08:14:36Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ajaeuift6x1wfndpe9s.png",
-      "readTime": "13 min read",
-      "reactions": 217
     }
   ]
 }
