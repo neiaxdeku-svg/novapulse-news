@@ -1,50 +1,102 @@
 {
-  "updatedAt": "2026-11-23T00:48:11.174Z",
+  "updatedAt": "2026-11-23T07:15:58.922Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50605483",
-      "title": "FBI is having a mass hire for IT specialists",
-      "summary": "Discussion with 20 upvotes and 24 comments on Hacker News.",
-      "url": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+      "id": "hn-50608390",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "Discussion with 1 upvotes and 0 comments on Hacker News.",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-22T23:58:22.000Z",
+      "publishedAt": "2026-11-23T07:01:08.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 20
+      "reactions": 1
     },
     {
-      "id": "hn-50605479",
-      "title": "Nespresso's project to reduce grams of coffee per capsule",
-      "summary": "Discussion with 51 upvotes and 42 comments on Hacker News.",
-      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "id": "hn-50607668",
+      "title": "Yes, 17M lines of Lean is a lot",
+      "summary": "Discussion with 15 upvotes and 10 comments on Hacker News.",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-22T23:57:45.000Z",
+      "publishedAt": "2026-11-23T05:00:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 51
+      "reactions": 15
     },
     {
-      "id": "hn-50605045",
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "summary": "Discussion with 108 upvotes and 64 comments on Hacker News.",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "id": "hn-50607627",
+      "title": "A Partial Evaluator for C",
+      "summary": "Discussion with 29 upvotes and 1 comments on Hacker News.",
+      "url": "https://phoenix.labri.fr/software/tempo/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-22T23:12:10.000Z",
+      "publishedAt": "2026-11-23T04:51:48.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 108
+      "reactions": 29
+    },
+    {
+      "id": "hn-50607261",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "summary": "Discussion with 161 upvotes and 72 comments on Hacker News.",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T03:49:24.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 161
+    },
+    {
+      "id": "hn-50606499",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "summary": "Discussion with 45 upvotes and 10 comments on Hacker News.",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T01:50:23.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 45
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic....",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50606192",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "summary": "Discussion with 401 upvotes and 56 comments on Hacker News.",
+      "url": "https://spelunkr.tv",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T01:13:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 401
     },
     {
       "id": "hn-50604988",
       "title": "GL.iNet Security Notice 2026-11-20",
-      "summary": "Discussion with 53 upvotes and 23 comments on Hacker News.",
+      "summary": "Discussion with 166 upvotes and 77 comments on Hacker News.",
       "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,20 +104,7 @@
       "publishedAt": "2026-11-22T23:06:37.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 53
-    },
-    {
-      "id": "hn-50604472",
-      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-      "summary": "Discussion with 49 upvotes and 10 comments on Hacker News.",
-      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T22:10:58.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 49
+      "reactions": 166
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -83,7 +122,7 @@
     {
       "id": "hn-50604123",
       "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "summary": "Discussion with 36 upvotes and 9 comments on Hacker News.",
+      "summary": "Discussion with 99 upvotes and 35 comments on Hacker News.",
       "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,7 +130,7 @@
       "publishedAt": "2026-11-22T21:33:12.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 36
+      "reactions": 99
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -109,7 +148,7 @@
     {
       "id": "hn-50603845",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Discussion with 170 upvotes and 59 comments on Hacker News.",
+      "summary": "Discussion with 418 upvotes and 172 comments on Hacker News.",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -117,7 +156,7 @@
       "publishedAt": "2026-11-22T21:01:16.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 170
+      "reactions": 418
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -135,7 +174,7 @@
     {
       "id": "hn-50603589",
       "title": "A miniature San Francisco with live buses, planes and boats",
-      "summary": "Discussion with 120 upvotes and 51 comments on Hacker News.",
+      "summary": "Discussion with 236 upvotes and 88 comments on Hacker News.",
       "url": "https://smallsf.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -143,25 +182,12 @@
       "publishedAt": "2026-11-22T20:33:23.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 120
-    },
-    {
-      "id": "hn-50603465",
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "summary": "Discussion with 87 upvotes and 8 comments on Hacker News.",
-      "url": "https://nyx.net/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T20:15:59.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 87
+      "reactions": 236
     },
     {
       "id": "hn-50603143",
       "title": "Assume People Are Not Interested in Your Blog Post",
-      "summary": "Discussion with 44 upvotes and 24 comments on Hacker News.",
+      "summary": "Discussion with 154 upvotes and 82 comments on Hacker News.",
       "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -169,25 +195,12 @@
       "publishedAt": "2026-11-22T19:41:30.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 44
-    },
-    {
-      "id": "hn-50602947",
-      "title": "What Happened to Silicon Valley?",
-      "summary": "Discussion with 383 upvotes and 216 comments on Hacker News.",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T19:20:15.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 383
+      "reactions": 154
     },
     {
       "id": "hn-50602843",
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "summary": "Discussion with 325 upvotes and 147 comments on Hacker News.",
+      "summary": "Discussion with 447 upvotes and 228 comments on Hacker News.",
       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -195,7 +208,7 @@
       "publishedAt": "2026-11-22T19:10:34.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 325
+      "reactions": 447
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -209,19 +222,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50601525",
-      "title": "Perplexity and Intelligence",
-      "summary": "Discussion with 464 upvotes and 318 comments on Hacker News.",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T17:06:27.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 464
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -250,17 +250,17 @@
       "reactions": 100
     },
     {
-      "id": "hn-50599762",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Discussion with 265 upvotes and 60 comments on Hacker News.",
-      "url": "https://github.com/gulivan/worker755",
+      "id": "hn-50598441",
+      "title": "Masullo on the Riemann Hypothesis",
+      "summary": "Discussion with 180 upvotes and 94 comments on Hacker News.",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-22T13:56:58.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "category": "dev",
+      "publishedAt": "2026-11-22T10:59:56.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 265
+      "reactions": 180
     },
     {
       "id": "devto-5091929",
@@ -273,7 +273,7 @@
       "publishedAt": "2026-11-22T05:23:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
       "readTime": "7 min read",
-      "reactions": 30
+      "reactions": 35
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -325,20 +325,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 39
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Here are the top AI agents that can live in your text messages ",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work....",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-21T17:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 43
     },
     {
       "id": "devto-5080715",
@@ -390,7 +377,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 29
+      "reactions": 30
     },
     {
       "id": "devto-5074788",
@@ -403,6 +390,19 @@
       "publishedAt": "2026-11-20T08:55:01Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0iw1v236kimfe2ajhymq.png",
       "readTime": "1 min read",
+      "reactions": 32
+    },
+    {
+      "id": "hn-50569505",
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+      "summary": "Discussion with 32 upvotes and 5 comments on Hacker News.",
+      "url": "https://arxiv.org/abs/2506.13771",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T02:40:48.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
       "reactions": 32
     },
     {
@@ -468,12 +468,12 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 88
+      "reactions": 90
     },
     {
       "id": "hn-50547698",
       "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "summary": "Discussion with 77 upvotes and 2 comments on Hacker News.",
+      "summary": "Discussion with 195 upvotes and 48 comments on Hacker News.",
       "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -481,7 +481,7 @@
       "publishedAt": "2026-11-18T15:43:29.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 77
+      "reactions": 195
     },
     {
       "id": "devto-5060452",
@@ -494,7 +494,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 242
+      "reactions": 247
     },
     {
       "id": "devto-5062446",
@@ -624,7 +624,7 @@
       "publishedAt": "2026-11-16T04:34:39Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1p4kxontmb681a8hynvf.png",
       "readTime": "5 min read",
-      "reactions": 84
+      "reactions": 89
     },
     {
       "id": "devto-5039203",
