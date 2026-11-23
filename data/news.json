@@ -1,11 +1,219 @@
 {
-  "updatedAt": "2026-11-22T18:35:49.125Z",
+  "updatedAt": "2026-11-23T00:48:11.174Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50605483",
+      "title": "FBI is having a mass hire for IT specialists",
+      "summary": "Discussion with 20 upvotes and 24 comments on Hacker News.",
+      "url": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T23:58:22.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 20
+    },
+    {
+      "id": "hn-50605479",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "summary": "Discussion with 51 upvotes and 42 comments on Hacker News.",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T23:57:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 51
+    },
+    {
+      "id": "hn-50605045",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "summary": "Discussion with 108 upvotes and 64 comments on Hacker News.",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T23:12:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 108
+    },
+    {
+      "id": "hn-50604988",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "summary": "Discussion with 53 upvotes and 23 comments on Hacker News.",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "cybersecurity",
+      "publishedAt": "2026-11-22T23:06:37.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 53
+    },
+    {
+      "id": "hn-50604472",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "summary": "Discussion with 49 upvotes and 10 comments on Hacker News.",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T22:10:58.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 49
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally....",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T21:42:48.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50604123",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "summary": "Discussion with 36 upvotes and 9 comments on Hacker News.",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T21:33:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 36
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed....",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-22T21:14:07.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50603845",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary": "Discussion with 170 upvotes and 59 comments on Hacker News.",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-22T21:01:16.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 170
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "The best apps to make new friends right now",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft....",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T21:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50603589",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "summary": "Discussion with 120 upvotes and 51 comments on Hacker News.",
+      "url": "https://smallsf.com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T20:33:23.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 120
+    },
+    {
+      "id": "hn-50603465",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "summary": "Discussion with 87 upvotes and 8 comments on Hacker News.",
+      "url": "https://nyx.net/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T20:15:59.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 87
+    },
+    {
+      "id": "hn-50603143",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "summary": "Discussion with 44 upvotes and 24 comments on Hacker News.",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T19:41:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 44
+    },
+    {
+      "id": "hn-50602947",
+      "title": "What Happened to Silicon Valley?",
+      "summary": "Discussion with 383 upvotes and 216 comments on Hacker News.",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T19:20:15.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 383
+    },
+    {
+      "id": "hn-50602843",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "summary": "Discussion with 325 upvotes and 147 comments on Hacker News.",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T19:10:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 325
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"...",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
       "id": "hn-50601525",
       "title": "Perplexity and Intelligence",
-      "summary": "Discussion with 136 upvotes and 70 comments on Hacker News.",
+      "summary": "Discussion with 464 upvotes and 318 comments on Hacker News.",
       "url": "https://openai.com/index/perplexity-and-intelligence/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,7 +221,7 @@
       "publishedAt": "2026-11-22T17:06:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 136
+      "reactions": 464
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -27,45 +235,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50600677",
-      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-      "summary": "Discussion with 91 upvotes and 72 comments on Hacker News.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T15:42:40.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 91
-    },
-    {
-      "id": "hn-50600622",
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "summary": "Discussion with 43 upvotes and 10 comments on Hacker News.",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T15:35:24.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 43
-    },
-    {
-      "id": "hn-50600511",
-      "title": "Open Social Web Alliance",
-      "summary": "Discussion with 140 upvotes and 132 comments on Hacker News.",
-      "url": "https://osw-alliance.net/en/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T15:24:32.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 140
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -83,7 +252,7 @@
     {
       "id": "hn-50599762",
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Discussion with 158 upvotes and 39 comments on Hacker News.",
+      "summary": "Discussion with 265 upvotes and 60 comments on Hacker News.",
       "url": "https://github.com/gulivan/worker755",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,59 +260,20 @@
       "publishedAt": "2026-11-22T13:56:58.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 158
+      "reactions": 265
     },
     {
-      "id": "hn-50597612",
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "summary": "Discussion with 584 upvotes and 653 comments on Hacker News.",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T08:57:34.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 584
-    },
-    {
-      "id": "hn-50596133",
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "summary": "Discussion with 996 upvotes and 596 comments on Hacker News.",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T04:04:56.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 996
-    },
-    {
-      "id": "hn-50594911",
-      "title": "Sandwich Simulator",
-      "summary": "Discussion with 472 upvotes and 163 comments on Hacker News.",
-      "url": "https://stulle.app/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T00:07:59.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 472
-    },
-    {
-      "id": "hn-50594182",
-      "title": "A Better Vocabulary for Testing",
-      "summary": "Discussion with 51 upvotes and 15 comments on Hacker News.",
-      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T22:15:39.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 51
+      "id": "devto-5091929",
+      "title": "I Made My RAG Safer. It Got Worse Under Load",
+      "summary": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
+      "url": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-22T05:23:14Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
+      "readTime": "7 min read",
+      "reactions": 30
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -195,20 +325,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 31
-    },
-    {
-      "id": "hn-50591853",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "summary": "Discussion with 546 upvotes and 131 comments on Hacker News.",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T18:02:19.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 546
+      "reactions": 39
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -224,45 +341,6 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywoo...",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-21T16:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Alaska, your next governor is a Wikipedia nerd",
-      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits....",
-      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T15:18:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50589618",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "summary": "Discussion with 1181 upvotes and 973 comments on Hacker News.",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T14:36:45.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 1181
-    },
-    {
       "id": "devto-5080715",
       "title": "The Chairs Are Back. The Coffee Is On. ☕",
       "summary": "Welcome to The Third Cup.           The Renovation Is Done. We're Open Again!   Finally, the...",
@@ -273,20 +351,7 @@
       "publishedAt": "2026-11-21T11:24:29Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zgv4z7esusgb6fkjeiu.jpg",
       "readTime": "5 min read",
-      "reactions": 98
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India....",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "startups",
-      "publishedAt": "2026-11-21T04:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 101
     },
     {
       "id": "devto-5084735",
@@ -300,32 +365,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg36g47ikmelo94gjrifu.jpg",
       "readTime": "11 min read",
       "reactions": 17
-    },
-    {
-      "id": "hn-50582069",
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "summary": "Discussion with 1273 upvotes and 273 comments on Hacker News.",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T21:03:12.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 1273
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit....",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T20:58:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
     },
     {
       "id": "devto-5056698",
@@ -351,7 +390,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 28
+      "reactions": 29
     },
     {
       "id": "devto-5074788",
@@ -378,32 +417,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu7kwsgmm696mwcbkbl0k.png",
       "readTime": "4 min read",
       "reactions": 55
-    },
-    {
-      "id": "hn-50566495",
-      "title": "Self-hosted library branch over public web OPDS",
-      "summary": "Discussion with 89 upvotes and 27 comments on Hacker News.",
-      "url": "https://joinmayberry.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T21:15:47.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 89
-    },
-    {
-      "id": "hn-50562207",
-      "title": "Inside PyPy: First Contact with RPython",
-      "summary": "Discussion with 12 upvotes and 2 comments on Hacker News.",
-      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T16:26:51.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 12
     },
     {
       "id": "devto-5072558",
@@ -442,20 +455,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 115
-    },
-    {
-      "id": "hn-50555002",
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "summary": "Discussion with 52 upvotes and 38 comments on Hacker News.",
-      "url": "https://news.ycombinator.com/item?id=50555002",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-19T01:37:45.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 52
+      "reactions": 116
     },
     {
       "id": "devto-5059675",
@@ -471,6 +471,19 @@
       "reactions": 88
     },
     {
+      "id": "hn-50547698",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "summary": "Discussion with 77 upvotes and 2 comments on Hacker News.",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-18T15:43:29.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 77
+    },
+    {
       "id": "devto-5060452",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
       "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
@@ -481,7 +494,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 238
+      "reactions": 242
     },
     {
       "id": "devto-5062446",
@@ -598,7 +611,7 @@
       "publishedAt": "2026-11-16T14:28:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zu7ib42pk3njwji1klp.jpg",
       "readTime": "4 min read",
-      "reactions": 30
+      "reactions": 31
     },
     {
       "id": "devto-5004164",
@@ -676,7 +689,7 @@
       "publishedAt": "2026-11-13T15:56:26Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg9n66rugp217ye18xdzh.png",
       "readTime": "4 min read",
-      "reactions": 117
+      "reactions": 118
     },
     {
       "id": "devto-5017532",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1caxvdi402gk9ivepybq.jpg",
       "readTime": "7 min read",
       "reactions": 9
-    },
-    {
-      "id": "devto-5026042",
-      "title": "Four Applications and One Ask. Guess Which One Scared Me.",
-      "summary": "Waitlisted once. Applied again anyway.   TL;DR: In one day I sent four applications: three AI...",
-      "url": "https://dev.to/earlgreyhot1701d/four-applications-and-one-ask-guess-which-one-scared-me-2ia3",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-12T23:13:28Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v1imq7yz3dr9u8h3b5a.png",
-      "readTime": "4 min read",
-      "reactions": 66
     }
   ]
 }
