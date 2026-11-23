@@ -1,11 +1,232 @@
 {
-  "updatedAt": "2026-11-23T12:59:52.718Z",
+  "updatedAt": "2026-11-23T18:50:48.232Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50615520",
+      "title": "How should an LLM see a computer?",
+      "summary": "Discussion with 9 upvotes and 5 comments on Hacker News.",
+      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T17:19:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 9
+    },
+    {
+      "id": "hn-50615481",
+      "title": "Kagi Mail (public beta)",
+      "summary": "Discussion with 114 upvotes and 72 comments on Hacker News.",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T17:17:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 114
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal....",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T17:14:23.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Meta throws out its net-zero goal. Its competitors should be furious",
+      "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry....",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T17:13:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50615161",
+      "title": "EasyPost (YC S13) Is Hiring",
+      "summary": "Discussion with 1 upvotes and 0 comments on Hacker News.",
+      "url": "https://www.easypost.com/careers/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T17:00:05.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 1
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "summary": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a...",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T16:57:40.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC....",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "gadgets",
+      "publishedAt": "2026-11-23T16:39:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents....",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T16:20:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50614249",
+      "title": "Ladybird is now in alpha",
+      "summary": "Discussion with 668 upvotes and 178 comments on Hacker News.",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T16:13:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 668
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations....",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T15:29:49.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation....",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "gadgets",
+      "publishedAt": "2026-11-23T15:04:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round....",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-23T14:43:03.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government....",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "gadgets",
+      "publishedAt": "2026-11-23T14:21:59.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50611576",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "summary": "Discussion with 1116 upvotes and 2199 comments on Hacker News.",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "gadgets",
+      "publishedAt": "2026-11-23T14:00:18.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 1116
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "summary": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app....",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "gadgets",
+      "publishedAt": "2026-11-23T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50611402",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "summary": "Discussion with 6 upvotes and 0 comments on Hacker News.",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T13:42:38.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 6
+    },
+    {
+      "id": "hn-50610743",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "summary": "Discussion with 153 upvotes and 86 comments on Hacker News.",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T12:28:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 153
+    },
+    {
       "id": "hn-50610334",
       "title": "The next circle of security hell",
-      "summary": "Discussion with 21 upvotes and 8 comments on Hacker News.",
+      "summary": "Discussion with 178 upvotes and 89 comments on Hacker News.",
       "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,12 +234,25 @@
       "publishedAt": "2026-11-23T11:34:16.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 21
+      "reactions": 178
+    },
+    {
+      "id": "hn-50610318",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "summary": "Discussion with 188 upvotes and 95 comments on Hacker News.",
+      "url": "https://github.com/os6/nospeaker",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T11:31:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 188
     },
     {
       "id": "hn-50609685",
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "summary": "Discussion with 279 upvotes and 119 comments on Hacker News.",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "summary": "Discussion with 855 upvotes and 302 comments on Hacker News.",
       "url": "https://z.ai/blog/glm-5.4",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,38 +260,12 @@
       "publishedAt": "2026-11-23T10:06:43.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 279
-    },
-    {
-      "id": "hn-50607668",
-      "title": "Yes, 17M lines of Lean is a lot",
-      "summary": "Discussion with 143 upvotes and 167 comments on Hacker News.",
-      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-23T05:00:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 143
-    },
-    {
-      "id": "hn-50607627",
-      "title": "A Partial Evaluator for C",
-      "summary": "Discussion with 81 upvotes and 20 comments on Hacker News.",
-      "url": "https://phoenix.labri.fr/software/tempo/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-23T04:51:48.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 81
+      "reactions": 855
     },
     {
       "id": "hn-50607261",
       "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "summary": "Discussion with 408 upvotes and 189 comments on Hacker News.",
+      "summary": "Discussion with 546 upvotes and 226 comments on Hacker News.",
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -65,25 +273,12 @@
       "publishedAt": "2026-11-23T03:49:24.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 408
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic....",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-23T01:25:53.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 546
     },
     {
       "id": "hn-50606192",
       "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "summary": "Discussion with 630 upvotes and 112 comments on Hacker News.",
+      "summary": "Discussion with 831 upvotes and 150 comments on Hacker News.",
       "url": "https://spelunkr.tv",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,150 +286,7 @@
       "publishedAt": "2026-11-23T01:13:51.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 630
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally....",
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T21:42:48.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed....",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-22T21:14:07.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50603845",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Discussion with 578 upvotes and 239 comments on Hacker News.",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-22T21:01:16.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 578
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "The best apps to make new friends right now",
-      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft....",
-      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T21:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50603143",
-      "title": "Assume People Are Not Interested in Your Blog Post",
-      "summary": "Discussion with 236 upvotes and 117 comments on Hacker News.",
-      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T19:41:30.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 236
-    },
-    {
-      "id": "hn-50602843",
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "summary": "Discussion with 542 upvotes and 291 comments on Hacker News.",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T19:10:34.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 542
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"...",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T18:08:43.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50601525",
-      "title": "Perplexity and Intelligence",
-      "summary": "Discussion with 618 upvotes and 408 comments on Hacker News.",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T17:06:27.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 618
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it....",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-22T17:06:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Can a TV be too large? An investigation",
-      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges....",
-      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T15:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50598441",
-      "title": "Masullo on the Riemann Hypothesis",
-      "summary": "Discussion with 254 upvotes and 233 comments on Hacker News.",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T10:59:56.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 254
+      "reactions": 831
     },
     {
       "id": "devto-5091929",
@@ -247,46 +299,7 @@
       "publishedAt": "2026-11-22T05:23:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
       "readTime": "7 min read",
-      "reactions": 39
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps....",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-21T21:37:10.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "A tale of two Nvidias",
-      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return....",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-21T21:07:42.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center....",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-21T18:44:53.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
+      "reactions": 41
     },
     {
       "id": "devto-5036802",
@@ -299,7 +312,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 48
+      "reactions": 57
     },
     {
       "id": "devto-5080715",
@@ -312,33 +325,33 @@
       "publishedAt": "2026-11-21T11:24:29Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zgv4z7esusgb6fkjeiu.jpg",
       "readTime": "5 min read",
-      "reactions": 111
+      "reactions": 112
     },
     {
-      "id": "hn-50587750",
-      "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-      "summary": "Discussion with 16 upvotes and 1 comments on Hacker News.",
-      "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+      "id": "hn-50587439",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "summary": "Discussion with 166 upvotes and 56 comments on Hacker News.",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-21T10:14:11.000Z",
+      "publishedAt": "2026-11-21T09:14:02.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 16
+      "reactions": 166
     },
     {
-      "id": "hn-50584526",
-      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-      "summary": "Discussion with 48 upvotes and 0 comments on Hacker News.",
-      "url": "https://github.com/elixir-hls/elixir-hls",
+      "id": "hn-50587286",
+      "title": "What's the difference between an integer and a pointer? (2018)",
+      "summary": "Discussion with 80 upvotes and 55 comments on Hacker News.",
+      "url": "https://blog.regehr.org/archives/1621",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-21T00:47:57.000Z",
+      "publishedAt": "2026-11-21T08:49:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 48
+      "reactions": 80
     },
     {
       "id": "devto-5084735",
@@ -354,19 +367,6 @@
       "reactions": 19
     },
     {
-      "id": "hn-50581961",
-      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-      "summary": "Discussion with 35 upvotes and 32 comments on Hacker News.",
-      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-20T20:57:16.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 35
-    },
-    {
       "id": "devto-5056698",
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
       "summary": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
@@ -380,6 +380,19 @@
       "reactions": 42
     },
     {
+      "id": "hn-50574412",
+      "title": "Show HN: Drive around my village in 3D",
+      "summary": "Discussion with 65 upvotes and 50 comments on Hacker News.",
+      "url": "https://cherwellvalleymotorclub.app",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-20T13:32:42.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 65
+    },
+    {
       "id": "devto-5081870",
       "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
       "summary": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
@@ -390,7 +403,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 31
+      "reactions": 32
     },
     {
       "id": "devto-5074788",
@@ -432,6 +445,32 @@
       "reactions": 55
     },
     {
+      "id": "devto-5076355",
+      "title": "Publishing Markdown to a LinkedIn Article from an Agent Skill",
+      "summary": "LinkedIn's article editor saves two heading levels and no inline code, and its page cannot parse HTML. A step by step walk-through of the LinkedIn article destination in publishing-kit, tested by publishing the kit's own walk-through through it.",
+      "url": "https://dev.to/gde/publishing-markdown-to-a-linkedin-article-from-an-agent-skill-1hbj",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-19T19:45:08Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Flinkedin-article%2Fcover.dbf080b2.jpg",
+      "readTime": "10 min read",
+      "reactions": 23
+    },
+    {
+      "id": "devto-5076064",
+      "title": "I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video",
+      "summary": "Last week World Labs opened Atlas, its world model, to everyone. I wanted to see what it could...",
+      "url": "https://dev.to/amananandrai/i-built-a-ghibli-style-mughal-tudor-palace-with-world-labs-atlas-chisel-heres-what-it-can-do-l21",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-19T18:33:22Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdsv64lhetp3iz3uxqdc3.png",
+      "readTime": "11 min read",
+      "reactions": 9
+    },
+    {
       "id": "devto-5068570",
       "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
       "summary": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. E4B scored 0.927 to 0.944 on GSM8K; thinking took 2.24 to 2.47 times as long for at most 16 more problems; the drafter cut the time by 1.38 to 2.39 times and changed no score.",
@@ -468,7 +507,7 @@
       "publishedAt": "2026-11-19T07:21:48Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz1fpw7x5hnz7q1xptklj.jpg",
       "readTime": "16 min read",
-      "reactions": 26
+      "reactions": 27
     },
     {
       "id": "devto-5069884",
@@ -481,7 +520,7 @@
       "publishedAt": "2026-11-19T03:35:10Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
-      "reactions": 117
+      "reactions": 118
     },
     {
       "id": "devto-5059675",
@@ -497,19 +536,6 @@
       "reactions": 90
     },
     {
-      "id": "hn-50547698",
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "summary": "Discussion with 277 upvotes and 91 comments on Hacker News.",
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-18T15:43:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 277
-    },
-    {
       "id": "devto-5060452",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
       "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
@@ -520,7 +546,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 250
+      "reactions": 252
     },
     {
       "id": "devto-5062446",
@@ -546,7 +572,7 @@
       "publishedAt": "2026-11-17T23:18:41Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
       "readTime": "2 min read",
-      "reactions": 21
+      "reactions": 23
     },
     {
       "id": "devto-5058784",
@@ -624,7 +650,7 @@
       "publishedAt": "2026-11-16T17:56:57Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemini-high-vs-low%2Fdevto-cover.8e6eb323.jpg",
       "readTime": "11 min read",
-      "reactions": 27
+      "reactions": 28
     },
     {
       "id": "devto-5031591",
@@ -653,6 +679,19 @@
       "reactions": 89
     },
     {
+      "id": "devto-5042404",
+      "title": "The Vibe Coding Kernel-pocalypse Is Here, and It Is a Good Thing",
+      "summary": "A step by step guide to mainline Linux kernel development with a coding agent in a closed loop: the kernel's own AGENTS.md, a few markdown runbooks, a build and install script, and the boot and system logs fed back to the agent after every change. The same loop runs on an Intel laptop, two Windows-on-ARM laptops and a Pixel 3a.",
+      "url": "https://dev.to/xbill/the-vibe-coding-kernel-pocalypse-is-here-and-it-is-a-good-thing-3d83",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-15T15:44:53Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fkernel_vibe_coding%2Fmain%2Farticles%2Fkernel-agent-loop%2Fdevto-cover.313239af.jpg",
+      "readTime": "11 min read",
+      "reactions": 17
+    },
+    {
       "id": "devto-5039203",
       "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
       "summary": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026.   TL;DR: For NASA...",
@@ -677,45 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdecisions-api%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.df71ccfa.jpg",
       "readTime": "13 min read",
       "reactions": 21
-    },
-    {
-      "id": "devto-5031327",
-      "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)",
-      "summary": "What breaks a month after a hackathon, and what a fellow DEV writer caught in the verifiers.   TL;DR:...",
-      "url": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-13T17:48:25Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo095420vidmninm8id0y.png",
-      "readTime": "6 min read",
-      "reactions": 54
-    },
-    {
-      "id": "devto-5031066",
-      "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
-      "summary": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, a local chat page that keeps the key off the browser, a terminal client, and a small ADK agent that calls Gemma 4 31B through it.",
-      "url": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-13T16:49:06Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg",
-      "readTime": "9 min read",
-      "reactions": 43
-    },
-    {
-      "id": "devto-5025610",
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "summary": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-13T15:56:26Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg9n66rugp217ye18xdzh.png",
-      "readTime": "4 min read",
-      "reactions": 118
     }
   ]
 }
