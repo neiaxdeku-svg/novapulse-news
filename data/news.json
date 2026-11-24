@@ -1,11 +1,245 @@
 {
-  "updatedAt": "2026-11-24T12:59:29.941Z",
+  "updatedAt": "2026-11-24T18:49:47.769Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50632214",
+      "title": "“Pervert glasses\" named word of the year by Macquarie Dictionary",
+      "summary": "Discussion with 48 upvotes and 23 comments on Hacker News.",
+      "url": "https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T18:21:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 48
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth....",
+      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "startups",
+      "publishedAt": "2026-11-24T17:29:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50631210",
+      "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+      "summary": "Discussion with 131 upvotes and 64 comments on Hacker News.",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T17:10:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 131
+    },
+    {
+      "id": "hn-50631041",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "summary": "Discussion with 1 upvotes and 0 comments on Hacker News.",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T17:00:55.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 1
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent....",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated....",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T16:46:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+      "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area....",
+      "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T16:40:46.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50630594",
+      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "summary": "Discussion with 163 upvotes and 54 comments on Hacker News.",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T16:32:17.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 163
+    },
+    {
+      "id": "hn-50630462",
+      "title": "Jetty Pro",
+      "summary": "Discussion with 138 upvotes and 50 comments on Hacker News.",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T16:23:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 138
+    },
+    {
+      "id": "hn-50630423",
+      "title": "How to Make a Lovable City",
+      "summary": "Discussion with 69 upvotes and 36 comments on Hacker News.",
+      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T16:19:55.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 69
+    },
+    {
+      "id": "hn-50630294",
+      "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+      "summary": "Discussion with 26 upvotes and 2 comments on Hacker News.",
+      "url": "https://masondata.ai/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T16:11:52.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 26
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice....",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T16:10:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds....",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T16:02:37.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50630122",
+      "title": "Millions of bitcoin are probably lost for good. Almost none can be proved gone",
+      "summary": "Discussion with 21 upvotes and 2 comments on Hacker News.",
+      "url": "https://blog.everstrike.io/lost-bitcoin/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T16:01:24.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 21
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips....",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T15:51:07.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50629962",
+      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "summary": "Discussion with 48 upvotes and 12 comments on Hacker News.",
+      "url": "https://arxiv.org/abs/2611.30835",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T15:50:22.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 48
+    },
+    {
+      "id": "hn-50629231",
+      "title": "A training engine for your local model, using your idle compute",
+      "summary": "Discussion with 86 upvotes and 16 comments on Hacker News.",
+      "url": "https://github.com/sous-labs/songe",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T15:03:40.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 86
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+      "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal....",
+      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T13:29:53.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
       "id": "hn-50627340",
       "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Discussion with 20 upvotes and 5 comments on Hacker News.",
+      "summary": "Discussion with 707 upvotes and 304 comments on Hacker News.",
       "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,38 +247,12 @@
       "publishedAt": "2026-11-24T12:40:15.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 20
-    },
-    {
-      "id": "hn-50626861",
-      "title": "Who in Washington owns and trades Nvidia stock",
-      "summary": "Discussion with 38 upvotes and 11 comments on Hacker News.",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-24T11:51:05.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 38
-    },
-    {
-      "id": "hn-50626578",
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-      "summary": "Discussion with 249 upvotes and 129 comments on Hacker News.",
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-24T11:13:55.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 249
+      "reactions": 707
     },
     {
       "id": "hn-50626413",
-      "title": "Worshipping at the Altar of Brendan Gregg",
-      "summary": "Discussion with 52 upvotes and 5 comments on Hacker News.",
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "summary": "Discussion with 189 upvotes and 29 comments on Hacker News.",
       "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,25 +260,25 @@
       "publishedAt": "2026-11-24T10:50:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 52
+      "reactions": 189
     },
     {
-      "id": "hn-50625953",
-      "title": "Just a Few Bugs",
-      "summary": "Discussion with 25 upvotes and 12 comments on Hacker News.",
-      "url": "https://www.justafewbugs.xyz/",
+      "id": "hn-50625384",
+      "title": "Quad9 pulled their DNS service from France",
+      "summary": "Discussion with 228 upvotes and 126 comments on Hacker News.",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-24T09:47:59.000Z",
+      "publishedAt": "2026-11-24T08:33:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 25
+      "reactions": 228
     },
     {
       "id": "hn-50624497",
-      "title": "2035 Came Early",
-      "summary": "Discussion with 402 upvotes and 147 comments on Hacker News.",
+      "title": "2035 came early",
+      "summary": "Discussion with 830 upvotes and 307 comments on Hacker News.",
       "url": "https://fzakaria.com/2026/11/23/2035-came-early",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,33 +286,7 @@
       "publishedAt": "2026-11-24T06:30:33.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 402
-    },
-    {
-      "id": "hn-50624061",
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "summary": "Discussion with 134 upvotes and 73 comments on Hacker News.",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-24T05:15:22.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 134
-    },
-    {
-      "id": "hn-50623515",
-      "title": "Drone Maps of Salvage Yards",
-      "summary": "Discussion with 114 upvotes and 43 comments on Hacker News.",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-24T04:00:28.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 114
+      "reactions": 830
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -120,19 +302,6 @@
       "reactions": 100
     },
     {
-      "id": "hn-50620349",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "summary": "Discussion with 531 upvotes and 293 comments on Hacker News.",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-23T22:32:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 531
-    },
-    {
       "id": "tc-aHR0cHM6Ly90ZWNo",
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals....",
@@ -146,123 +315,6 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself....",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-23T22:02:05.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in....",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-23T21:47:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal gover...",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-23T21:25:42.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees....",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-23T20:38:53.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting....",
-      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-23T19:31:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem...",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-23T19:14:46.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy....",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-23T18:12:22.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal....",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-23T17:14:23.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50614249",
-      "title": "Ladybird is now in alpha",
-      "summary": "Discussion with 2120 upvotes and 511 comments on Hacker News.",
-      "url": "https://ladybird.org/posts/alpha/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-23T16:13:12.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 2120
-    },
-    {
       "id": "devto-5032798",
       "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
       "summary": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
@@ -273,59 +325,33 @@
       "publishedAt": "2026-11-23T15:10:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffp018xebq23vqh8pwzj3.jpg",
       "readTime": "4 min read",
-      "reactions": 34
+      "reactions": 37
     },
     {
-      "id": "hn-50611576",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "summary": "Discussion with 2660 upvotes and 3534 comments on Hacker News.",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-23T14:00:18.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 2660
+      "id": "devto-5094625",
+      "title": "8 Best MCP Gateways",
+      "summary": "Connecting one agent to one MCP server is easy. You paste a URL, approve a prompt, and the agent...",
+      "url": "https://dev.to/varshithvhegde/8-best-mcp-gateways-4ddf",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-23T13:19:07Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
+      "readTime": "13 min read",
+      "reactions": 32
     },
     {
-      "id": "hn-50606611",
-      "title": "Becoming a Magician",
-      "summary": "Discussion with 42 upvotes and 3 comments on Hacker News.",
-      "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-23T02:04:25.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 42
-    },
-    {
-      "id": "hn-50598679",
-      "title": "Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88",
-      "summary": "Discussion with 20 upvotes and 1 comments on Hacker News.",
-      "url": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html",
+      "id": "hn-50598555",
+      "title": "Mechanical Pencil: Spray Bottle",
+      "summary": "Discussion with 144 upvotes and 32 comments on Hacker News.",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-22T11:35:03.000Z",
+      "publishedAt": "2026-11-22T11:16:30.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 20
-    },
-    {
-      "id": "hn-50598094",
-      "title": "An anti-slavery sugar bowl (2024)",
-      "summary": "Discussion with 26 upvotes and 6 comments on Hacker News.",
-      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-22T10:12:22.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 26
+      "reactions": 144
     },
     {
       "id": "devto-5091929",
@@ -338,20 +364,7 @@
       "publishedAt": "2026-11-22T05:23:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
       "readTime": "7 min read",
-      "reactions": 59
-    },
-    {
-      "id": "hn-50592307",
-      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "summary": "Discussion with 61 upvotes and 3 comments on Hacker News.",
-      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T18:49:45.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 61
+      "reactions": 60
     },
     {
       "id": "devto-5036802",
@@ -364,20 +377,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 70
-    },
-    {
-      "id": "devto-5089186",
-      "title": "Beyond Aurora: Sub-20ms Real-Time Payment Fraud & Vector Search with Google Cloud AlloyDB, SCaNN, and Gemini",
-      "summary": "1. Starting from Zero: The 50-Millisecond Coffee Mystery   Imagine you are standing at a...",
-      "url": "https://dev.to/gde/beyond-aurora-sub-20ms-real-time-payment-fraud-vector-search-with-google-cloud-alloydb-scann-ani",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-21T16:15:54Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpadfaentfm28632ec3zy.png",
-      "readTime": "50 min read",
-      "reactions": 33
+      "reactions": 74
     },
     {
       "id": "devto-5080715",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-11-20T16:28:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
       "readTime": "4 min read",
-      "reactions": 51
+      "reactions": 52
     },
     {
       "id": "devto-5081870",
@@ -429,7 +429,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 37
+      "reactions": 38
     },
     {
       "id": "devto-5074788",
@@ -442,7 +442,7 @@
       "publishedAt": "2026-11-20T08:55:01Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0iw1v236kimfe2ajhymq.png",
       "readTime": "1 min read",
-      "reactions": 40
+      "reactions": 41
     },
     {
       "id": "devto-5079085",
@@ -507,7 +507,7 @@
       "publishedAt": "2026-11-19T09:20:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2kkbuaxsa4tzcezoty0.png",
       "readTime": "5 min read",
-      "reactions": 30
+      "reactions": 32
     },
     {
       "id": "devto-5071051",
@@ -546,7 +546,7 @@
       "publishedAt": "2026-11-18T18:32:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
-      "reactions": 90
+      "reactions": 91
     },
     {
       "id": "devto-5060452",
@@ -692,16 +692,16 @@
       "reactions": 89
     },
     {
-      "id": "devto-5042404",
-      "title": "The Vibe Coding Kernel-pocalypse Is Here, and It Is a Good Thing",
-      "summary": "A step by step guide to mainline Linux kernel development with a coding agent in a closed loop: the kernel's own AGENTS.md, a few markdown runbooks, a build and install script, and the boot and system logs fed back to the agent after every change. The same loop runs on an Intel laptop, two Windows-on-ARM laptops and a Pixel 3a.",
-      "url": "https://dev.to/xbill/the-vibe-coding-kernel-pocalypse-is-here-and-it-is-a-good-thing-3d83",
+      "id": "devto-5044885",
+      "title": "WebMCP in Practice - Turn an HTML Form into an Agent Tool",
+      "summary": "In Part 01, we built DevDesk, a small task board. Today, let's give an agent a way to prepare a task...",
+      "url": "https://dev.to/playfulprogramming/webmcp-in-practice-turn-an-html-form-into-an-agent-tool-38ja",
       "source": "Dev Community",
       "sourceUrl": "https://dev.to",
       "category": "ai",
-      "publishedAt": "2026-11-15T15:44:53Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fkernel_vibe_coding%2Fmain%2Farticles%2Fkernel-agent-loop%2Fdevto-cover.313239af.jpg",
-      "readTime": "11 min read",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz9gjznzjogsahkim8fto.jpeg",
+      "readTime": "5 min read",
       "reactions": 17
     },
     {
