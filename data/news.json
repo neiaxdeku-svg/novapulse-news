@@ -1,24 +1,50 @@
 {
-  "updatedAt": "2026-11-25T07:02:22.991Z",
+  "updatedAt": "2026-11-25T13:04:13.088Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50638647",
-      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
-      "summary": "Discussion with 120 upvotes and 18 comments on Hacker News.",
-      "url": "https://github.com/samcorcos/legatum/issues/147",
+      "id": "hn-50641323",
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "summary": "Discussion with 1 upvotes and 0 comments on Hacker News.",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-25T04:56:36.000Z",
+      "publishedAt": "2026-11-25T12:00:34.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 120
+      "reactions": 1
+    },
+    {
+      "id": "hn-50641171",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "summary": "Discussion with 78 upvotes and 28 comments on Hacker News.",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-25T11:34:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 78
+    },
+    {
+      "id": "hn-50639698",
+      "title": "Smart People Who Give a Shit Use Tools",
+      "summary": "Discussion with 32 upvotes and 18 comments on Hacker News.",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-25T07:46:43.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 32
     },
     {
       "id": "hn-50638503",
       "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "summary": "Discussion with 46 upvotes and 9 comments on Hacker News.",
+      "summary": "Discussion with 189 upvotes and 45 comments on Hacker News.",
       "url": "https://gpu-demo-gallery.pages.dev/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,12 +52,12 @@
       "publishedAt": "2026-11-25T04:31:48.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 46
+      "reactions": 189
     },
     {
       "id": "hn-50638478",
       "title": "Taking over US Treasury subdomains for $3 each",
-      "summary": "Discussion with 32 upvotes and 2 comments on Hacker News.",
+      "summary": "Discussion with 124 upvotes and 24 comments on Hacker News.",
       "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,25 +65,25 @@
       "publishedAt": "2026-11-25T04:27:55.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 32
+      "reactions": 124
     },
     {
-      "id": "hn-50638320",
-      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-      "summary": "Discussion with 117 upvotes and 80 comments on Hacker News.",
-      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T04:03:33.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 117
+      "id": "devto-5112821",
+      "title": "Lazy Senior Dev Mode Made My App Smaller. Was It Better?",
+      "summary": "Raise your hand if you've been curious about Ponytail. 🙋 Same spec, same model, same prompt. One...",
+      "url": "https://dev.to/necoz/lazy-senior-dev-mode-made-my-app-smaller-was-it-better-90i",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-25T04:03:43Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
+      "readTime": "10 min read",
+      "reactions": 57
     },
     {
       "id": "hn-50638220",
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Discussion with 69 upvotes and 19 comments on Hacker News.",
+      "summary": "Discussion with 160 upvotes and 67 comments on Hacker News.",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -65,12 +91,12 @@
       "publishedAt": "2026-11-25T03:47:42.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 69
+      "reactions": 160
     },
     {
       "id": "hn-50638032",
       "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "summary": "Discussion with 194 upvotes and 20 comments on Hacker News.",
+      "summary": "Discussion with 502 upvotes and 74 comments on Hacker News.",
       "url": "https://buttons.joshwcomeau.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,12 +104,12 @@
       "publishedAt": "2026-11-25T03:23:07.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 194
+      "reactions": 502
     },
     {
       "id": "hn-50637890",
       "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "summary": "Discussion with 98 upvotes and 28 comments on Hacker News.",
+      "summary": "Discussion with 263 upvotes and 96 comments on Hacker News.",
       "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,38 +117,12 @@
       "publishedAt": "2026-11-25T03:04:37.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 98
-    },
-    {
-      "id": "hn-50637874",
-      "title": "I've been drinking wine in my kitchen",
-      "summary": "Discussion with 129 upvotes and 97 comments on Hacker News.",
-      "url": "https://scottaaronson.blog/?p=10362",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T03:02:10.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 129
-    },
-    {
-      "id": "hn-50637871",
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "summary": "Discussion with 37 upvotes and 9 comments on Hacker News.",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T03:01:36.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 37
+      "reactions": 263
     },
     {
       "id": "hn-50637686",
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "summary": "Discussion with 158 upvotes and 60 comments on Hacker News.",
+      "summary": "Discussion with 296 upvotes and 126 comments on Hacker News.",
       "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -130,12 +130,12 @@
       "publishedAt": "2026-11-25T02:34:21.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 158
+      "reactions": 296
     },
     {
       "id": "hn-50637220",
       "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "summary": "Discussion with 467 upvotes and 230 comments on Hacker News.",
+      "summary": "Discussion with 751 upvotes and 418 comments on Hacker News.",
       "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -143,12 +143,12 @@
       "publishedAt": "2026-11-25T01:19:26.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 467
+      "reactions": 751
     },
     {
       "id": "hn-50637056",
       "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "summary": "Discussion with 191 upvotes and 32 comments on Hacker News.",
+      "summary": "Discussion with 292 upvotes and 51 comments on Hacker News.",
       "url": "https://greydanus.github.io/2026/11/12/pengpt/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -156,7 +156,7 @@
       "publishedAt": "2026-11-25T00:54:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 191
+      "reactions": 292
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -263,22 +263,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50634658",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "Discussion with 239 upvotes and 73 comments on Hacker News.",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-24T21:02:22.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 239
-    },
-    {
       "id": "hn-50633922",
       "title": "Ternary Bonsai 2.5 27B",
-      "summary": "Discussion with 419 upvotes and 135 comments on Hacker News.",
+      "summary": "Discussion with 481 upvotes and 149 comments on Hacker News.",
       "url": "https://prismml.com/news/bonsai-2-5-27b",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,7 +273,7 @@
       "publishedAt": "2026-11-24T20:08:03.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 419
+      "reactions": 481
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -325,7 +312,7 @@
       "publishedAt": "2026-11-24T17:33:19Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0csb5hra0wogd71orb06.png",
       "readTime": "8 min read",
-      "reactions": 13
+      "reactions": 16
     },
     {
       "id": "devto-5103474",
@@ -338,20 +325,33 @@
       "publishedAt": "2026-11-24T16:30:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffpv8z3hlxeu12fq22xbh.jpg",
       "readTime": "5 min read",
-      "reactions": 39
+      "reactions": 44
     },
     {
-      "id": "hn-50613769",
-      "title": "When in Doubt, Flail About",
-      "summary": "Discussion with 8 upvotes and 1 comments on Hacker News.",
-      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+      "id": "hn-50628517",
+      "title": "1,615 New TLDs Are Coming. Is Your DNS Ready for a Bigger Namespace?",
+      "summary": "Discussion with 17 upvotes and 12 comments on Hacker News.",
+      "url": "https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T14:14:47.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 17
+    },
+    {
+      "id": "hn-50627726",
+      "title": "Getting old Java phones online again",
+      "summary": "Discussion with 80 upvotes and 40 comments on Hacker News.",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "ai",
-      "publishedAt": "2026-11-23T15:45:11.000Z",
+      "publishedAt": "2026-11-24T13:14:37.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 8
+      "reactions": 80
     },
     {
       "id": "devto-5032798",
@@ -364,7 +364,7 @@
       "publishedAt": "2026-11-23T15:10:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffp018xebq23vqh8pwzj3.jpg",
       "readTime": "4 min read",
-      "reactions": 38
+      "reactions": 41
     },
     {
       "id": "devto-5094625",
@@ -377,7 +377,20 @@
       "publishedAt": "2026-11-23T13:19:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
       "readTime": "13 min read",
-      "reactions": 37
+      "reactions": 39
+    },
+    {
+      "id": "hn-50607849",
+      "title": "The short age of dragon riders",
+      "summary": "Discussion with 46 upvotes and 13 comments on Hacker News.",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-23T05:33:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 46
     },
     {
       "id": "devto-5091929",
@@ -390,7 +403,7 @@
       "publishedAt": "2026-11-22T05:23:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
       "readTime": "7 min read",
-      "reactions": 62
+      "reactions": 64
     },
     {
       "id": "devto-5036802",
@@ -403,7 +416,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 77
+      "reactions": 83
     },
     {
       "id": "devto-5080715",
@@ -575,19 +588,6 @@
       "reactions": 254
     },
     {
-      "id": "devto-5062446",
-      "title": "Part 6: The Walkthrough That Only Worked on My Machine",
-      "summary": "This is Part 6 of a series building an HL7 v2-to-FHIR R4 interoperability service in public. The...",
-      "url": "https://dev.to/ndcodes/part-6-the-walkthrough-that-only-worked-on-my-machine-15e8",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-18T06:43:15Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3f1ropjeo5nj9o1j3vxo.png",
-      "readTime": "12 min read",
-      "reactions": 25
-    },
-    {
       "id": "devto-5060325",
       "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
       "summary": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
@@ -622,7 +622,7 @@
       "sourceUrl": "https://dev.to",
       "category": "ai",
       "publishedAt": "2026-11-17T15:45:44Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsimplynadaf%2Fai-fix-verifier%2Fmain%2Fdocs%2Fgithub-cover.png",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F47s0e2be4j51zon2k68m.png",
       "readTime": "6 min read",
       "reactions": 87
     },
