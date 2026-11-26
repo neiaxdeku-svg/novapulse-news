@@ -1,24 +1,128 @@
 {
-  "updatedAt": "2026-11-26T13:02:21.808Z",
+  "updatedAt": "2026-11-26T18:48:26.495Z",
   "totalArticles": 55,
   "articles": [
     {
-      "id": "hn-50654353",
-      "title": "Head of Software Engineering – NOX Metals",
-      "summary": "Discussion with 1 upvotes and 0 comments on Hacker News.",
-      "url": "https://news.ycombinator.com/item?id=50654353",
+      "id": "hn-50657645",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "summary": "Discussion with 34 upvotes and 7 comments on Hacker News.",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-26T12:00:00.000Z",
+      "publishedAt": "2026-11-26T17:47:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1
+      "reactions": 34
+    },
+    {
+      "id": "hn-50657307",
+      "title": "Tracking Diseases Cured by AI",
+      "summary": "Discussion with 184 upvotes and 89 comments on Hacker News.",
+      "url": "https://diseasescuredbyai.com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T17:16:41.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 184
+    },
+    {
+      "id": "hn-50657265",
+      "title": "AMD Specific Patches for Llama.cpp",
+      "summary": "Discussion with 81 upvotes and 24 comments on Hacker News.",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T17:11:29.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 81
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate....",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T17:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50657059",
+      "title": "NP_R ≠ PAR_R",
+      "summary": "Discussion with 89 upvotes and 86 comments on Hacker News.",
+      "url": "https://github.com/samueleverett01/bss-permanent-separations",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T16:50:55.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 89
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time....",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50656036",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "summary": "Discussion with 59 upvotes and 19 comments on Hacker News.",
+      "url": "https://michidk.github.io/sidebyside/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T15:00:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 59
+    },
+    {
+      "id": "hn-50655664",
+      "title": "Tell HN: Happy Thanksgiving",
+      "summary": "Discussion with 433 upvotes and 114 comments on Hacker News.",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T14:26:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 433
+    },
+    {
+      "id": "hn-50655278",
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "summary": "Discussion with 194 upvotes and 91 comments on Hacker News.",
+      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T13:48:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 194
     },
     {
       "id": "hn-50654289",
-      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-      "summary": "Discussion with 42 upvotes and 4 comments on Hacker News.",
+      "title": "Nextcloud Office Desktop app",
+      "summary": "Discussion with 351 upvotes and 154 comments on Hacker News.",
       "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,12 +130,12 @@
       "publishedAt": "2026-11-26T11:50:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 42
+      "reactions": 351
     },
     {
       "id": "hn-50653667",
       "title": "Intel One Mono font",
-      "summary": "Discussion with 152 upvotes and 88 comments on Hacker News.",
+      "summary": "Discussion with 377 upvotes and 213 comments on Hacker News.",
       "url": "https://github.com/intel/intel-one-mono",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,7 +143,20 @@
       "publishedAt": "2026-11-26T10:11:01.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 152
+      "reactions": 377
+    },
+    {
+      "id": "devto-5095240",
+      "title": "On reviewing AI-generated code",
+      "summary": "I see a lot of posts from developers who insist on reviewing every single line of code that AI agents...",
+      "url": "https://dev.to/nfrankel/on-reviewing-ai-generated-code-3olj",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-26T09:02:00Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiokr8xrxb7kgmfnk1h7s.jpg",
+      "readTime": "5 min read",
+      "reactions": 12
     },
     {
       "id": "devto-5120802",
@@ -52,7 +169,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 66
+      "reactions": 77
     },
     {
       "id": "devto-5108945",
@@ -65,12 +182,12 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 40
+      "reactions": 57
     },
     {
       "id": "hn-50652184",
       "title": "Moat: Your OpenRouter Replacement",
-      "summary": "Discussion with 115 upvotes and 79 comments on Hacker News.",
+      "summary": "Discussion with 196 upvotes and 117 comments on Hacker News.",
       "url": "https://commandcode.ai/moat",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,12 +195,12 @@
       "publishedAt": "2026-11-26T06:32:48.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 115
+      "reactions": 196
     },
     {
       "id": "hn-50651719",
       "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "summary": "Discussion with 137 upvotes and 22 comments on Hacker News.",
+      "summary": "Discussion with 227 upvotes and 50 comments on Hacker News.",
       "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,46 +208,7 @@
       "publishedAt": "2026-11-26T05:12:59.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 137
-    },
-    {
-      "id": "hn-50650892",
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "summary": "Discussion with 172 upvotes and 25 comments on Hacker News.",
-      "url": "https://progrium.github.io/minipg/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T03:00:48.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 172
-    },
-    {
-      "id": "hn-50649864",
-      "title": "Tell HN: Lots of Ask HNs again",
-      "summary": "Discussion with 299 upvotes and 116 comments on Hacker News.",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-26T00:43:34.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 299
-    },
-    {
-      "id": "hn-50649834",
-      "title": "Collection of preserved UI style guides",
-      "summary": "Discussion with 263 upvotes and 37 comments on Hacker News.",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T00:40:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 263
+      "reactions": 227
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -146,22 +224,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50648050",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "summary": "Discussion with 483 upvotes and 270 comments on Hacker News.",
-      "url": "https://github.com/lsernau/grh-lean",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T21:48:10.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 483
-    },
-    {
       "id": "hn-50647673",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "Discussion with 452 upvotes and 373 comments on Hacker News.",
+      "summary": "Discussion with 586 upvotes and 477 comments on Hacker News.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -169,7 +234,7 @@
       "publishedAt": "2026-11-25T21:18:02.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 452
+      "reactions": 586
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -183,19 +248,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50647181",
-      "title": "Slow Ubuntu security response times",
-      "summary": "Discussion with 335 upvotes and 167 comments on Hacker News.",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-25T20:38:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 335
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -252,7 +304,7 @@
     {
       "id": "hn-50646108",
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "summary": "Discussion with 1675 upvotes and 1496 comments on Hacker News.",
+      "summary": "Discussion with 1894 upvotes and 1736 comments on Hacker News.",
       "url": "https://scottaaronson.blog/?p=10379",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -260,7 +312,7 @@
       "publishedAt": "2026-11-25T19:11:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1675
+      "reactions": 1894
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -289,45 +341,6 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference....",
-      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-25T17:36:51.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said....",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T17:35:58.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50644817",
-      "title": "1Password Security Incident",
-      "summary": "Discussion with 1501 upvotes and 649 comments on Hacker News.",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-25T17:18:26.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 1501
-    },
-    {
       "id": "devto-5114865",
       "title": "Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gate Test",
       "summary": "I tested Strands Decider 2B as an AI agent tool gate on 16 refund cases against Nova Pro as a judge: accuracy, thresholds, injection, latency, cost.",
@@ -338,7 +351,7 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 23
+      "reactions": 25
     },
     {
       "id": "devto-5112821",
@@ -351,7 +364,20 @@
       "publishedAt": "2026-11-25T04:03:43Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
       "readTime": "10 min read",
-      "reactions": 73
+      "reactions": 76
+    },
+    {
+      "id": "hn-50636931",
+      "title": "Curiosity Is No Solo Act",
+      "summary": "Discussion with 78 upvotes and 20 comments on Hacker News.",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-25T00:37:07.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 78
     },
     {
       "id": "devto-5109914",
@@ -364,7 +390,7 @@
       "publishedAt": "2026-11-24T17:33:19Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0csb5hra0wogd71orb06.png",
       "readTime": "8 min read",
-      "reactions": 24
+      "reactions": 25
     },
     {
       "id": "devto-5103474",
@@ -380,17 +406,17 @@
       "reactions": 59
     },
     {
-      "id": "hn-50623232",
-      "title": "Show HN: Synth Patch Hero",
-      "summary": "Discussion with 76 upvotes and 15 comments on Hacker News.",
-      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "id": "hn-50619466",
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "summary": "Discussion with 66 upvotes and 45 comments on Hacker News.",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-24T03:24:22.000Z",
+      "publishedAt": "2026-11-23T21:18:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 76
+      "reactions": 66
     },
     {
       "id": "devto-5032798",
@@ -419,19 +445,6 @@
       "reactions": 41
     },
     {
-      "id": "hn-50601280",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "summary": "Discussion with 401 upvotes and 114 comments on Hacker News.",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-22T16:44:48.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 401
-    },
-    {
       "id": "devto-5091929",
       "title": "I Made My RAG Safer. It Got Worse Under Load",
       "summary": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
@@ -442,7 +455,7 @@
       "publishedAt": "2026-11-22T05:23:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
       "readTime": "7 min read",
-      "reactions": 72
+      "reactions": 74
     },
     {
       "id": "devto-5036802",
@@ -455,7 +468,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 100
+      "reactions": 104
     },
     {
       "id": "devto-5080715",
@@ -549,6 +562,19 @@
       "reactions": 56
     },
     {
+      "id": "devto-5068570",
+      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+      "summary": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. E4B scored 0.927 to 0.944 on GSM8K; thinking took 2.24 to 2.47 times as long for at most 16 more problems; the drafter cut the time by 1.38 to 2.39 times and changed no score.",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-19T15:19:33Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e4b-thinking-3050%2Fdevto-cover.690126f5.jpg",
+      "readTime": "9 min read",
+      "reactions": 21
+    },
+    {
       "id": "devto-5072558",
       "title": "Can a plain table hijack an AI agent?",
       "summary": "Living repo: every case in this article is in agent-redteam...",
@@ -624,7 +650,7 @@
       "publishedAt": "2026-11-17T23:18:41Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
       "readTime": "2 min read",
-      "reactions": 23
+      "reactions": 24
     },
     {
       "id": "devto-5058784",
@@ -650,7 +676,7 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F47s0e2be4j51zon2k68m.png",
       "readTime": "6 min read",
-      "reactions": 86
+      "reactions": 87
     },
     {
       "id": "devto-5015822",
@@ -690,32 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cwto9v5xn9emamdwcf0.jpg",
       "readTime": "1 min read",
       "reactions": 35
-    },
-    {
-      "id": "devto-5043905",
-      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
-      "summary": "Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The top setting cost 2.6 to 4.8 times as much on every paid model; Hydrogen, Carbon and Argon solved all 15 at either setting, and no score change was large enough to rule out chance on 15 problems.",
-      "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-16T17:56:57Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemini-high-vs-low%2Fdevto-cover.8e6eb323.jpg",
-      "readTime": "11 min read",
-      "reactions": 28
-    },
-    {
-      "id": "devto-5031591",
-      "title": "An MCP Tool Call Can Resolve and Still Fail",
-      "summary": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
-      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-16T14:28:00Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zu7ib42pk3njwji1klp.jpg",
-      "readTime": "4 min read",
-      "reactions": 31
     }
   ]
 }
