@@ -1,11 +1,50 @@
 {
-  "updatedAt": "2026-11-26T00:54:36.003Z",
+  "updatedAt": "2026-11-26T07:00:19.560Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50651719",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "summary": "Discussion with 33 upvotes and 2 comments on Hacker News.",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T05:12:59.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 33
+    },
+    {
+      "id": "hn-50651117",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "summary": "Discussion with 144 upvotes and 77 comments on Hacker News.",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T03:36:58.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 144
+    },
+    {
+      "id": "hn-50650892",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "summary": "Discussion with 61 upvotes and 10 comments on Hacker News.",
+      "url": "https://progrium.github.io/minipg/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T03:00:48.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 61
+    },
+    {
       "id": "hn-50649864",
-      "title": "Tell HN: More Ask HNs on /ask again",
-      "summary": "Discussion with 11 upvotes and 0 comments on Hacker News.",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "summary": "Discussion with 222 upvotes and 82 comments on Hacker News.",
       "url": "https://news.ycombinator.com/item?id=50649864",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,20 +52,20 @@
       "publishedAt": "2026-11-26T00:43:34.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 11
+      "reactions": 222
     },
     {
-      "id": "hn-50648823",
-      "title": "Jev is probably Qwen3.5-35B-A3B",
-      "summary": "Discussion with 190 upvotes and 51 comments on Hacker News.",
-      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "id": "hn-50649834",
+      "title": "Collection of preserved UI style guides",
+      "summary": "Discussion with 111 upvotes and 9 comments on Hacker News.",
+      "url": "https://aresluna.org/ui-style-guides/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-25T22:57:04.000Z",
+      "publishedAt": "2026-11-26T00:40:00.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 190
+      "reactions": 111
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -44,7 +83,7 @@
     {
       "id": "hn-50648365",
       "title": "Bare Metal Qwen",
-      "summary": "Discussion with 46 upvotes and 5 comments on Hacker News.",
+      "summary": "Discussion with 118 upvotes and 26 comments on Hacker News.",
       "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,25 +91,12 @@
       "publishedAt": "2026-11-25T22:15:34.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 46
-    },
-    {
-      "id": "hn-50648323",
-      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-      "summary": "Discussion with 24 upvotes and 0 comments on Hacker News.",
-      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-25T22:12:25.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 24
+      "reactions": 118
     },
     {
       "id": "hn-50648050",
       "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "summary": "Discussion with 233 upvotes and 105 comments on Hacker News.",
+      "summary": "Discussion with 407 upvotes and 205 comments on Hacker News.",
       "url": "https://github.com/lsernau/grh-lean",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,20 +104,7 @@
       "publishedAt": "2026-11-25T21:48:10.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 233
-    },
-    {
-      "id": "hn-50647673",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "Discussion with 173 upvotes and 106 comments on Hacker News.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T21:18:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 173
+      "reactions": 407
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -109,7 +122,7 @@
     {
       "id": "hn-50647181",
       "title": "Slow Ubuntu security response times",
-      "summary": "Discussion with 113 upvotes and 44 comments on Hacker News.",
+      "summary": "Discussion with 245 upvotes and 108 comments on Hacker News.",
       "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -117,20 +130,7 @@
       "publishedAt": "2026-11-25T20:38:00.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 113
-    },
-    {
-      "id": "hn-50647161",
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "summary": "Discussion with 76 upvotes and 23 comments on Hacker News.",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T20:35:50.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 76
+      "reactions": 245
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -187,7 +187,7 @@
     {
       "id": "hn-50646108",
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "summary": "Discussion with 836 upvotes and 691 comments on Hacker News.",
+      "summary": "Discussion with 1299 upvotes and 1146 comments on Hacker News.",
       "url": "https://scottaaronson.blog/?p=10379",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -195,7 +195,7 @@
       "publishedAt": "2026-11-25T19:11:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 836
+      "reactions": 1299
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -209,19 +209,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50645541",
-      "title": "Multiagent coding is the future",
-      "summary": "Discussion with 13 upvotes and 1 comments on Hacker News.",
-      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T18:20:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 13
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -263,22 +250,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50644980",
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "summary": "Discussion with 118 upvotes and 30 comments on Hacker News.",
-      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T17:34:34.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 118
-    },
-    {
       "id": "hn-50644817",
       "title": "1Password Security Incident",
-      "summary": "Discussion with 1091 upvotes and 468 comments on Hacker News.",
+      "summary": "Discussion with 1331 upvotes and 561 comments on Hacker News.",
       "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,12 +260,12 @@
       "publishedAt": "2026-11-25T17:18:26.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 1091
+      "reactions": 1331
     },
     {
       "id": "hn-50643129",
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "summary": "Discussion with 430 upvotes and 104 comments on Hacker News.",
+      "summary": "Discussion with 465 upvotes and 113 comments on Hacker News.",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -299,7 +273,7 @@
       "publishedAt": "2026-11-25T15:14:32.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 430
+      "reactions": 465
     },
     {
       "id": "devto-5114865",
@@ -312,7 +286,7 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 19
+      "reactions": 21
     },
     {
       "id": "devto-5112821",
@@ -325,7 +299,7 @@
       "publishedAt": "2026-11-25T04:03:43Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
       "readTime": "10 min read",
-      "reactions": 64
+      "reactions": 67
     },
     {
       "id": "devto-5109914",
@@ -338,7 +312,7 @@
       "publishedAt": "2026-11-24T17:33:19Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0csb5hra0wogd71orb06.png",
       "readTime": "8 min read",
-      "reactions": 22
+      "reactions": 23
     },
     {
       "id": "devto-5103474",
@@ -351,7 +325,33 @@
       "publishedAt": "2026-11-24T16:30:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffpv8z3hlxeu12fq22xbh.jpg",
       "readTime": "5 min read",
-      "reactions": 57
+      "reactions": 59
+    },
+    {
+      "id": "hn-50626466",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "summary": "Discussion with 87 upvotes and 14 comments on Hacker News.",
+      "url": "https://www.friedgil.com/vpvnp",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T10:56:56.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 87
+    },
+    {
+      "id": "hn-50623232",
+      "title": "Show HN: Synth Patch Hero",
+      "summary": "Discussion with 7 upvotes and 2 comments on Hacker News.",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T03:24:22.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 7
     },
     {
       "id": "devto-5032798",
@@ -382,7 +382,7 @@
     {
       "id": "hn-50601280",
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "summary": "Discussion with 224 upvotes and 69 comments on Hacker News.",
+      "summary": "Discussion with 346 upvotes and 92 comments on Hacker News.",
       "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -390,7 +390,20 @@
       "publishedAt": "2026-11-22T16:44:48.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 224
+      "reactions": 346
+    },
+    {
+      "id": "hn-50598636",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "summary": "Discussion with 59 upvotes and 15 comments on Hacker News.",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-22T11:29:44.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 59
     },
     {
       "id": "devto-5091929",
@@ -403,7 +416,7 @@
       "publishedAt": "2026-11-22T05:23:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
       "readTime": "7 min read",
-      "reactions": 68
+      "reactions": 69
     },
     {
       "id": "devto-5036802",
@@ -416,20 +429,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 89
-    },
-    {
-      "id": "hn-50589784",
-      "title": "SSH is a GUI framework",
-      "summary": "Discussion with 125 upvotes and 65 comments on Hacker News.",
-      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-21T14:52:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 125
+      "reactions": 96
     },
     {
       "id": "devto-5080715",
@@ -601,6 +601,19 @@
       "reactions": 254
     },
     {
+      "id": "devto-5062446",
+      "title": "Part 6: The Walkthrough That Only Worked on My Machine",
+      "summary": "This is Part 6 of a series building an HL7 v2-to-FHIR R4 interoperability service in public. The...",
+      "url": "https://dev.to/ndcodes/part-6-the-walkthrough-that-only-worked-on-my-machine-15e8",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-18T06:43:15Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3f1ropjeo5nj9o1j3vxo.png",
+      "readTime": "12 min read",
+      "reactions": 25
+    },
+    {
       "id": "devto-5060325",
       "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
       "summary": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zu7ib42pk3njwji1klp.jpg",
       "readTime": "4 min read",
       "reactions": 31
-    },
-    {
-      "id": "devto-5004164",
-      "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
-      "summary": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
-      "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-16T04:34:39Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1p4kxontmb681a8hynvf.png",
-      "readTime": "5 min read",
-      "reactions": 89
     }
   ]
 }
