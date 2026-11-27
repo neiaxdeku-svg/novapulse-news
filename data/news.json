@@ -1,11 +1,115 @@
 {
-  "updatedAt": "2026-11-27T12:59:28.412Z",
+  "updatedAt": "2026-11-27T18:46:56.115Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50669765",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "summary": "Discussion with 7 upvotes and 0 comments on Hacker News.",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T18:02:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 7
+    },
+    {
+      "id": "hn-50669561",
+      "title": "I'm Scared of AI",
+      "summary": "Discussion with 117 upvotes and 115 comments on Hacker News.",
+      "url": "https://thesoapbox.email/archive/3",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-27T17:45:31.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 117
+    },
+    {
+      "id": "hn-50668145",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "summary": "Discussion with 165 upvotes and 94 comments on Hacker News.",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T15:40:31.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 165
+    },
+    {
+      "id": "hn-50667989",
+      "title": "False computer-checked proofs",
+      "summary": "Discussion with 98 upvotes and 39 comments on Hacker News.",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T15:26:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 98
+    },
+    {
+      "id": "hn-50667726",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "summary": "Discussion with 247 upvotes and 74 comments on Hacker News.",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T15:01:50.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 247
+    },
+    {
+      "id": "hn-50667452",
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "summary": "Discussion with 28 upvotes and 4 comments on Hacker News.",
+      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "gadgets",
+      "publishedAt": "2026-11-27T14:37:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 28
+    },
+    {
+      "id": "hn-50667062",
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "summary": "Discussion with 46 upvotes and 6 comments on Hacker News.",
+      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T14:02:52.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 46
+    },
+    {
+      "id": "hn-50666375",
+      "title": "US Air Force's cloud computing platform hacked",
+      "summary": "Discussion with 238 upvotes and 142 comments on Hacker News.",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-27T12:54:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 238
+    },
+    {
       "id": "hn-50665968",
       "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "summary": "Discussion with 44 upvotes and 15 comments on Hacker News.",
+      "summary": "Discussion with 186 upvotes and 80 comments on Hacker News.",
       "url": "https://eprint.iacr.org/2026/3020.pdf",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,25 +117,38 @@
       "publishedAt": "2026-11-27T12:08:51.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 44
+      "reactions": 186
     },
     {
-      "id": "hn-50664191",
-      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
-      "summary": "Discussion with 104 upvotes and 72 comments on Hacker News.",
-      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "id": "hn-50665920",
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "summary": "Discussion with 159 upvotes and 133 comments on Hacker News.",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-27T08:11:46.000Z",
+      "publishedAt": "2026-11-27T12:03:11.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 104
+      "reactions": 159
+    },
+    {
+      "id": "hn-50664325",
+      "title": "Claude sabotaging ML research tasks?",
+      "summary": "Discussion with 380 upvotes and 191 comments on Hacker News.",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-27T08:28:08.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 380
     },
     {
       "id": "hn-50663595",
-      "title": "The group chat where your AI talks behind your back",
-      "summary": "Discussion with 381 upvotes and 171 comments on Hacker News.",
+      "title": "Group chat where your AI talks behind your back",
+      "summary": "Discussion with 602 upvotes and 253 comments on Hacker News.",
       "url": "https://construct22.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,25 +156,12 @@
       "publishedAt": "2026-11-27T06:44:34.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 381
-    },
-    {
-      "id": "hn-50663261",
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "summary": "Discussion with 157 upvotes and 36 comments on Hacker News.",
-      "url": "https://www.buynothingday.co.uk/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T05:52:42.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 157
+      "reactions": 602
     },
     {
       "id": "hn-50663089",
       "title": "The need for a formally verifiable mainstream programming language",
-      "summary": "Discussion with 191 upvotes and 179 comments on Hacker News.",
+      "summary": "Discussion with 253 upvotes and 261 comments on Hacker News.",
       "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -65,25 +169,12 @@
       "publishedAt": "2026-11-27T05:22:06.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 191
-    },
-    {
-      "id": "hn-50661646",
-      "title": "Hard Drive pricing has gotten bad",
-      "summary": "Discussion with 407 upvotes and 334 comments on Hacker News.",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T01:13:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 407
+      "reactions": 253
     },
     {
       "id": "hn-50660180",
       "title": "AI made self-hosting fun again",
-      "summary": "Discussion with 812 upvotes and 399 comments on Hacker News.",
+      "summary": "Discussion with 1007 upvotes and 476 comments on Hacker News.",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,33 +182,7 @@
       "publishedAt": "2026-11-26T21:47:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 812
-    },
-    {
-      "id": "hn-50659841",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "summary": "Discussion with 408 upvotes and 106 comments on Hacker News.",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T21:08:05.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 408
-    },
-    {
-      "id": "hn-50659640",
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "summary": "Discussion with 421 upvotes and 203 comments on Hacker News.",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T20:49:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 421
+      "reactions": 1007
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -159,56 +224,17 @@
       "reactions": 100
     },
     {
-      "id": "hn-50658498",
-      "title": "An introduction to uncertainty in machine learning",
-      "summary": "Discussion with 97 upvotes and 7 comments on Hacker News.",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-26T19:04:50.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 97
-    },
-    {
-      "id": "hn-50657645",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "summary": "Discussion with 284 upvotes and 141 comments on Hacker News.",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "id": "hn-50657392",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "summary": "Discussion with 128 upvotes and 41 comments on Hacker News.",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-26T17:47:45.000Z",
+      "publishedAt": "2026-11-26T17:24:37.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 284
-    },
-    {
-      "id": "hn-50657530",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "summary": "Discussion with 442 upvotes and 512 comments on Hacker News.",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T17:36:47.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 442
-    },
-    {
-      "id": "hn-50657265",
-      "title": "AMD-specific fork of llama.cpp",
-      "summary": "Discussion with 387 upvotes and 95 comments on Hacker News.",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T17:11:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 387
+      "reactions": 128
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -237,32 +263,6 @@
       "reactions": 100
     },
     {
-      "id": "hn-50653667",
-      "title": "Intel One Mono font (2023)",
-      "summary": "Discussion with 537 upvotes and 259 comments on Hacker News.",
-      "url": "https://github.com/intel/intel-one-mono",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T10:11:01.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 537
-    },
-    {
-      "id": "hn-50653477",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Discussion with 354 upvotes and 307 comments on Hacker News.",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-26T09:44:23.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 354
-    },
-    {
       "id": "devto-5095240",
       "title": "On reviewing AI-generated code",
       "summary": "I see a lot of posts from developers who insist on reviewing every single line of code that AI agents...",
@@ -273,7 +273,7 @@
       "publishedAt": "2026-11-26T09:02:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiokr8xrxb7kgmfnk1h7s.jpg",
       "readTime": "5 min read",
-      "reactions": 30
+      "reactions": 31
     },
     {
       "id": "devto-5120802",
@@ -286,7 +286,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 92
+      "reactions": 99
     },
     {
       "id": "devto-5108945",
@@ -299,7 +299,7 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 73
+      "reactions": 77
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -390,7 +390,7 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 34
+      "reactions": 35
     },
     {
       "id": "devto-5113886",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-11-25T04:03:43Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
       "readTime": "10 min read",
-      "reactions": 77
+      "reactions": 78
     },
     {
       "id": "devto-5109914",
@@ -442,7 +442,20 @@
       "publishedAt": "2026-11-24T16:30:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffpv8z3hlxeu12fq22xbh.jpg",
       "readTime": "5 min read",
-      "reactions": 60
+      "reactions": 61
+    },
+    {
+      "id": "devto-5105841",
+      "title": "How One Blind Reply on X Took Me to DeepMind's London HQ Twice",
+      "summary": "Why I Stopped Overthinking Replies (and Deployments)   For the first time, I'm not writing...",
+      "url": "https://dev.to/startupcafe/how-one-blind-reply-on-x-took-me-to-deepminds-london-hq-twice-31ff",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-24T07:16:26Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy1za44c4jvwfasc8ng16.png",
+      "readTime": "2 min read",
+      "reactions": 37
     },
     {
       "id": "devto-5032798",
@@ -468,7 +481,7 @@
       "publishedAt": "2026-11-23T13:19:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
       "readTime": "13 min read",
-      "reactions": 43
+      "reactions": 47
     },
     {
       "id": "devto-5091929",
@@ -494,7 +507,7 @@
       "publishedAt": "2026-11-21T18:23:38Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
-      "reactions": 104
+      "reactions": 105
     },
     {
       "id": "devto-5080715",
@@ -533,7 +546,7 @@
       "publishedAt": "2026-11-20T16:28:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
       "readTime": "4 min read",
-      "reactions": 59
+      "reactions": 64
     },
     {
       "id": "devto-5081870",
@@ -546,7 +559,7 @@
       "publishedAt": "2026-11-20T12:45:36Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F913y9g66ma1ggz6p92f9.png",
       "readTime": "9 min read",
-      "reactions": 40
+      "reactions": 41
     },
     {
       "id": "devto-5074788",
@@ -586,6 +599,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu7kwsgmm696mwcbkbl0k.png",
       "readTime": "4 min read",
       "reactions": 57
+    },
+    {
+      "id": "devto-5076355",
+      "title": "Publishing Markdown to a LinkedIn Article from an Agent Skill",
+      "summary": "LinkedIn's article editor saves two heading levels and no inline code, and its page cannot parse HTML. A step by step walk-through of the LinkedIn article destination in publishing-kit, tested by publishing the kit's own walk-through through it.",
+      "url": "https://dev.to/gde/publishing-markdown-to-a-linkedin-article-from-an-agent-skill-1hbj",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-19T19:45:08Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Flinkedin-article%2Fcover.dbf080b2.jpg",
+      "readTime": "10 min read",
+      "reactions": 25
     },
     {
       "id": "devto-5068570",
@@ -690,32 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
       "readTime": "2 min read",
       "reactions": 27
-    },
-    {
-      "id": "devto-5058784",
-      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
-      "summary": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. Thinking doubled the time and moved no score beyond chance; the drafter cut the time by 1.55 to 2.04 times and changed no score.",
-      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-17T17:13:33Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-thinking-3050%2Fdevto-cover.6b0d9ada.jpg",
-      "readTime": "9 min read",
-      "reactions": 27
-    },
-    {
-      "id": "devto-5058432",
-      "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
-      "summary": "AI agents now open pull requests on their own. I gave Amazon Nova Pro a real GitHub bug, then built a deterministic Python gate that rejects it when it cannot prove the fix. No model grades the model.",
-      "url": "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-17T15:45:44Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F47s0e2be4j51zon2k68m.png",
-      "readTime": "6 min read",
-      "reactions": 92
     }
   ]
 }
