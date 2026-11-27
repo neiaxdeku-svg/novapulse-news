@@ -1,11 +1,37 @@
 {
-  "updatedAt": "2026-11-27T07:02:27.491Z",
+  "updatedAt": "2026-11-27T12:59:28.412Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50665968",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "summary": "Discussion with 44 upvotes and 15 comments on Hacker News.",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T12:08:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 44
+    },
+    {
+      "id": "hn-50664191",
+      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "summary": "Discussion with 104 upvotes and 72 comments on Hacker News.",
+      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T08:11:46.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 104
+    },
+    {
       "id": "hn-50663595",
       "title": "The group chat where your AI talks behind your back",
-      "summary": "Discussion with 7 upvotes and 0 comments on Hacker News.",
+      "summary": "Discussion with 381 upvotes and 171 comments on Hacker News.",
       "url": "https://construct22.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,12 +39,25 @@
       "publishedAt": "2026-11-27T06:44:34.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 7
+      "reactions": 381
+    },
+    {
+      "id": "hn-50663261",
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "summary": "Discussion with 157 upvotes and 36 comments on Hacker News.",
+      "url": "https://www.buynothingday.co.uk/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T05:52:42.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 157
     },
     {
       "id": "hn-50663089",
       "title": "The need for a formally verifiable mainstream programming language",
-      "summary": "Discussion with 63 upvotes and 38 comments on Hacker News.",
+      "summary": "Discussion with 191 upvotes and 179 comments on Hacker News.",
       "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,25 +65,12 @@
       "publishedAt": "2026-11-27T05:22:06.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 63
-    },
-    {
-      "id": "hn-50662933",
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
-      "summary": "Discussion with 67 upvotes and 37 comments on Hacker News.",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-27T04:56:18.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 67
+      "reactions": 191
     },
     {
       "id": "hn-50661646",
       "title": "Hard Drive pricing has gotten bad",
-      "summary": "Discussion with 269 upvotes and 171 comments on Hacker News.",
+      "summary": "Discussion with 407 upvotes and 334 comments on Hacker News.",
       "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,25 +78,12 @@
       "publishedAt": "2026-11-27T01:13:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 269
-    },
-    {
-      "id": "hn-50660273",
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "summary": "Discussion with 89 upvotes and 11 comments on Hacker News.",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T21:59:19.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 89
+      "reactions": 407
     },
     {
       "id": "hn-50660180",
       "title": "AI made self-hosting fun again",
-      "summary": "Discussion with 552 upvotes and 284 comments on Hacker News.",
+      "summary": "Discussion with 812 upvotes and 399 comments on Hacker News.",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,12 +91,12 @@
       "publishedAt": "2026-11-26T21:47:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 552
+      "reactions": 812
     },
     {
       "id": "hn-50659841",
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "summary": "Discussion with 334 upvotes and 77 comments on Hacker News.",
+      "summary": "Discussion with 408 upvotes and 106 comments on Hacker News.",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,12 +104,12 @@
       "publishedAt": "2026-11-26T21:08:05.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 334
+      "reactions": 408
     },
     {
       "id": "hn-50659640",
       "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "summary": "Discussion with 257 upvotes and 115 comments on Hacker News.",
+      "summary": "Discussion with 421 upvotes and 203 comments on Hacker News.",
       "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -104,7 +117,7 @@
       "publishedAt": "2026-11-26T20:49:49.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 257
+      "reactions": 421
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -148,7 +161,7 @@
     {
       "id": "hn-50658498",
       "title": "An introduction to uncertainty in machine learning",
-      "summary": "Discussion with 57 upvotes and 1 comments on Hacker News.",
+      "summary": "Discussion with 97 upvotes and 7 comments on Hacker News.",
       "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -156,25 +169,12 @@
       "publishedAt": "2026-11-26T19:04:50.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 57
-    },
-    {
-      "id": "hn-50658193",
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "summary": "Discussion with 93 upvotes and 20 comments on Hacker News.",
-      "url": "https://bui.preetham.top/charts/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T18:37:24.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 93
+      "reactions": 97
     },
     {
       "id": "hn-50657645",
       "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "summary": "Discussion with 247 upvotes and 120 comments on Hacker News.",
+      "summary": "Discussion with 284 upvotes and 141 comments on Hacker News.",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -182,12 +182,12 @@
       "publishedAt": "2026-11-26T17:47:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 247
+      "reactions": 284
     },
     {
       "id": "hn-50657530",
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "summary": "Discussion with 351 upvotes and 415 comments on Hacker News.",
+      "summary": "Discussion with 442 upvotes and 512 comments on Hacker News.",
       "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -195,12 +195,12 @@
       "publishedAt": "2026-11-26T17:36:47.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 351
+      "reactions": 442
     },
     {
       "id": "hn-50657265",
       "title": "AMD-specific fork of llama.cpp",
-      "summary": "Discussion with 331 upvotes and 81 comments on Hacker News.",
+      "summary": "Discussion with 387 upvotes and 95 comments on Hacker News.",
       "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -208,7 +208,7 @@
       "publishedAt": "2026-11-26T17:11:29.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 331
+      "reactions": 387
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -239,7 +239,7 @@
     {
       "id": "hn-50653667",
       "title": "Intel One Mono font (2023)",
-      "summary": "Discussion with 502 upvotes and 248 comments on Hacker News.",
+      "summary": "Discussion with 537 upvotes and 259 comments on Hacker News.",
       "url": "https://github.com/intel/intel-one-mono",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -247,12 +247,12 @@
       "publishedAt": "2026-11-26T10:11:01.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 502
+      "reactions": 537
     },
     {
       "id": "hn-50653477",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Discussion with 313 upvotes and 268 comments on Hacker News.",
+      "summary": "Discussion with 354 upvotes and 307 comments on Hacker News.",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -260,7 +260,7 @@
       "publishedAt": "2026-11-26T09:44:23.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 313
+      "reactions": 354
     },
     {
       "id": "devto-5095240",
@@ -273,7 +273,7 @@
       "publishedAt": "2026-11-26T09:02:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiokr8xrxb7kgmfnk1h7s.jpg",
       "readTime": "5 min read",
-      "reactions": 21
+      "reactions": 30
     },
     {
       "id": "devto-5120802",
@@ -286,7 +286,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 87
+      "reactions": 92
     },
     {
       "id": "devto-5108945",
@@ -299,7 +299,7 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 65
+      "reactions": 73
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -338,7 +338,7 @@
       "publishedAt": "2026-11-25T20:32:18Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cq2gwo9j7g6aqhmas0l.png",
       "readTime": "12 min read",
-      "reactions": 17
+      "reactions": 19
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -390,7 +390,20 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 27
+      "reactions": 34
+    },
+    {
+      "id": "devto-5113886",
+      "title": "Part 7: What Reading the Code Could Never Find",
+      "summary": "This is the last part of a series on building an HL7 v2-to-FHIR R4 interoperability service in...",
+      "url": "https://dev.to/ndcodes/part-7-what-reading-the-code-could-never-find-8c1",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-25T06:38:30Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ge5am2pdibnoq6khn69.png",
+      "readTime": "12 min read",
+      "reactions": 21
     },
     {
       "id": "devto-5112821",
@@ -455,7 +468,7 @@
       "publishedAt": "2026-11-23T13:19:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
       "readTime": "13 min read",
-      "reactions": 42
+      "reactions": 43
     },
     {
       "id": "devto-5091929",
@@ -650,7 +663,7 @@
       "publishedAt": "2026-11-18T08:32:45Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
-      "reactions": 254
+      "reactions": 255
     },
     {
       "id": "devto-5062446",
@@ -676,7 +689,7 @@
       "publishedAt": "2026-11-17T23:18:41Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
       "readTime": "2 min read",
-      "reactions": 24
+      "reactions": 27
     },
     {
       "id": "devto-5058784",
@@ -702,20 +715,7 @@
       "publishedAt": "2026-11-17T15:45:44Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F47s0e2be4j51zon2k68m.png",
       "readTime": "6 min read",
-      "reactions": 87
-    },
-    {
-      "id": "devto-5015822",
-      "title": "Could I Still Do This From Scratch?",
-      "summary": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the...",
-      "url": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-17T11:26:15Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sw7q891msu9qonbawld.webp",
-      "readTime": "3 min read",
-      "reactions": 78
+      "reactions": 92
     }
   ]
 }
