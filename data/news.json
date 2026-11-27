@@ -1,11 +1,141 @@
 {
-  "updatedAt": "2026-11-26T18:48:26.495Z",
+  "updatedAt": "2026-11-27T00:57:47.994Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50660273",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "summary": "Discussion with 29 upvotes and 4 comments on Hacker News.",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T21:59:19.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 29
+    },
+    {
+      "id": "hn-50660180",
+      "title": "AI made self-hosting fun again",
+      "summary": "Discussion with 249 upvotes and 142 comments on Hacker News.",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T21:47:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 249
+    },
+    {
+      "id": "hn-50659841",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "summary": "Discussion with 217 upvotes and 40 comments on Hacker News.",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T21:08:05.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 217
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China....",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Is Alice Huang a spy or not?",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese sp...",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T20:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50658910",
+      "title": "Top-cited AI scientists at four US companies compared",
+      "summary": "Discussion with 31 upvotes and 20 comments on Hacker News.",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T19:44:31.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 31
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "X finally gets parental controls after 20 years",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform....",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T19:31:50.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50658632",
+      "title": "Rvoip: VoIP stack in Rust",
+      "summary": "Discussion with 76 upvotes and 17 comments on Hacker News.",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T19:18:09.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 76
+    },
+    {
+      "id": "hn-50658193",
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "summary": "Discussion with 48 upvotes and 8 comments on Hacker News.",
+      "url": "https://bui.preetham.top/charts/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T18:37:24.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 48
+    },
+    {
+      "id": "hn-50657936",
+      "title": "George Whitesides, 1939-2026",
+      "summary": "Discussion with 56 upvotes and 7 comments on Hacker News.",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T18:13:07.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 56
+    },
+    {
       "id": "hn-50657645",
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "summary": "Discussion with 34 upvotes and 7 comments on Hacker News.",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "summary": "Discussion with 198 upvotes and 89 comments on Hacker News.",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,25 +143,25 @@
       "publishedAt": "2026-11-26T17:47:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 34
+      "reactions": 198
     },
     {
-      "id": "hn-50657307",
-      "title": "Tracking Diseases Cured by AI",
-      "summary": "Discussion with 184 upvotes and 89 comments on Hacker News.",
-      "url": "https://diseasescuredbyai.com/",
+      "id": "hn-50657530",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "summary": "Discussion with 249 upvotes and 319 comments on Hacker News.",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-26T17:16:41.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "category": "dev",
+      "publishedAt": "2026-11-26T17:36:47.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 184
+      "reactions": 249
     },
     {
       "id": "hn-50657265",
-      "title": "AMD Specific Patches for Llama.cpp",
-      "summary": "Discussion with 81 upvotes and 24 comments on Hacker News.",
+      "title": "AMD-specific fork of llama.cpp",
+      "summary": "Discussion with 275 upvotes and 64 comments on Hacker News.",
       "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,7 +169,7 @@
       "publishedAt": "2026-11-26T17:11:29.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 81
+      "reactions": 275
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -55,21 +185,8 @@
       "reactions": 100
     },
     {
-      "id": "hn-50657059",
-      "title": "NP_R ≠ PAR_R",
-      "summary": "Discussion with 89 upvotes and 86 comments on Hacker News.",
-      "url": "https://github.com/samueleverett01/bss-permanent-separations",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T16:50:55.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 89
-    },
-    {
       "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time....",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "source": "TechCrunch",
@@ -81,61 +198,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50656036",
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "summary": "Discussion with 59 upvotes and 19 comments on Hacker News.",
-      "url": "https://michidk.github.io/sidebyside/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T15:00:06.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 59
-    },
-    {
-      "id": "hn-50655664",
-      "title": "Tell HN: Happy Thanksgiving",
-      "summary": "Discussion with 433 upvotes and 114 comments on Hacker News.",
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T14:26:54.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 433
-    },
-    {
-      "id": "hn-50655278",
-      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-      "summary": "Discussion with 194 upvotes and 91 comments on Hacker News.",
-      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T13:48:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 194
-    },
-    {
-      "id": "hn-50654289",
-      "title": "Nextcloud Office Desktop app",
-      "summary": "Discussion with 351 upvotes and 154 comments on Hacker News.",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T11:50:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 351
-    },
-    {
       "id": "hn-50653667",
-      "title": "Intel One Mono font",
-      "summary": "Discussion with 377 upvotes and 213 comments on Hacker News.",
+      "title": "Intel One Mono font (2023)",
+      "summary": "Discussion with 454 upvotes and 235 comments on Hacker News.",
       "url": "https://github.com/intel/intel-one-mono",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -143,7 +208,20 @@
       "publishedAt": "2026-11-26T10:11:01.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 377
+      "reactions": 454
+    },
+    {
+      "id": "hn-50653477",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "summary": "Discussion with 222 upvotes and 199 comments on Hacker News.",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T09:44:23.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 222
     },
     {
       "id": "devto-5095240",
@@ -156,7 +234,7 @@
       "publishedAt": "2026-11-26T09:02:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiokr8xrxb7kgmfnk1h7s.jpg",
       "readTime": "5 min read",
-      "reactions": 12
+      "reactions": 16
     },
     {
       "id": "devto-5120802",
@@ -169,7 +247,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 77
+      "reactions": 83
     },
     {
       "id": "devto-5108945",
@@ -182,33 +260,46 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 57
+      "reactions": 60
     },
     {
-      "id": "hn-50652184",
-      "title": "Moat: Your OpenRouter Replacement",
-      "summary": "Discussion with 196 upvotes and 117 comments on Hacker News.",
-      "url": "https://commandcode.ai/moat",
+      "id": "hn-50652527",
+      "title": "OpenAI may be in cost control mode",
+      "summary": "Discussion with 259 upvotes and 252 comments on Hacker News.",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-26T07:33:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 259
+    },
+    {
+      "id": "hn-50651430",
+      "title": "NormalScript: A perfectly normal scripting language",
+      "summary": "Discussion with 75 upvotes and 16 comments on Hacker News.",
+      "url": "https://psychoscript.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-26T06:32:48.000Z",
+      "publishedAt": "2026-11-26T04:32:26.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 196
+      "reactions": 75
     },
     {
-      "id": "hn-50651719",
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "summary": "Discussion with 227 upvotes and 50 comments on Hacker News.",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "id": "hn-50651099",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "summary": "Discussion with 72 upvotes and 36 comments on Hacker News.",
+      "url": "https://olumino.app",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-26T05:12:59.000Z",
+      "publishedAt": "2026-11-26T03:33:06.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 227
+      "reactions": 72
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -222,19 +313,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50647673",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "Discussion with 586 upvotes and 477 comments on Hacker News.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T21:18:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 586
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -289,58 +367,6 @@
       "reactions": 100
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own rese...",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T19:44:24.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50646108",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "summary": "Discussion with 1894 upvotes and 1736 comments on Hacker News.",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T19:11:27.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 1894
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers....",
-      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T18:49:52.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks ...",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T18:11:46.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
       "id": "devto-5114865",
       "title": "Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gate Test",
       "summary": "I tested Strands Decider 2B as an AI agent tool gate on 16 refund cases against Nova Pro as a judge: accuracy, thresholds, injection, latency, cost.",
@@ -351,7 +377,7 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 25
+      "reactions": 27
     },
     {
       "id": "devto-5112821",
@@ -364,20 +390,7 @@
       "publishedAt": "2026-11-25T04:03:43Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
       "readTime": "10 min read",
-      "reactions": 76
-    },
-    {
-      "id": "hn-50636931",
-      "title": "Curiosity Is No Solo Act",
-      "summary": "Discussion with 78 upvotes and 20 comments on Hacker News.",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T00:37:07.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 78
+      "reactions": 77
     },
     {
       "id": "devto-5109914",
@@ -403,20 +416,7 @@
       "publishedAt": "2026-11-24T16:30:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffpv8z3hlxeu12fq22xbh.jpg",
       "readTime": "5 min read",
-      "reactions": 59
-    },
-    {
-      "id": "hn-50619466",
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "summary": "Discussion with 66 upvotes and 45 comments on Hacker News.",
-      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-23T21:18:49.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 66
+      "reactions": 60
     },
     {
       "id": "devto-5032798",
@@ -442,7 +442,7 @@
       "publishedAt": "2026-11-23T13:19:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
       "readTime": "13 min read",
-      "reactions": 41
+      "reactions": 42
     },
     {
       "id": "devto-5091929",
@@ -455,7 +455,7 @@
       "publishedAt": "2026-11-22T05:23:14Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbzez02x7i1msg8en4m1.png",
       "readTime": "7 min read",
-      "reactions": 74
+      "reactions": 75
     },
     {
       "id": "devto-5036802",
@@ -546,7 +546,7 @@
       "publishedAt": "2026-11-20T05:31:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaykgc6y8kkun5ps5gam.jpg",
       "readTime": "21 min read",
-      "reactions": 39
+      "reactions": 34
     },
     {
       "id": "devto-5076491",
@@ -559,7 +559,7 @@
       "publishedAt": "2026-11-20T00:36:25Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu7kwsgmm696mwcbkbl0k.png",
       "readTime": "4 min read",
-      "reactions": 56
+      "reactions": 57
     },
     {
       "id": "devto-5068570",
@@ -577,14 +577,14 @@
     {
       "id": "devto-5072558",
       "title": "Can a plain table hijack an AI agent?",
-      "summary": "Living repo: every case in this article is in agent-redteam...",
+      "summary": "Repo: every case in this article is in agent-redteam...",
       "url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
       "source": "Dev Community",
       "sourceUrl": "https://dev.to",
       "category": "ai",
       "publishedAt": "2026-11-19T09:20:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2kkbuaxsa4tzcezoty0.png",
-      "readTime": "5 min read",
+      "readTime": "4 min read",
       "reactions": 32
     },
     {
@@ -638,6 +638,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
       "reactions": 254
+    },
+    {
+      "id": "devto-5062446",
+      "title": "Part 6: The Walkthrough That Only Worked on My Machine",
+      "summary": "This is Part 6 of a series building an HL7 v2-to-FHIR R4 interoperability service in public. The...",
+      "url": "https://dev.to/ndcodes/part-6-the-walkthrough-that-only-worked-on-my-machine-15e8",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-18T06:43:15Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3f1ropjeo5nj9o1j3vxo.png",
+      "readTime": "12 min read",
+      "reactions": 25
     },
     {
       "id": "devto-5060325",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgd1nbe96vq66xm41mz8t.jpg",
       "readTime": "7 min read",
       "reactions": 17
-    },
-    {
-      "id": "devto-5007369",
-      "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
-      "summary": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
-      "url": "https://dev.to/heinrichneb/my-ai-agent-kept-quoting-a-number-i-had-already-corrected-what-has-yours-remembered-wrong-34d0",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-16T22:55:58Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cwto9v5xn9emamdwcf0.jpg",
-      "readTime": "1 min read",
-      "reactions": 35
     }
   ]
 }
