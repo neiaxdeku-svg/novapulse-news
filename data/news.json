@@ -1,11 +1,154 @@
 {
-  "updatedAt": "2026-11-28T12:48:48.575Z",
+  "updatedAt": "2026-11-28T18:38:00.737Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50680168",
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "summary": "Discussion with 106 upvotes and 6 comments on Hacker News.",
+      "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-28T17:53:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 106
+    },
+    {
+      "id": "hn-50680129",
+      "title": "Patrick Collison you are WRONG about street furniture!!!",
+      "summary": "Discussion with 22 upvotes and 5 comments on Hacker News.",
+      "url": "https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T17:49:13.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 22
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+      "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own....",
+      "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-28T17:46:47.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50680085",
+      "title": "The race is not inevitable",
+      "summary": "Discussion with 30 upvotes and 5 comments on Hacker News.",
+      "url": "https://ryo.lu/journal/the-race-is-not-inevitable",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T17:45:23.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 30
+    },
+    {
+      "id": "hn-50679708",
+      "title": "Computer Disease",
+      "summary": "Discussion with 56 upvotes and 22 comments on Hacker News.",
+      "url": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T17:12:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 56
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "This new sports app is designed specifically for women’s sports",
+      "summary": "A new sports app is looking to change the way fans engage with women’s sports — without real-money gambling....",
+      "url": "https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T16:43:39.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50679288",
+      "title": "GTA 6 Graphics Rendering: What We Know So Far",
+      "summary": "Discussion with 48 upvotes and 37 comments on Hacker News.",
+      "url": "https://ben3d.ca/blog/gta-6-graphics-rendering-what-we-know-so-far",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T16:35:03.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 48
+    },
+    {
+      "id": "hn-50678901",
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "summary": "Discussion with 231 upvotes and 78 comments on Hacker News.",
+      "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T15:55:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 231
+    },
+    {
+      "id": "hn-50678273",
+      "title": "Physics Breakthrough Simulator",
+      "summary": "Discussion with 104 upvotes and 30 comments on Hacker News.",
+      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T14:52:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 104
+    },
+    {
+      "id": "tc-aHR0cHM6Ly90ZWNo",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models....",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "category": "ai",
+      "publishedAt": "2026-11-28T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "5 min read",
+      "reactions": 100
+    },
+    {
+      "id": "hn-50677091",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "summary": "Discussion with 113 upvotes and 42 comments on Hacker News.",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T12:50:15.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 113
+    },
+    {
       "id": "hn-50676752",
       "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
-      "summary": "Discussion with 9 upvotes and 1 comments on Hacker News.",
+      "summary": "Discussion with 161 upvotes and 55 comments on Hacker News.",
       "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,12 +156,25 @@
       "publishedAt": "2026-11-28T11:57:04.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 9
+      "reactions": 161
+    },
+    {
+      "id": "hn-50676723",
+      "title": "Audible removes download option for purchased audiobooks",
+      "summary": "Discussion with 623 upvotes and 257 comments on Hacker News.",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T11:51:27.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 623
     },
     {
       "id": "hn-50676672",
       "title": "Farewell",
-      "summary": "Discussion with 170 upvotes and 39 comments on Hacker News.",
+      "summary": "Discussion with 838 upvotes and 353 comments on Hacker News.",
       "url": "https://github.com/p-e-w/heretic/issues/601",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,12 +182,38 @@
       "publishedAt": "2026-11-28T11:42:26.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 170
+      "reactions": 838
+    },
+    {
+      "id": "hn-50676390",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "summary": "Discussion with 630 upvotes and 213 comments on Hacker News.",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-28T10:37:40.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 630
+    },
+    {
+      "id": "hn-50676199",
+      "title": "Diablo II",
+      "summary": "Discussion with 169 upvotes and 65 comments on Hacker News.",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T09:54:19.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 169
     },
     {
       "id": "hn-50674452",
       "title": "Knuth: Moratorium on Error Reports",
-      "summary": "Discussion with 182 upvotes and 92 comments on Hacker News.",
+      "summary": "Discussion with 424 upvotes and 197 comments on Hacker News.",
       "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,72 +221,20 @@
       "publishedAt": "2026-11-28T03:49:21.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 182
+      "reactions": 424
     },
     {
-      "id": "hn-50674218",
-      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
-      "summary": "Discussion with 412 upvotes and 102 comments on Hacker News.",
-      "url": "https://unkernel.dev",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-28T03:19:20.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 412
-    },
-    {
-      "id": "hn-50672565",
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "summary": "Discussion with 461 upvotes and 168 comments on Hacker News.",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T23:06:29.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 461
-    },
-    {
-      "id": "hn-50669765",
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "summary": "Discussion with 325 upvotes and 106 comments on Hacker News.",
-      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T18:02:45.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 325
-    },
-    {
-      "id": "hn-50668145",
-      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "summary": "Discussion with 548 upvotes and 290 comments on Hacker News.",
-      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T15:40:31.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 548
-    },
-    {
-      "id": "hn-50666724",
-      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
-      "summary": "Discussion with 95 upvotes and 25 comments on Hacker News.",
-      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T13:30:20.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 95
+      "id": "devto-5134033",
+      "title": "Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust",
+      "summary": "Why we don't code by majority vote, opening our 375-ticket empirical ledger (including what broke), Barry Boehm's $1 : $500 : $25,000 token defect curve, the 4-Layer Verification Stack that lets you ship languages you despise, and how four Dart scars caught a live bug in a Python flight recorder.",
+      "url": "https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-27T16:31:24Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f90ue8xv2zfj6yrqe43.jpg",
+      "readTime": "19 min read",
+      "reactions": 17
     },
     {
       "id": "devto-5131295",
@@ -117,7 +247,7 @@
       "publishedAt": "2026-11-27T09:12:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7920vprngowwntqoxtz.gif",
       "readTime": "30 min read",
-      "reactions": 33
+      "reactions": 35
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -159,19 +289,6 @@
       "reactions": 100
     },
     {
-      "id": "hn-50657346",
-      "title": "The Balatro Timeline",
-      "summary": "Discussion with 424 upvotes and 116 comments on Hacker News.",
-      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T17:20:27.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 424
-    },
-    {
       "id": "tc-aHR0cHM6Ly90ZWNo",
       "title": "A month with the iPhone Duo has changed how I use my phone",
       "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate....",
@@ -196,19 +313,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "5 min read",
       "reactions": 100
-    },
-    {
-      "id": "hn-50655389",
-      "title": "Signals",
-      "summary": "Discussion with 19 upvotes and 7 comments on Hacker News.",
-      "url": "https://www.quarter--mile.com/Signals",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T14:00:05.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 19
     },
     {
       "id": "devto-5124143",
@@ -247,7 +351,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 102
+      "reactions": 104
     },
     {
       "id": "devto-5108945",
@@ -260,33 +364,7 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 91
-    },
-    {
-      "id": "hn-50650253",
-      "title": "Sydney Fire Ant Infestation",
-      "summary": "Discussion with 71 upvotes and 45 comments on Hacker News.",
-      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T01:33:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 71
-    },
-    {
-      "id": "hn-50648760",
-      "title": "Coherent Energy Transformations: What elements can you make?",
-      "summary": "Discussion with 15 upvotes and 8 comments on Hacker News.",
-      "url": "https://starfire.tech/shock/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-25T22:51:08.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 15
+      "reactions": 98
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -328,56 +406,17 @@
       "reactions": 19
     },
     {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences....",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T20:03:27.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences....",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-25T19:54:57.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "tc-aHR0cHM6Ly90ZWNo",
-      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall....",
-      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "category": "cybersecurity",
-      "publishedAt": "2026-11-25T19:54:32.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
-      "readTime": "5 min read",
-      "reactions": 100
-    },
-    {
-      "id": "hn-50643158",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "summary": "Discussion with 468 upvotes and 297 comments on Hacker News.",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "id": "hn-50642354",
+      "title": "Essential Reading in the Age of Math 2.0",
+      "summary": "Discussion with 26 upvotes and 10 comments on Hacker News.",
+      "url": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-25T15:16:53.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "category": "dev",
+      "publishedAt": "2026-11-25T13:56:50.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 468
+      "reactions": 26
     },
     {
       "id": "devto-5114865",
@@ -390,7 +429,7 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 42
+      "reactions": 44
     },
     {
       "id": "devto-5113886",
@@ -416,20 +455,7 @@
       "publishedAt": "2026-11-25T04:03:43Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
       "readTime": "10 min read",
-      "reactions": 82
-    },
-    {
-      "id": "hn-50632052",
-      "title": "Loom seamlessly combines weaving, knitting and braiding",
-      "summary": "Discussion with 168 upvotes and 19 comments on Hacker News.",
-      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-24T18:10:45.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 168
+      "reactions": 83
     },
     {
       "id": "devto-5109914",
@@ -456,19 +482,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffpv8z3hlxeu12fq22xbh.jpg",
       "readTime": "5 min read",
       "reactions": 65
-    },
-    {
-      "id": "hn-50628391",
-      "title": "Swapping Jolt's sorted collections to a B+tree",
-      "summary": "Discussion with 6 upvotes and 1 comments on Hacker News.",
-      "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-24T14:06:58.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 6
     },
     {
       "id": "devto-5105841",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v4hhay53j7anx0qrai8.png",
       "readTime": "11 min read",
       "reactions": 119
-    },
-    {
-      "id": "devto-5059675",
-      "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "summary": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
-      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-18T18:32:36Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
-      "readTime": "4 min read",
-      "reactions": 91
     }
   ]
 }
