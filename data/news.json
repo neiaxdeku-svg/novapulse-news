@@ -1,11 +1,24 @@
 {
-  "updatedAt": "2026-11-28T00:54:26.440Z",
+  "updatedAt": "2026-11-28T06:56:40.563Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50674218",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "summary": "Discussion with 149 upvotes and 11 comments on Hacker News.",
+      "url": "https://unkernel.dev",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T03:19:20.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 149
+    },
+    {
       "id": "hn-50672565",
       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "summary": "Discussion with 35 upvotes and 9 comments on Hacker News.",
+      "summary": "Discussion with 295 upvotes and 117 comments on Hacker News.",
       "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,12 +26,12 @@
       "publishedAt": "2026-11-27T23:06:29.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 35
+      "reactions": 295
     },
     {
       "id": "hn-50672521",
       "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
-      "summary": "Discussion with 24 upvotes and 8 comments on Hacker News.",
+      "summary": "Discussion with 84 upvotes and 30 comments on Hacker News.",
       "url": "https://tabernet.es/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,25 +39,12 @@
       "publishedAt": "2026-11-27T23:00:30.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 24
-    },
-    {
-      "id": "hn-50672142",
-      "title": "Source Control from Hell",
-      "summary": "Discussion with 49 upvotes and 36 comments on Hacker News.",
-      "url": "https://frantic.im/git/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T22:06:44.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 49
+      "reactions": 84
     },
     {
       "id": "hn-50672008",
       "title": "9/UX: a Macintosh-inspired desktop for 9front",
-      "summary": "Discussion with 62 upvotes and 10 comments on Hacker News.",
+      "summary": "Discussion with 108 upvotes and 26 comments on Hacker News.",
       "url": "https://progrium.github.io/9ux/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -52,38 +52,12 @@
       "publishedAt": "2026-11-27T21:48:14.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 62
-    },
-    {
-      "id": "hn-50670855",
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "summary": "Discussion with 247 upvotes and 131 comments on Hacker News.",
-      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T19:42:25.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 247
-    },
-    {
-      "id": "hn-50670841",
-      "title": "The AT&T Unix PC (3B1) VM",
-      "summary": "Discussion with 55 upvotes and 10 comments on Hacker News.",
-      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T19:40:33.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 55
+      "reactions": 108
     },
     {
       "id": "hn-50669765",
       "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "summary": "Discussion with 221 upvotes and 70 comments on Hacker News.",
+      "summary": "Discussion with 274 upvotes and 88 comments on Hacker News.",
       "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -91,12 +65,12 @@
       "publishedAt": "2026-11-27T18:02:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 221
+      "reactions": 274
     },
     {
       "id": "hn-50668145",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "summary": "Discussion with 412 upvotes and 211 comments on Hacker News.",
+      "summary": "Discussion with 489 upvotes and 258 comments on Hacker News.",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -104,12 +78,12 @@
       "publishedAt": "2026-11-27T15:40:31.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 412
+      "reactions": 489
     },
     {
       "id": "hn-50667726",
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "summary": "Discussion with 323 upvotes and 111 comments on Hacker News.",
+      "summary": "Discussion with 356 upvotes and 119 comments on Hacker News.",
       "url": "https://bouncemarket.minhanhday.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -117,20 +91,20 @@
       "publishedAt": "2026-11-27T15:01:50.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 323
+      "reactions": 356
     },
     {
-      "id": "hn-50667371",
-      "title": "Rayshader 1.0: Exit the Matrix",
-      "summary": "Discussion with 69 upvotes and 11 comments on Hacker News.",
-      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "id": "hn-50666724",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "summary": "Discussion with 23 upvotes and 3 comments on Hacker News.",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-27T14:30:20.000Z",
+      "publishedAt": "2026-11-27T13:30:20.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 69
+      "reactions": 23
     },
     {
       "id": "devto-5131295",
@@ -143,12 +117,12 @@
       "publishedAt": "2026-11-27T09:12:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7920vprngowwntqoxtz.gif",
       "readTime": "30 min read",
-      "reactions": 29
+      "reactions": 32
     },
     {
       "id": "hn-50662313",
       "title": "Citroën Hydraulic System",
-      "summary": "Discussion with 128 upvotes and 45 comments on Hacker News.",
+      "summary": "Discussion with 169 upvotes and 54 comments on Hacker News.",
       "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -156,7 +130,7 @@
       "publishedAt": "2026-11-27T03:10:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 128
+      "reactions": 169
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -200,7 +174,7 @@
     {
       "id": "hn-50657392",
       "title": "First images of the impact of DART asteroid deflection experiment",
-      "summary": "Discussion with 184 upvotes and 55 comments on Hacker News.",
+      "summary": "Discussion with 204 upvotes and 60 comments on Hacker News.",
       "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -208,12 +182,12 @@
       "publishedAt": "2026-11-26T17:24:37.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 184
+      "reactions": 204
     },
     {
       "id": "hn-50657346",
       "title": "The Balatro Timeline",
-      "summary": "Discussion with 19 upvotes and 1 comments on Hacker News.",
+      "summary": "Discussion with 246 upvotes and 56 comments on Hacker News.",
       "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -221,7 +195,7 @@
       "publishedAt": "2026-11-26T17:20:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 19
+      "reactions": 246
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -250,6 +224,19 @@
       "reactions": 100
     },
     {
+      "id": "devto-5124143",
+      "title": "From a feed full of Fable 5.2 demos to a 20-episode Indian epic: how I built \"The Eighteen Days\"",
+      "summary": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥  You have a right to...",
+      "url": "https://dev.to/amananandrai/from-a-feed-full-of-fable-52-demos-to-a-20-episode-indian-epic-how-i-built-the-eighteen-days-14mm",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-26T12:46:19Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Focuj1jk18d2zta0sr10a.jpg",
+      "readTime": "22 min read",
+      "reactions": 18
+    },
+    {
       "id": "devto-5095240",
       "title": "On reviewing AI-generated code",
       "summary": "I see a lot of posts from developers who insist on reviewing every single line of code that AI agents...",
@@ -260,7 +247,7 @@
       "publishedAt": "2026-11-26T09:02:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiokr8xrxb7kgmfnk1h7s.jpg",
       "readTime": "5 min read",
-      "reactions": 30
+      "reactions": 31
     },
     {
       "id": "devto-5120802",
@@ -273,7 +260,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 100
+      "reactions": 101
     },
     {
       "id": "devto-5108945",
@@ -286,7 +273,20 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 82
+      "reactions": 85
+    },
+    {
+      "id": "hn-50650253",
+      "title": "Sydney Fire Ant Infestation",
+      "summary": "Discussion with 37 upvotes and 12 comments on Hacker News.",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T01:33:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 37
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -369,7 +369,7 @@
     {
       "id": "hn-50643158",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "summary": "Discussion with 287 upvotes and 175 comments on Hacker News.",
+      "summary": "Discussion with 404 upvotes and 256 comments on Hacker News.",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -377,7 +377,7 @@
       "publishedAt": "2026-11-25T15:16:53.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 287
+      "reactions": 404
     },
     {
       "id": "devto-5114865",
@@ -390,7 +390,7 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 35
+      "reactions": 36
     },
     {
       "id": "devto-5113886",
@@ -416,12 +416,25 @@
       "publishedAt": "2026-11-25T04:03:43Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
       "readTime": "10 min read",
-      "reactions": 78
+      "reactions": 82
+    },
+    {
+      "id": "hn-50632052",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "summary": "Discussion with 13 upvotes and 0 comments on Hacker News.",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-24T18:10:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 13
     },
     {
       "id": "hn-50631823",
       "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
-      "summary": "Discussion with 31 upvotes and 6 comments on Hacker News.",
+      "summary": "Discussion with 79 upvotes and 17 comments on Hacker News.",
       "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -429,7 +442,7 @@
       "publishedAt": "2026-11-24T17:55:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 31
+      "reactions": 79
     },
     {
       "id": "devto-5109914",
@@ -455,7 +468,7 @@
       "publishedAt": "2026-11-24T16:30:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffpv8z3hlxeu12fq22xbh.jpg",
       "readTime": "5 min read",
-      "reactions": 61
+      "reactions": 62
     },
     {
       "id": "devto-5105841",
@@ -468,7 +481,7 @@
       "publishedAt": "2026-11-24T07:16:26Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy1za44c4jvwfasc8ng16.png",
       "readTime": "2 min read",
-      "reactions": 37
+      "reactions": 38
     },
     {
       "id": "devto-5032798",
@@ -494,7 +507,7 @@
       "publishedAt": "2026-11-23T13:19:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
       "readTime": "13 min read",
-      "reactions": 50
+      "reactions": 49
     },
     {
       "id": "devto-5091929",
@@ -559,7 +572,7 @@
       "publishedAt": "2026-11-20T16:28:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
       "readTime": "4 min read",
-      "reactions": 64
+      "reactions": 65
     },
     {
       "id": "devto-5081870",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
       "readTime": "6 min read",
       "reactions": 255
-    },
-    {
-      "id": "devto-5062446",
-      "title": "Part 6: The Walkthrough That Only Worked on My Machine",
-      "summary": "This is Part 6 of a series building an HL7 v2-to-FHIR R4 interoperability service in public. The...",
-      "url": "https://dev.to/ndcodes/part-6-the-walkthrough-that-only-worked-on-my-machine-15e8",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-18T06:43:15Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3f1ropjeo5nj9o1j3vxo.png",
-      "readTime": "12 min read",
-      "reactions": 25
     }
   ]
 }
