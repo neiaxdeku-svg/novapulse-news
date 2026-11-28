@@ -1,11 +1,50 @@
 {
-  "updatedAt": "2026-11-28T06:56:40.563Z",
+  "updatedAt": "2026-11-28T12:48:48.575Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50676752",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "summary": "Discussion with 9 upvotes and 1 comments on Hacker News.",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-28T11:57:04.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 9
+    },
+    {
+      "id": "hn-50676672",
+      "title": "Farewell",
+      "summary": "Discussion with 170 upvotes and 39 comments on Hacker News.",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T11:42:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 170
+    },
+    {
+      "id": "hn-50674452",
+      "title": "Knuth: Moratorium on Error Reports",
+      "summary": "Discussion with 182 upvotes and 92 comments on Hacker News.",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-28T03:49:21.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 182
+    },
+    {
       "id": "hn-50674218",
       "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
-      "summary": "Discussion with 149 upvotes and 11 comments on Hacker News.",
+      "summary": "Discussion with 412 upvotes and 102 comments on Hacker News.",
       "url": "https://unkernel.dev",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,12 +52,12 @@
       "publishedAt": "2026-11-28T03:19:20.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 149
+      "reactions": 412
     },
     {
       "id": "hn-50672565",
       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "summary": "Discussion with 295 upvotes and 117 comments on Hacker News.",
+      "summary": "Discussion with 461 upvotes and 168 comments on Hacker News.",
       "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -26,38 +65,12 @@
       "publishedAt": "2026-11-27T23:06:29.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 295
-    },
-    {
-      "id": "hn-50672521",
-      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
-      "summary": "Discussion with 84 upvotes and 30 comments on Hacker News.",
-      "url": "https://tabernet.es/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T23:00:30.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 84
-    },
-    {
-      "id": "hn-50672008",
-      "title": "9/UX: a Macintosh-inspired desktop for 9front",
-      "summary": "Discussion with 108 upvotes and 26 comments on Hacker News.",
-      "url": "https://progrium.github.io/9ux/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T21:48:14.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 108
+      "reactions": 461
     },
     {
       "id": "hn-50669765",
       "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "summary": "Discussion with 274 upvotes and 88 comments on Hacker News.",
+      "summary": "Discussion with 325 upvotes and 106 comments on Hacker News.",
       "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -65,12 +78,12 @@
       "publishedAt": "2026-11-27T18:02:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 274
+      "reactions": 325
     },
     {
       "id": "hn-50668145",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "summary": "Discussion with 489 upvotes and 258 comments on Hacker News.",
+      "summary": "Discussion with 548 upvotes and 290 comments on Hacker News.",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -78,25 +91,12 @@
       "publishedAt": "2026-11-27T15:40:31.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 489
-    },
-    {
-      "id": "hn-50667726",
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "summary": "Discussion with 356 upvotes and 119 comments on Hacker News.",
-      "url": "https://bouncemarket.minhanhday.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T15:01:50.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 356
+      "reactions": 548
     },
     {
       "id": "hn-50666724",
       "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
-      "summary": "Discussion with 23 upvotes and 3 comments on Hacker News.",
+      "summary": "Discussion with 95 upvotes and 25 comments on Hacker News.",
       "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -104,7 +104,7 @@
       "publishedAt": "2026-11-27T13:30:20.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 23
+      "reactions": 95
     },
     {
       "id": "devto-5131295",
@@ -117,20 +117,7 @@
       "publishedAt": "2026-11-27T09:12:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7920vprngowwntqoxtz.gif",
       "readTime": "30 min read",
-      "reactions": 32
-    },
-    {
-      "id": "hn-50662313",
-      "title": "Citroën Hydraulic System",
-      "summary": "Discussion with 169 upvotes and 54 comments on Hacker News.",
-      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T03:10:19.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 169
+      "reactions": 33
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -172,22 +159,9 @@
       "reactions": 100
     },
     {
-      "id": "hn-50657392",
-      "title": "First images of the impact of DART asteroid deflection experiment",
-      "summary": "Discussion with 204 upvotes and 60 comments on Hacker News.",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-26T17:24:37.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 204
-    },
-    {
       "id": "hn-50657346",
       "title": "The Balatro Timeline",
-      "summary": "Discussion with 246 upvotes and 56 comments on Hacker News.",
+      "summary": "Discussion with 424 upvotes and 116 comments on Hacker News.",
       "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -195,7 +169,7 @@
       "publishedAt": "2026-11-26T17:20:27.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 246
+      "reactions": 424
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -224,6 +198,19 @@
       "reactions": 100
     },
     {
+      "id": "hn-50655389",
+      "title": "Signals",
+      "summary": "Discussion with 19 upvotes and 7 comments on Hacker News.",
+      "url": "https://www.quarter--mile.com/Signals",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T14:00:05.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 19
+    },
+    {
       "id": "devto-5124143",
       "title": "From a feed full of Fable 5.2 demos to a 20-episode Indian epic: how I built \"The Eighteen Days\"",
       "summary": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥  You have a right to...",
@@ -247,7 +234,7 @@
       "publishedAt": "2026-11-26T09:02:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiokr8xrxb7kgmfnk1h7s.jpg",
       "readTime": "5 min read",
-      "reactions": 31
+      "reactions": 32
     },
     {
       "id": "devto-5120802",
@@ -260,7 +247,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 101
+      "reactions": 102
     },
     {
       "id": "devto-5108945",
@@ -273,12 +260,12 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 85
+      "reactions": 91
     },
     {
       "id": "hn-50650253",
       "title": "Sydney Fire Ant Infestation",
-      "summary": "Discussion with 37 upvotes and 12 comments on Hacker News.",
+      "summary": "Discussion with 71 upvotes and 45 comments on Hacker News.",
       "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -286,7 +273,20 @@
       "publishedAt": "2026-11-26T01:33:02.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 37
+      "reactions": 71
+    },
+    {
+      "id": "hn-50648760",
+      "title": "Coherent Energy Transformations: What elements can you make?",
+      "summary": "Discussion with 15 upvotes and 8 comments on Hacker News.",
+      "url": "https://starfire.tech/shock/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-25T22:51:08.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 15
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -369,7 +369,7 @@
     {
       "id": "hn-50643158",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "summary": "Discussion with 404 upvotes and 256 comments on Hacker News.",
+      "summary": "Discussion with 468 upvotes and 297 comments on Hacker News.",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -377,7 +377,7 @@
       "publishedAt": "2026-11-25T15:16:53.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 404
+      "reactions": 468
     },
     {
       "id": "devto-5114865",
@@ -390,7 +390,7 @@
       "publishedAt": "2026-11-25T13:14:24Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11es4k88vaf17kf0ahu.png",
       "readTime": "11 min read",
-      "reactions": 36
+      "reactions": 42
     },
     {
       "id": "devto-5113886",
@@ -421,7 +421,7 @@
     {
       "id": "hn-50632052",
       "title": "Loom seamlessly combines weaving, knitting and braiding",
-      "summary": "Discussion with 13 upvotes and 0 comments on Hacker News.",
+      "summary": "Discussion with 168 upvotes and 19 comments on Hacker News.",
       "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -429,20 +429,7 @@
       "publishedAt": "2026-11-24T18:10:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 13
-    },
-    {
-      "id": "hn-50631823",
-      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
-      "summary": "Discussion with 79 upvotes and 17 comments on Hacker News.",
-      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-24T17:55:27.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 79
+      "reactions": 168
     },
     {
       "id": "devto-5109914",
@@ -468,7 +455,20 @@
       "publishedAt": "2026-11-24T16:30:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffpv8z3hlxeu12fq22xbh.jpg",
       "readTime": "5 min read",
-      "reactions": 62
+      "reactions": 65
+    },
+    {
+      "id": "hn-50628391",
+      "title": "Swapping Jolt's sorted collections to a B+tree",
+      "summary": "Discussion with 6 upvotes and 1 comments on Hacker News.",
+      "url": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T14:06:58.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 6
     },
     {
       "id": "devto-5105841",
@@ -507,7 +507,7 @@
       "publishedAt": "2026-11-23T13:19:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
       "readTime": "13 min read",
-      "reactions": 49
+      "reactions": 50
     },
     {
       "id": "devto-5091929",
@@ -534,6 +534,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbsnz7j5h5wxcobyj9vm.png",
       "readTime": "9 min read",
       "reactions": 105
+    },
+    {
+      "id": "devto-5089186",
+      "title": "Beyond Aurora: Sub-20ms Real-Time Payment Fraud & Vector Search with Google Cloud AlloyDB, SCaNN, and Gemini",
+      "summary": "1. Starting from Zero: The 50-Millisecond Coffee Mystery   Imagine you are standing at a...",
+      "url": "https://dev.to/gde/beyond-aurora-sub-20ms-real-time-payment-fraud-vector-search-with-google-cloud-alloydb-scann-ani",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
+      "category": "ai",
+      "publishedAt": "2026-11-21T16:15:54Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpadfaentfm28632ec3zy.png",
+      "readTime": "50 min read",
+      "reactions": 36
     },
     {
       "id": "devto-5080715",
@@ -572,7 +585,7 @@
       "publishedAt": "2026-11-20T16:28:49Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fha5ti01f54tg2zar52fk.png",
       "readTime": "4 min read",
-      "reactions": 65
+      "reactions": 66
     },
     {
       "id": "devto-5081870",
@@ -611,7 +624,7 @@
       "publishedAt": "2026-11-20T05:31:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaykgc6y8kkun5ps5gam.jpg",
       "readTime": "21 min read",
-      "reactions": 34
+      "reactions": 39
     },
     {
       "id": "devto-5076491",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxnvlq05rqztkqdg64see.png",
       "readTime": "4 min read",
       "reactions": 91
-    },
-    {
-      "id": "devto-5060452",
-      "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
-      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-18T08:32:45Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh2u8fbzz30f3587urp83.png",
-      "readTime": "6 min read",
-      "reactions": 255
     }
   ]
 }
