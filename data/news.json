@@ -1,11 +1,89 @@
 {
-  "updatedAt": "2026-11-27T18:46:56.115Z",
+  "updatedAt": "2026-11-28T00:54:26.440Z",
   "totalArticles": 55,
   "articles": [
     {
+      "id": "hn-50672565",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "summary": "Discussion with 35 upvotes and 9 comments on Hacker News.",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T23:06:29.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 35
+    },
+    {
+      "id": "hn-50672521",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "summary": "Discussion with 24 upvotes and 8 comments on Hacker News.",
+      "url": "https://tabernet.es/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T23:00:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 24
+    },
+    {
+      "id": "hn-50672142",
+      "title": "Source Control from Hell",
+      "summary": "Discussion with 49 upvotes and 36 comments on Hacker News.",
+      "url": "https://frantic.im/git/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T22:06:44.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 49
+    },
+    {
+      "id": "hn-50672008",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "summary": "Discussion with 62 upvotes and 10 comments on Hacker News.",
+      "url": "https://progrium.github.io/9ux/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T21:48:14.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 62
+    },
+    {
+      "id": "hn-50670855",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "Discussion with 247 upvotes and 131 comments on Hacker News.",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T19:42:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 247
+    },
+    {
+      "id": "hn-50670841",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "summary": "Discussion with 55 upvotes and 10 comments on Hacker News.",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-27T19:40:33.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 55
+    },
+    {
       "id": "hn-50669765",
       "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "summary": "Discussion with 7 upvotes and 0 comments on Hacker News.",
+      "summary": "Discussion with 221 upvotes and 70 comments on Hacker News.",
       "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -13,25 +91,12 @@
       "publishedAt": "2026-11-27T18:02:45.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 7
-    },
-    {
-      "id": "hn-50669561",
-      "title": "I'm Scared of AI",
-      "summary": "Discussion with 117 upvotes and 115 comments on Hacker News.",
-      "url": "https://thesoapbox.email/archive/3",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-27T17:45:31.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 117
+      "reactions": 221
     },
     {
       "id": "hn-50668145",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "summary": "Discussion with 165 upvotes and 94 comments on Hacker News.",
+      "summary": "Discussion with 412 upvotes and 211 comments on Hacker News.",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -39,25 +104,12 @@
       "publishedAt": "2026-11-27T15:40:31.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 165
-    },
-    {
-      "id": "hn-50667989",
-      "title": "False computer-checked proofs",
-      "summary": "Discussion with 98 upvotes and 39 comments on Hacker News.",
-      "url": "https://cr.yp.to/proofs/falseccp.html",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T15:26:09.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 98
+      "reactions": 412
     },
     {
       "id": "hn-50667726",
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "summary": "Discussion with 247 upvotes and 74 comments on Hacker News.",
+      "summary": "Discussion with 323 upvotes and 111 comments on Hacker News.",
       "url": "https://bouncemarket.minhanhday.com/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -65,124 +117,46 @@
       "publishedAt": "2026-11-27T15:01:50.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 247
+      "reactions": 323
     },
     {
-      "id": "hn-50667452",
-      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
-      "summary": "Discussion with 28 upvotes and 4 comments on Hacker News.",
-      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "gadgets",
-      "publishedAt": "2026-11-27T14:37:02.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 28
-    },
-    {
-      "id": "hn-50667062",
-      "title": "Making a 3D fantasy map like a 16th-Century atlas",
-      "summary": "Discussion with 46 upvotes and 6 comments on Hacker News.",
-      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "id": "hn-50667371",
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "summary": "Discussion with 69 upvotes and 11 comments on Hacker News.",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-27T14:02:52.000Z",
+      "publishedAt": "2026-11-27T14:30:20.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 46
+      "reactions": 69
     },
     {
-      "id": "hn-50666375",
-      "title": "US Air Force's cloud computing platform hacked",
-      "summary": "Discussion with 238 upvotes and 142 comments on Hacker News.",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
+      "id": "devto-5131295",
+      "title": "How I built my own OS",
+      "summary": "I run my own operating system now. Not a fork with a new wallpaper and a different logo in the...",
+      "url": "https://dev.to/cloudwerx/how-i-built-my-own-os-942",
+      "source": "Dev Community",
+      "sourceUrl": "https://dev.to",
       "category": "ai",
-      "publishedAt": "2026-11-27T12:54:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 238
+      "publishedAt": "2026-11-27T09:12:07Z",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7920vprngowwntqoxtz.gif",
+      "readTime": "30 min read",
+      "reactions": 29
     },
     {
-      "id": "hn-50665968",
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "summary": "Discussion with 186 upvotes and 80 comments on Hacker News.",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "id": "hn-50662313",
+      "title": "Citroën Hydraulic System",
+      "summary": "Discussion with 128 upvotes and 45 comments on Hacker News.",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
       "category": "dev",
-      "publishedAt": "2026-11-27T12:08:51.000Z",
+      "publishedAt": "2026-11-27T03:10:19.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 186
-    },
-    {
-      "id": "hn-50665920",
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "summary": "Discussion with 159 upvotes and 133 comments on Hacker News.",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "dev",
-      "publishedAt": "2026-11-27T12:03:11.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 159
-    },
-    {
-      "id": "hn-50664325",
-      "title": "Claude sabotaging ML research tasks?",
-      "summary": "Discussion with 380 upvotes and 191 comments on Hacker News.",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-27T08:28:08.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 380
-    },
-    {
-      "id": "hn-50663595",
-      "title": "Group chat where your AI talks behind your back",
-      "summary": "Discussion with 602 upvotes and 253 comments on Hacker News.",
-      "url": "https://construct22.com/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-27T06:44:34.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 602
-    },
-    {
-      "id": "hn-50663089",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "summary": "Discussion with 253 upvotes and 261 comments on Hacker News.",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-27T05:22:06.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 253
-    },
-    {
-      "id": "hn-50660180",
-      "title": "AI made self-hosting fun again",
-      "summary": "Discussion with 1007 upvotes and 476 comments on Hacker News.",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com",
-      "category": "ai",
-      "publishedAt": "2026-11-26T21:47:45.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "readTime": "3 min read",
-      "reactions": 1007
+      "reactions": 128
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -226,7 +200,7 @@
     {
       "id": "hn-50657392",
       "title": "First images of the impact of DART asteroid deflection experiment",
-      "summary": "Discussion with 128 upvotes and 41 comments on Hacker News.",
+      "summary": "Discussion with 184 upvotes and 55 comments on Hacker News.",
       "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com",
@@ -234,7 +208,20 @@
       "publishedAt": "2026-11-26T17:24:37.000Z",
       "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
       "readTime": "3 min read",
-      "reactions": 128
+      "reactions": 184
+    },
+    {
+      "id": "hn-50657346",
+      "title": "The Balatro Timeline",
+      "summary": "Discussion with 19 upvotes and 1 comments on Hacker News.",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-26T17:20:27.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 19
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -273,7 +260,7 @@
       "publishedAt": "2026-11-26T09:02:00Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiokr8xrxb7kgmfnk1h7s.jpg",
       "readTime": "5 min read",
-      "reactions": 31
+      "reactions": 30
     },
     {
       "id": "devto-5120802",
@@ -286,7 +273,7 @@
       "publishedAt": "2026-11-26T08:16:05Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkec3yfhirrh3b4h4baqj.png",
       "readTime": "3 min read",
-      "reactions": 99
+      "reactions": 100
     },
     {
       "id": "devto-5108945",
@@ -299,7 +286,7 @@
       "publishedAt": "2026-11-26T08:03:09Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhjra6otsf5yefyzhgnj.jpg",
       "readTime": "3 min read",
-      "reactions": 77
+      "reactions": 82
     },
     {
       "id": "tc-aHR0cHM6Ly90ZWNo",
@@ -380,6 +367,19 @@
       "reactions": 100
     },
     {
+      "id": "hn-50643158",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "Discussion with 287 upvotes and 175 comments on Hacker News.",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "ai",
+      "publishedAt": "2026-11-25T15:16:53.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 287
+    },
+    {
       "id": "devto-5114865",
       "title": "Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gate Test",
       "summary": "I tested Strands Decider 2B as an AI agent tool gate on 16 refund cases against Nova Pro as a judge: accuracy, thresholds, injection, latency, cost.",
@@ -417,6 +417,19 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4klmrn7fetfysknbgcj.webp",
       "readTime": "10 min read",
       "reactions": 78
+    },
+    {
+      "id": "hn-50631823",
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "summary": "Discussion with 31 upvotes and 6 comments on Hacker News.",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "category": "dev",
+      "publishedAt": "2026-11-24T17:55:27.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "readTime": "3 min read",
+      "reactions": 31
     },
     {
       "id": "devto-5109914",
@@ -481,7 +494,7 @@
       "publishedAt": "2026-11-23T13:19:07Z",
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uuq7fbkp06wlff82efc.png",
       "readTime": "13 min read",
-      "reactions": 47
+      "reactions": 50
     },
     {
       "id": "devto-5091929",
@@ -703,19 +716,6 @@
       "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3f1ropjeo5nj9o1j3vxo.png",
       "readTime": "12 min read",
       "reactions": 25
-    },
-    {
-      "id": "devto-5060325",
-      "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
-      "summary": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
-      "url": "https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02",
-      "source": "Dev Community",
-      "sourceUrl": "https://dev.to",
-      "category": "ai",
-      "publishedAt": "2026-11-17T23:18:41Z",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2bv4d1ae2jaj0f9b5gw.png",
-      "readTime": "2 min read",
-      "reactions": 27
     }
   ]
 }
